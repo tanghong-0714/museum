@@ -1,0 +1,28 @@
+#experience[data-theme=celadon]{--gold:#d0ad86;--text:#e0ebe0;--muted:#9cb6aa;--line:#b1d0b227;background:radial-gradient(ellipse at 53% 43%,#335b4b 0,#18392f 39%,#0a1918 83%)}
+[data-theme=celadon] :is(.porcelain-current,.porcelain-flower,.silk-waves,.water-rings,.water-light){display:none}
+[data-theme=celadon] .aurora-one{background:radial-gradient(ellipse at 60% 20%,#b8d7b538,transparent 68%)}
+[data-theme=celadon] .aurora-two{background:radial-gradient(ellipse,#bd885729,transparent 65%)}
+[data-theme=celadon] .light-shaft{background:conic-gradient(from 145deg at 55% 0%,transparent,#b2d8b81e 15deg,transparent 32deg)}
+[data-theme=celadon] .blue-bloom{background:radial-gradient(ellipse,#99c1a62a,transparent 68%)}
+.celadon-glaze{position:absolute;inset:0;overflow:hidden;mask-image:linear-gradient(transparent 5%,#000 25%,#000 75%,transparent 96%)}
+.celadon-glaze i{position:absolute;left:28%;top:12%;width:45%;height:85%;border:1px solid #b5d4b630;border-radius:45% 55% 61% 39% / 40% 37% 63% 60%;box-shadow:inset 22px -18px 65px #b5ce950b;animation:celadon-flow 23s ease-in-out infinite alternate}
+.celadon-glaze i:nth-child(2){left:21%;top:5%;width:58%;height:104%;border-color:#a9cbaa1b;animation-delay:-9s;animation-duration:32s}
+.celadon-glaze i:nth-child(3){left:13%;top:-5%;width:75%;height:125%;border-color:#bdd1ac12;animation-delay:-16s;animation-duration:39s}
+.celadon-glaze b{position:absolute;left:33%;bottom:9%;width:38%;height:19%;background:radial-gradient(ellipse,#c8874839,transparent 70%);filter:blur(20px);animation:celadon-ember 11s ease-in-out infinite alternate}
+.celadon-glaze span{position:absolute;inset:-20%;background:linear-gradient(116deg,transparent 39%,#d5e3c208 44%,#bddec319 47%,transparent 52%);animation:celadon-sheen 22s ease-in-out infinite alternate}
+@keyframes celadon-flow{from{transform:rotate(-9deg) scale(.96);opacity:.45}to{transform:rotate(8deg) scale(1.04);opacity:.85}}
+@keyframes celadon-ember{from{opacity:.25;transform:scale(.9)}to{opacity:.75;transform:scale(1.08)}}
+@keyframes celadon-sheen{from{transform:translateX(-10%);opacity:.3}to{transform:translateX(12%);opacity:.8}}
+[data-theme=celadon] .introduction h1{font-size:clamp(25px,2.25vw,34px);letter-spacing:1px;text-wrap:balance}
+[data-theme=celadon] :is(.introduction .eyebrow,.introduction h1 span){color:#abc8af}
+[data-theme=celadon] .hero-description{color:#acc1ae}[data-theme=celadon] .hero-tags{color:#c1b598}
+[data-theme=celadon] .title-rule{background:linear-gradient(90deg,#d0b08a,#94b79c)}
+[data-theme=celadon] .ambient-dust i{background:#bed6b3;box-shadow:0 0 9px #a7cd9d66}
+[data-theme=celadon] .ambient-dust i:nth-child(4n){background:#d5a16e;box-shadow:0 0 9px #c58d6077}
+[data-theme=celadon] :is(.story-panel,.detail){background:#18352cf2}
+[data-theme=celadon] .chat-composer{background:#22433488}
+[data-theme=celadon] .speech-copy{color:#deead8}
+[data-theme=celadon] .experience-nav{background:linear-gradient(0deg,#284b3677,transparent)}
+[data-theme=celadon] :is(#artifact-select,.view-tools button){background:#1b352cbb;color:#cfdbc3}
+@media(max-width:760px){[data-theme=celadon] .introduction h1{font-size:24px}.celadon-glaze i{left:15%;top:25%;width:72%;height:59%}.celadon-glaze i:nth-child(2){left:3%;top:19%;width:94%;height:75%}.celadon-glaze i:nth-child(3){left:-13%;top:12%;width:126%;height:92%}.celadon-glaze b{left:20%;width:60%}[data-theme=celadon] .introduction .eyebrow{font-size:8px;letter-spacing:.4px}}
+@media(prefers-reduced-motion:reduce){.celadon-glaze :is(i,b,span){animation:none}}

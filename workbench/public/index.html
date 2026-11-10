@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="本地验证 Tripo 国内 API 密钥与余额查询。"><title>拾遗 · 服务连接设置</title><link rel="icon" href="data:,"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body>
+  <main>
+    <header><div class="brand"><span class="logo">拾</span><span>拾遗 <small>服务设置</small></span></div><a class="pill" href="/images">返回图像工作台 →</a></header>
+    <section class="intro"><p class="eyebrow">LOCAL SERVICE / SETTINGS</p><h1>服务连接设置</h1><p class="subtitle">管理本机 Tripo 建模服务。图像与视觉分析的连接检查位于图像工作台。</p></section>
+    <section class="card">
+      <div class="card-heading"><div><p class="eyebrow">国内版 · V3</p><h2>检测 API 连接</h2></div><span class="free">不生成模型</span></div>
+      <form id="connect-form">
+        <label for="api-key">Tripo API Key</label>
+        <input id="api-key" name="apiKey" type="password" autocomplete="off" spellcheck="false" placeholder="在此粘贴国内版 API Key" aria-describedby="key-help">
+        <p id="key-help" class="help">认证通过后，密钥保存到本机项目的 .env；已加入 Git 忽略，不保存在浏览器存储中。</p>
+        <div class="actions"><button id="check" type="submit">检测连接 <span>↗</span></button><button id="clear" class="secondary" type="button">清除密钥</button></div>
+      </form>
+      <div id="result" class="result neutral" role="status" aria-live="polite"><span id="status-label">等待检测</span><p id="message">填入密钥后，查询账户余额以验证连接。本测试不消耗建模积分。</p></div>
+      <dl class="metrics"><div><dt>可用 API 积分</dt><dd id="balance">—</dd></div><div><dt>冻结积分</dt><dd id="frozen">—</dd></div><div><dt>请求耗时</dt><dd id="duration">—</dd></div><div><dt>HTTP / 业务码</dt><dd id="codes">—</dd></div></dl>
+      <p id="checked-at" class="help timestamp">尚未发起请求</p><p id="save-state" class="help"></p>
+    </section>
+    <section class="details"><div><span class="step">01</span><h3>创建国内密钥</h3><p>前往开发者平台的 API 密钥页，创建后复制完整密钥。</p><a href="https://developers.tripo3d.com/zh/keys" target="_blank" rel="noreferrer">打开密钥管理 ↗</a></div><div><span class="step">02</span><h3>验证真实响应</h3><p>由本机服务调用余额接口，显示认证结果、余额和耗时。</p><code>GET /v3/account/balance</code></div><div><span class="step">03</span><h3>连接后再建模</h3><p>通过后再接图片或文字生成。本页不会提交任何付费生成任务。</p><a href="https://developers.tripo3d.com/zh/docs/quick-start" target="_blank" rel="noreferrer">查看官方文档 ↗</a></div></section>
+    <footer><span>API ENDPOINT</span><code>https://openapi.tripo3d.com/v3/account/balance</code><p>API 积分与 Tripo Studio 工作台积分分别计费。</p></footer>
+  </main>
+</body>
+</html>
+

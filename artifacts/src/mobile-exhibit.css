@@ -1,0 +1,57 @@
+/* On phones, reserve actual rows for content, canvas and controls. */
+.stage-note>.touch-instructions{display:none}
+.stage-note>.desktop-instructions{display:inline;font:inherit;color:inherit;letter-spacing:inherit;margin:0}
+@media(max-width:760px){
+ #experience{height:100svh;min-height:620px}
+ #experience .header{height:64px;margin:0 16px;gap:10px}
+ #experience .header-actions{gap:8px;min-width:0}
+ #experience .brand-title-art{width:80px}
+ #experience #artifact-select{width:clamp(82px,26vw,110px);max-width:none;min-height:44px;font-size:10px;padding:9px}
+ #experience #ambient-toggle{width:32px;min-height:44px;flex:none;padding:0;font-size:0}
+ #experience #ambient-toggle:after{content:'◌';font-size:24px;color:var(--muted)}
+ #experience #ambient-toggle[aria-pressed=true]:after{opacity:.45}
+ #experience #return-hall{min-height:44px;display:inline-flex;align-items:center;white-space:nowrap;font-size:10px;letter-spacing:0}
+ #experience[data-mode=view]{display:grid;grid-template-rows:64px auto minmax(170px,1fr) 26px 70px calc(24px + env(safe-area-inset-bottom));}
+ #experience[data-mode=view]>.header{grid-row:1}
+ #experience[data-mode=view] .introduction{grid-row:2;position:relative;inset:auto;width:auto;margin:12px 22px 0;padding:0}
+ #experience[data-mode=view] .introduction .eyebrow{margin:0 102px 9px 0;min-height:28px;display:flex;align-items:center;gap:4px;font-size:8px;letter-spacing:.5px}
+ #experience[data-mode=view] .introduction h1{font-size:clamp(22px,6.2vw,29px);line-height:1.35;letter-spacing:1px;margin:0}
+ #experience[data-mode=view] .introduction h1 span{font-size:7px;line-height:1.5;letter-spacing:2px;margin-top:7px}
+ #experience[data-mode=view] .title-rule{width:24px;margin:12px 0 9px}
+ #experience[data-mode=view] .hero-poem{font-size:11px;line-height:1.7;letter-spacing:.3px;margin:0}
+ #experience[data-mode=view] .hero-description{font-size:10px;line-height:1.8;margin:7px 0 0;max-width:none}
+ #experience[data-mode=view] .hero-tags{display:none}
+ #experience[data-mode=view] #stage{grid-row:3;position:relative;inset:auto;width:auto;min-height:0;margin:4px 12px 0}
+ #experience[data-mode=view] #canvas{width:100%;height:calc(100% - 96px)}
+ #experience[data-mode=view] .view-tools{left:6px;right:6px;bottom:10px;height:44px;justify-content:center;align-items:center;flex-direction:row;gap:8px}
+ #experience[data-mode=view] .view-tools button{flex:none;width:44px;height:44px;min-height:44px}
+ #experience[data-mode=view] .view-tools #awaken-toggle{min-width:108px;padding:0 12px;font-size:12px;letter-spacing:0}
+ #experience[data-mode=view] .view-tools #hotspot-toggle{width:auto;min-width:82px;padding:0 12px;font-size:12px}
+ #experience[data-mode=view] #performance-status{left:0;right:0;bottom:calc(100% + 10px);min-height:20px;line-height:20px;text-align:center;font-size:10px;letter-spacing:.5px;white-space:normal}
+ #experience[data-mode=view] .stage-note{grid-row:4;position:relative;inset:auto;margin:0;align-self:start;font-size:10px;line-height:20px;letter-spacing:1px;width:auto}
+ #experience[data-mode=view] .stage-note>span{display:none}
+ #experience[data-mode=view] .stage-note .touch-instructions{display:inline;font:inherit;color:inherit;letter-spacing:inherit;margin:0}
+ #experience[data-mode=view] .experience-nav{grid-row:5;position:relative;inset:auto;transform:none;width:auto;height:64px;margin:0 12px;align-self:center;display:grid;grid-template-columns:repeat(5,minmax(0,1fr))}
+ #experience .experience-nav button{min-width:0;min-height:52px;padding:6px 2px;font-size:11px;letter-spacing:0;gap:5px}
+ #experience:not([data-mode=view]) :is(.view-tools,.stage-note){display:none}
+ #experience[data-mode=story] .story-panel{top:84px;bottom:112px}
+ #experience[data-mode=view] .bottom-line{grid-row:6;position:relative;inset:auto;align-self:start;margin:5px 20px 0;font-size:6px;line-height:14px;letter-spacing:1px}
+ #experience[data-mode=view] .manifest-status{bottom:calc(145px + env(safe-area-inset-bottom));left:16px;right:16px;width:auto;font-size:10px;pointer-events:none}
+ #experience[data-mode=view] #stage:after{bottom:100px}
+ #experience[data-mode=view] .detail,#experience[data-theme=pipa][data-mode=view] .detail{top:auto;bottom:calc(220px + env(safe-area-inset-bottom));left:16px;right:16px;max-height:min(42svh,320px);width:auto;background:color-mix(in srgb,var(--text) 4%,#18212b 96%)}
+ body:has(#experience) .pp-launcher{top:76px;right:20px;min-height:36px;padding:7px 12px;font-size:10px;letter-spacing:.5px}
+ body:has(#experience:not([data-mode=view])) .pp-launcher{display:none}
+}
+@media(max-width:360px){
+ #experience .header{margin:0 12px;gap:6px}
+ #experience .brand-title-art{width:70px}
+ #experience .header-actions{gap:5px}
+ #experience[data-mode=view] .view-tools{gap:6px;left:0;right:0}
+ #experience[data-mode=view] .view-tools #awaken-toggle{min-width:100px;padding:0 8px}
+ #experience[data-mode=view] .view-tools #hotspot-toggle{min-width:76px;padding:0 8px}
+}
+@media(max-width:760px) and (max-height:700px){
+ #experience[data-mode=view] .hero-description{display:none}
+ #experience[data-mode=view] .title-rule{margin:9px 0 7px}
+ #experience[data-mode=view] .introduction{margin-top:8px}
+}

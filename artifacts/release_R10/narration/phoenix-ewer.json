@@ -1,0 +1,217 @@
+{
+  "artifact": "phoenix-ewer",
+  "title": "凤首扁壶",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "6349d3e42116979fe15c",
+      "section": "view",
+      "label": "凤首扁壶",
+      "text": "一器青花，藏一只欲飞的凤凰。",
+      "url": "/audio/narration/6349d3e42116979fe15c.mp3"
+    },
+    {
+      "id": "4b3776a268879433b097",
+      "section": "view",
+      "label": "观器引导",
+      "text": "凤首昂起，卷尾成柄。双翼轻拢，将花影与风留在瓷上。",
+      "url": "/audio/narration/4b3776a268879433b097.mp3"
+    },
+    {
+      "id": "b0b86a488076b52abeb0",
+      "section": "view",
+      "label": "凤首壶流",
+      "text": "先沿着壶肩看向前方：凤颈抬起，鸟喙顺势成为出水的壶流。一条线既交代了器物的用途，也留下了昂首的姿态。转到侧面，凤首、细颈与饱满壶腹之间的大小对比会更清楚。",
+      "url": "/audio/narration/b0b86a488076b52abeb0.mp3"
+    },
+    {
+      "id": "33d9730796eaafec3047",
+      "section": "view",
+      "label": "凤首壶流 · 试着这样看",
+      "text": "轻轻转到侧面，试着用目光描一遍“壶肩—凤颈—鸟喙”的轮廓。",
+      "url": "/audio/narration/33d9730796eaafec3047.mp3"
+    },
+    {
+      "id": "bdd190550c5bfeb74ea7",
+      "section": "view",
+      "label": "卷曲壶柄",
+      "text": "另一端的壶柄像一笔回旋的线，把凤尾卷成了可以穿过手指的空间。别只看外缘，柄孔里的留白同样参与了造型；它与前方伸出的凤首，一收一放，让扁圆壶身显得轻巧。",
+      "url": "/audio/narration/bdd190550c5bfeb74ea7.mp3"
+    },
+    {
+      "id": "ef8acc96d283089ee3bc",
+      "section": "view",
+      "label": "卷曲壶柄 · 试着这样看",
+      "text": "从斜侧面看柄孔，比较卷曲末端与壶身相接的位置。",
+      "url": "/audio/narration/ef8acc96d283089ee3bc.mp3"
+    },
+    {
+      "id": "0820421bd2ff059bdbc3",
+      "section": "view",
+      "label": "青花纹饰",
+      "text": "白瓷像展开的纸，青花沿着鼓起的壶腹延伸。远看先读出花与羽的整体节奏，靠近再辨认浓淡与线条。纹样会随着曲面转向、收窄，仿佛一幅需要你亲手展开的画。",
+      "url": "/audio/narration/0820421bd2ff059bdbc3.mp3"
+    },
+    {
+      "id": "cf6d692e0b78e5dba694",
+      "section": "view",
+      "label": "青花纹饰 · 试着这样看",
+      "text": "缓慢转动壶身，找一处密集纹样，再比较旁边的白色留空。",
+      "url": "/audio/narration/cf6d692e0b78e5dba694.mp3"
+    },
+    {
+      "id": "3055c09811768ba75c85",
+      "section": "view",
+      "label": "短颈口沿",
+      "text": "目光回到壶肩上方，短颈把宽阔的腹部收束起来，口沿又轻轻向外打开。这里的细小转折很容易被凤首抢走注意，却决定了器物顶部的节奏，也让不同部位的纹饰有了分界。",
+      "url": "/audio/narration/3055c09811768ba75c85.mp3"
+    },
+    {
+      "id": "7c4318eec5b12f357d03",
+      "section": "view",
+      "label": "短颈口沿 · 试着这样看",
+      "text": "稍微抬高视角，看口沿、短颈与肩部怎样一层层衔接。",
+      "url": "/audio/narration/7c4318eec5b12f357d03.mp3"
+    },
+    {
+      "id": "e9b3f041ec48381e54de",
+      "section": "story",
+      "label": "青花里的故事",
+      "text": "一只凤凰，将飞翔的姿态留在了青花里。昂首是流，卷尾是柄，双翼垂向牡丹丛。从器形到纹饰，再到指间成形的泥，循着三段小故事，走近它的世界。",
+      "url": "/audio/narration/e9b3f041ec48381e54de.mp3"
+    },
+    {
+      "id": "2ec22025a451b9de72ba",
+      "section": "story",
+      "label": "看器形",
+      "text": "一只凤凰收拢双翼，停在了壶上。昂起的头化作壶流，卷起的尾成为壶柄；仿佛只等一双手将它轻轻托起，它便要再次振翅。",
+      "url": "/audio/narration/2ec22025a451b9de72ba.mp3"
+    },
+    {
+      "id": "54c30456e90897deb112",
+      "section": "story",
+      "label": "看器形 · 1",
+      "text": "若把这件元代青花壶看作一只暂歇的凤凰，它的姿态便有了故事：头颈向前探出，尾羽向后回旋，扁圆的身躯把两端轻轻连起。飞翔没有消失，只是被收进一道安静的轮廓。",
+      "url": "/audio/narration/54c30456e90897deb112.mp3"
+    },
+    {
+      "id": "a573dfa1aa41f0c6abe9",
+      "section": "story",
+      "label": "看器形 · 2",
+      "text": "想象一次缓缓的倾注：手握凤尾，壶身微侧，水从凤首流出。原本遥远的祥禽，忽然与人的动作有了呼应。再将壶放稳，它又停在那里，守着下一次相逢。",
+      "url": "/audio/narration/a573dfa1aa41f0c6abe9.mp3"
+    },
+    {
+      "id": "721e7dfc11d23ebf684f",
+      "section": "story",
+      "label": "看器形 · 说明",
+      "text": "“该壶以昂起的凤首作流” · “以卷起的凤尾作柄”",
+      "url": "/audio/narration/721e7dfc11d23ebf684f.mp3"
+    },
+    {
+      "id": "5df08b18ce8a3e174bba",
+      "section": "story",
+      "label": "读纹饰",
+      "text": "凤凰把双翼垂向壶身两侧，牡丹在下方铺开。青与白之间，像有一阵风经过：花枝轻摇，羽翼将展，一整个春天停在了瓷上。",
+      "url": "/audio/narration/5df08b18ce8a3e174bba.mp3"
+    },
+    {
+      "id": "e0b6a03be44197b9da36",
+      "section": "story",
+      "label": "读纹饰 · 1",
+      "text": "目光沿着青花向下走，先遇见凤身，再遇见垂向两侧的双翅，最后落入壶腹下方的牡丹丛。器物的弧面像一卷尚未展尽的画，转过一点，又露出一段花与羽的相逢。",
+      "url": "/audio/narration/e0b6a03be44197b9da36.mp3"
+    },
+    {
+      "id": "99189921e344739ff292",
+      "section": "story",
+      "label": "读纹饰 · 2",
+      "text": "不妨想象，凤凰正从花间掠过。羽尖带起的风尚未散去，花朵还留着摇动的姿态，画面便被留在了瓷面上。你转动壶身时，那场没有画出起点与终点的飞翔，又向前延续了一小段。",
+      "url": "/audio/narration/99189921e344739ff292.mp3"
+    },
+    {
+      "id": "776a5b1882502bb9a7c1",
+      "section": "story",
+      "label": "读纹饰 · 说明",
+      "text": "“凤身绘在圆形壶体上部，双翅垂至壶体两侧”",
+      "url": "/audio/narration/776a5b1882502bb9a7c1.mp3"
+    },
+    {
+      "id": "6a004ccef5d716e61cb7",
+      "section": "story",
+      "label": "知工艺",
+      "text": "成为凤凰之前，它是等待成形的泥。模制的凤首、手捏的卷柄、雕镶成型的壶身，在匠人的手中相遇，才有了这一身顾盼的姿态。",
+      "url": "/audio/narration/6a004ccef5d716e61cb7.mp3"
+    },
+    {
+      "id": "ef813ea3fc55f8a08988",
+      "section": "story",
+      "label": "知工艺 · 1",
+      "text": "把目光带回想象中的制瓷作坊：凤首借模具获得轮廓，卷柄在指间捏塑出弧度，扁圆的壶体以雕镶之法成形。各自成形的部分，还像一句话里尚未相连的字，等待着被琢成一个整体。",
+      "url": "/audio/narration/ef813ea3fc55f8a08988.mp3"
+    },
+    {
+      "id": "b544f740288b94444712",
+      "section": "story",
+      "label": "知工艺 · 2",
+      "text": "当凤首与壶肩相接，卷尾与壶身相连，一团泥便有了抬头的神情。匠人的手离开了，手留下的心思却仍在：让出水的地方成为鸟喙，让提握的地方成为凤尾，让一件日用之器，也藏得下一只欲飞的凤凰。",
+      "url": "/audio/narration/b544f740288b94444712.mp3"
+    },
+    {
+      "id": "132f82927892eeccc959",
+      "section": "story",
+      "label": "知工艺 · 说明",
+      "text": "“壶流采用模制成型，壶柄以手捏塑成型，壶体为雕镶成型法，最后琢成整体。”",
+      "url": "/audio/narration/132f82927892eeccc959.mp3"
+    },
+    {
+      "id": "14430657b7abee4c28e0",
+      "section": "story",
+      "label": "结语",
+      "text": "聚微光成器，听青花有声。",
+      "url": "/audio/narration/14430657b7abee4c28e0.mp3"
+    },
+    {
+      "id": "30628f406385ea71d1ec",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "从泥土抬起凤首，到青花落满羽翼，一只凤凰把春天留在身上，等你走近。",
+      "url": "/audio/narration/30628f406385ea71d1ec.mp3"
+    },
+    {
+      "id": "482acaaa6e5850bb55f2",
+      "section": "journey",
+      "label": "1271—1368 · 元代 · 史料里的一只凤凰",
+      "text": "1271—1368 · 元代。史料里的一只凤凰。首都博物馆将景德镇窑青花凤首扁壶标注为元代：昂起的凤首作流，卷起的凤尾作柄。昂首与卷尾之间，一只凤凰停在了青花里。",
+      "url": "/audio/narration/482acaaa6e5850bb55f2.mp3"
+    },
+    {
+      "id": "5fc95d766f428abc5437",
+      "section": "journey",
+      "label": "故事 · 初成 · 泥土第一次抬起头",
+      "text": "故事 · 初成。泥土第一次抬起头。在想象的作坊里，我还没有青花的衣裳。匠人的手将凤首与壶肩相接，我第一次有了昂首的姿态，也开始盼望一道属于自己的蓝。",
+      "url": "/audio/narration/5fc95d766f428abc5437.mp3"
+    },
+    {
+      "id": "159c0d6bd4980c5c8dea",
+      "section": "journey",
+      "label": "故事 · 相伴 · 将春天留在身上",
+      "text": "故事 · 相伴。将春天留在身上。想象一枝画笔经过，花与羽在我的身上相遇。我把它们收好，仿佛只要有人轻轻转动我，那个尚未散尽的春天便会再走一遍。",
+      "url": "/audio/narration/159c0d6bd4980c5c8dea.mp3"
+    },
+    {
+      "id": "cc82c6e9ba374cd501f5",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 在光中，与你重逢",
+      "text": "2026 · 数字相逢。在光中，与你重逢。凤首、卷柄与青花成为可以旋转观看的数字形象。你停下、靠近、发问，原先安静的轮廓便有了新的相逢。",
+      "url": "/audio/narration/cc82c6e9ba374cd501f5.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

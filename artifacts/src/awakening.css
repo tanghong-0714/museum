@@ -1,0 +1,15 @@
+.awakening-reply{position:absolute;left:50%;top:5%;transform:translateX(-50%);margin:0;padding:10px 18px;border:1px solid #dbbd8b50;border-radius:20px;background:#152b26ed;color:#eddfbc;white-space:nowrap;font:14px 'SimSun',serif;letter-spacing:2px;pointer-events:none;z-index:5}
+.bell-console{position:absolute;right:4%;top:25%;width:264px;padding:15px;border:1px solid #c7a66b66;border-radius:14px;background:#211e17ed;box-shadow:0 8px 28px #0003;z-index:8;color:#e0cda4}
+.bell-console-head{display:flex;align-items:center;justify-content:space-between;font:17px 'SimSun',serif}.bell-close{font-size:24px;width:32px;height:32px}.bell-instruction{font-size:11px;line-height:1.6;min-height:18px;margin:8px 0}.bell-pads{display:flex;gap:5px;justify-content:center}.bell-pads button{flex:1;min-width:0;min-height:44px;border:1px solid #b89a6d55;border-radius:7px;background:#69523333;font-size:13px}.bell-pads button[data-lit=true]{background:#b78b45;color:#fff4d9;box-shadow:0 0 15px #d6ae6244}
+.bell-console-actions{display:flex;justify-content:space-between;gap:4px;margin:8px 0}.bell-console-actions button{font-size:11px;min-height:36px;padding:5px;border-bottom:1px solid #b89a6d44}.bell-console small{display:block;text-align:center;font-size:9px;color:#aa9879}.bell-hit-layer{position:absolute;inset:0;pointer-events:none;z-index:5}.bell-hit{position:absolute;transform:translate(-50%,-50%);pointer-events:auto;width:34px;height:34px;border-radius:50%;border:1px solid #e4c88880;background:#342c1dcc;color:#e8d7a9;font-size:11px}.bell-hit[data-lit=true]{background:#d5aa55;color:#281a09;box-shadow:0 0 20px #e6bb6488}
+@media(max-width:760px){
+ .awakening-reply{top:0;max-width:95%;white-space:normal;text-align:center;font-size:12px;letter-spacing:1px}
+ #experience .bell-console{top:0;left:8px;right:8px;width:auto;padding:10px 12px}
+ #experience .bell-console-head>span{display:none}.bell-close{position:absolute;right:4px;top:0}.bell-console .bell-instruction{margin:0 24px 6px 0;font-size:10px}.bell-console .bell-console-actions{margin:5px 0 0}.bell-console .bell-console-actions button{min-height:32px}
+ #experience[data-theme=bells]:has(.bell-console:not([hidden])) #canvas{position:absolute;top:145px;height:calc(100% - 241px)}
+ .bell-hit{width:30px;height:30px}.bell-hit:before{content:'';position:absolute;inset:-7px}
+}
+
+.bell-keyboard-hint{font-size:10px;color:#c4ad83;text-align:center;margin:8px 0;letter-spacing:.5px}
+.bell-pads kbd{display:block;margin-top:3px;font:10px system-ui;color:#bea575}
+@media(max-width:760px){.bell-keyboard-hint,.bell-pads kbd{display:none}}

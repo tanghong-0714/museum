@@ -1,0 +1,25 @@
+.artifact-journey{padding:0 24px 0 28px;overflow:hidden;display:flex;flex-direction:column;width:min(390px,34vw)}
+.artifact-journey .panel-heading{flex:none;position:static;margin:0;padding:22px 0 4px;background:transparent;border-bottom:1px solid var(--line)}
+.artifact-journey .panel-heading h2{font-size:23px;letter-spacing:2px;margin-bottom:16px}
+.artifact-journey .eyebrow{font:9px Arial;letter-spacing:2px;color:var(--gold);margin-bottom:12px}
+.journey-body{overflow-y:auto;min-height:0;padding:0 12px 22px 0;scrollbar-width:thin;scrollbar-color:#8e937c66 transparent;scrollbar-gutter:stable;overscroll-behavior:contain}
+.artifact-journey .guide-lead{font-size:12px;margin:17px 0 23px;color:var(--muted)}
+.journey-track{list-style:none;padding:0;margin:0 0 0 5px;border-left:1px solid #c5b98f45}
+.journey-node{position:relative;padding:0 0 30px 23px}
+.journey-node:before{content:'';position:absolute;width:7px;height:7px;border:1px solid var(--gold);background:#152a31;border-radius:50%;left:-5px;top:5px;box-shadow:0 0 12px #d4bc6220}
+.journey-creative:before{border-color:#9ab8ba;transform:rotate(45deg);border-radius:0;background:transparent}
+.journey-digital:before{background:var(--gold)}
+.journey-meta{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.journey-date{font:14px Georgia,'SimSun',serif;letter-spacing:.5px;color:#e3d0a9}
+.journey-kind{font:9px 'Microsoft YaHei',sans-serif;letter-spacing:1px;color:#c9bc9b;border:1px solid #c9bc9b38;border-radius:2px;padding:2px 5px}
+.journey-creative .journey-kind{color:#a6c4c5;border-color:#a6c4c535}
+.journey-node h3{font:18px/1.6 'SimSun',serif;letter-spacing:1px;margin:10px 0 8px;color:var(--text)}
+.journey-copy{font-size:12px;line-height:1.95;color:#bbc9c9;margin:0 0 10px}
+.journey-source{display:inline-block;font-size:10px;line-height:1.8;color:var(--gold);border-bottom:1px solid #c5b98f50}
+.journey-note{font-size:10px;line-height:1.8;margin:7px 0 0;color:var(--muted)}
+.journey-end{font:12px/2 'SimSun',serif;color:var(--gold);margin:0 0 0 28px;letter-spacing:1px}
+#experience[data-mode=journey] .introduction{opacity:0;pointer-events:none}
+#experience[data-mode=journey] #stage{left:19%}
+[data-theme=stone] .journey-copy{color:#c9c0ae}
+@media(min-width:761px) and (max-width:1100px){.artifact-journey{width:340px;left:25px}#experience[data-mode=journey] #stage{left:25%}}
+@media(max-width:760px){.artifact-journey{width:auto;top:105px;bottom:112px;left:18px;right:18px;padding:0 18px 0 23px}.artifact-journey .panel-heading{padding-top:20px}.artifact-journey .panel-heading h2{font-size:23px}.journey-node{padding-left:20px}.journey-copy{font-size:13px}.journey-date{font-size:15px}.journey-kind{font-size:10px}.journey-source{font-size:11px}#experience[data-mode=journey] #stage{left:0;opacity:.2}.experience-nav button{letter-spacing:0}}

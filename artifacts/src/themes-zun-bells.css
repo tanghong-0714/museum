@@ -1,0 +1,41 @@
+#experience[data-theme=zun]{--gold:#c7ac78;--text:#e4e5d6;--muted:#a9b0a0;--line:#bcb38b30;background:radial-gradient(ellipse at 54% 44%,#3b453a 0,#202d28 40%,#0b1413 83%)}
+#experience[data-theme=bells]{--gold:#d0b27a;--text:#eee4d1;--muted:#b7a991;--line:#c6a66d30;background:radial-gradient(ellipse at 53% 47%,#4a3b29 0,#2a241c 40%,#141310 85%)}
+:is([data-theme=zun],[data-theme=bells]) :is(.porcelain-current,.porcelain-flower,.silk-waves,.water-rings,.water-light){display:none}
+[data-theme=zun] .aurora-one{background:radial-gradient(ellipse at 60% 20%,#a9bc9133,transparent 68%)}
+[data-theme=zun] .aurora-two{background:radial-gradient(ellipse,#bf995723,transparent 65%)}
+[data-theme=zun] .light-shaft{background:conic-gradient(from 145deg at 55% 0%,transparent,#c6b78216 15deg,transparent 32deg)}
+[data-theme=zun] .blue-bloom{background:radial-gradient(ellipse,#a5b78922,transparent 68%)}
+[data-theme=bells] .aurora-one{background:radial-gradient(ellipse at 60% 20%,#d8b4792a,transparent 68%)}
+[data-theme=bells] .aurora-two{background:radial-gradient(ellipse,#ab723024,transparent 65%)}
+[data-theme=bells] .light-shaft{background:conic-gradient(from 145deg at 55% 0%,transparent,#dac28b14 15deg,transparent 32deg)}
+[data-theme=bells] .blue-bloom{background:radial-gradient(ellipse,#bb955a25,transparent 68%)}
+[data-theme=zun] .zun-order,[data-theme=bells] .bells-resonance{position:absolute;inset:0;overflow:hidden;pointer-events:none;mask-image:linear-gradient(transparent 5%,#000 25%,#000 76%,transparent 97%)}
+[data-theme=zun] .zun-order i{position:absolute;left:32%;top:17%;width:39%;height:66%;border:1px solid #bac79923;transform:rotate(45deg);animation:zun-order-breathe 15s ease-in-out infinite alternate}
+[data-theme=zun] .zun-order i:nth-child(2){inset:7% 18% 7% 23%;width:auto;height:auto;border-color:#c9b37b16;animation-delay:-6s}
+[data-theme=zun] .zun-order i:nth-child(3){inset:-7% 9% -7% 13%;width:auto;height:auto;border-color:#a8bc9710;animation-delay:-11s}
+[data-theme=zun] .zun-order b{position:absolute;left:27%;bottom:12%;width:50%;height:14%;background:radial-gradient(ellipse,#b7ae6235,transparent 70%);filter:blur(22px)}
+[data-theme=bells] .bells-resonance i{position:absolute;left:15%;right:13%;top:37%;height:26%;border:1px solid #d6b77b1c;border-radius:50%;transform:rotate(-5deg);animation:bells-resonance-breathe 18s ease-in-out infinite alternate}
+[data-theme=bells] .bells-resonance i:nth-child(2){left:9%;right:7%;top:31%;height:38%;border-color:#c6aa7316;animation-delay:-5s}
+[data-theme=bells] .bells-resonance i:nth-child(3){left:2%;right:0;top:24%;height:52%;border-color:#c6aa7310;animation-delay:-10s}
+[data-theme=bells] .bells-resonance i:nth-child(4){left:-7%;right:-9%;top:16%;height:68%;border-color:#c6aa730c;animation-delay:-14s}
+[data-theme=bells] .bells-resonance b{position:absolute;left:18%;right:16%;bottom:19%;height:12%;background:radial-gradient(ellipse,#bd8f3d2b,transparent 70%);filter:blur(24px)}
+@keyframes zun-order-breathe{from{opacity:.4;transform:rotate(45deg) scale(.98)}to{opacity:.8;transform:rotate(45deg) scale(1.02)}}
+@keyframes bells-resonance-breathe{from{opacity:.35;transform:rotate(-5deg) scale(.98)}to{opacity:.8;transform:rotate(-5deg) scale(1.03)}}
+:is([data-theme=zun],[data-theme=bells]) .introduction h1{font-size:clamp(29px,2.6vw,40px);letter-spacing:2px;text-wrap:balance}
+:is([data-theme=zun],[data-theme=bells]) :is(.introduction .eyebrow,.introduction h1 span){color:var(--gold)}
+:is([data-theme=zun],[data-theme=bells]) .hero-description{color:var(--muted)}
+:is([data-theme=zun],[data-theme=bells]) .hero-tags{color:var(--gold)}
+[data-theme=zun] .title-rule{background:linear-gradient(90deg,#c7ac78,#93ad8e)}
+[data-theme=bells] .title-rule{background:linear-gradient(90deg,#d0b27a,#927342)}
+:is([data-theme=zun],[data-theme=bells]) .ambient-dust i{background:#c8b77c;box-shadow:0 0 8px #baa56b44}
+[data-theme=zun] :is(.story-panel,.detail){background:#1b2a24f5}
+[data-theme=bells] :is(.story-panel,.detail){background:#2c261ef5}
+[data-theme=zun] .chat-composer{background:#32433788}
+[data-theme=bells] .chat-composer{background:#4a3a2788}
+:is([data-theme=zun],[data-theme=bells]) .speech-copy{color:var(--text)}
+[data-theme=zun] .experience-nav{background:linear-gradient(0deg,#35453177,transparent)}
+[data-theme=bells] .experience-nav{background:linear-gradient(0deg,#4d3a2077,transparent)}
+[data-theme=zun] :is(#artifact-select,.view-tools button){background:#26382bbb;color:#d5dcc7}
+[data-theme=bells] :is(#artifact-select,.view-tools button){background:#362b1ebb;color:#e1cfab}
+@media(max-width:760px){:is([data-theme=zun],[data-theme=bells]) .introduction h1{font-size:28px}[data-theme=zun] .zun-order i{left:16%;top:31%;width:68%;height:39%}[data-theme=bells] .bells-resonance i{left:3%;right:3%;top:39%;height:24%}:is([data-theme=zun],[data-theme=bells]) .introduction .eyebrow{font-size:8px;letter-spacing:.5px}}
+@media(prefers-reduced-motion:reduce){[data-theme=zun] .zun-order i,[data-theme=bells] .bells-resonance i{animation:none}}

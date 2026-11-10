@@ -1,0 +1,217 @@
+{
+  "artifact": "bronze-head",
+  "title": "青铜头像",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "a490c2124c089e0b0b56",
+      "section": "view",
+      "label": "青铜头像",
+      "text": "将未说出口的话，留在一眼凝望里。",
+      "url": "/audio/narration/a490c2124c089e0b0b56.mp3"
+    },
+    {
+      "id": "f5ee700315605fd7e370",
+      "section": "view",
+      "label": "观器引导",
+      "text": "轮廓在光中显现，锈色层层铺开。绕过正面，让沉默有了另一种表情。",
+      "url": "/audio/narration/f5ee700315605fd7e370.mp3"
+    },
+    {
+      "id": "76a31c18c7254c42f59b",
+      "section": "view",
+      "label": "眼部轮廓",
+      "text": "先不急着猜它的表情。眉线在上方压出一道阴影，眼眶的凸起又把光托了起来，凝望感便从这些起伏中出现。正面看较为对称，转过一点，一侧眼角会先沉入暗处，同一张面孔也像换了神情。",
+      "url": "/audio/narration/76a31c18c7254c42f59b.mp3"
+    },
+    {
+      "id": "0b3ade024d0127c97e37",
+      "section": "view",
+      "label": "眼部轮廓 · 试着这样看",
+      "text": "左右缓慢转动，比较两侧眼眶何时变亮、何时落入阴影。",
+      "url": "/audio/narration/0b3ade024d0127c97e37.mp3"
+    },
+    {
+      "id": "27570bde07158c1b8643",
+      "section": "view",
+      "label": "鼻梁与面部",
+      "text": "鼻梁像面庞中央的一道脊线，将左右两侧分开。鼻翼与面颊的交接并不只靠颜色，而是靠高低转折形成明暗。顺着这条线向下看，你会发现简练的轮廓也能让面孔很有力量。",
+      "url": "/audio/narration/27570bde07158c1b8643.mp3"
+    },
+    {
+      "id": "782861032129c6862f1b",
+      "section": "view",
+      "label": "鼻梁与面部 · 试着这样看",
+      "text": "转到三分之二侧面，看看鼻梁突出多少、面颊又怎样向后收。",
+      "url": "/audio/narration/782861032129c6862f1b.mp3"
+    },
+    {
+      "id": "0ad7a89f322e7e6f8933",
+      "section": "view",
+      "label": "耳部结构",
+      "text": "耳部位于正面与侧面的交界，像给这张面孔加上了两处停顿。正面只能看到一部分，绕到侧面，耳缘与头部的连接才慢慢展开。它提醒我们：一张头像的形体，远不止正面的眉眼。",
+      "url": "/audio/narration/0ad7a89f322e7e6f8933.mp3"
+    },
+    {
+      "id": "328adc310178cff256d3",
+      "section": "view",
+      "label": "耳部结构 · 试着这样看",
+      "text": "绕向一侧，沿耳缘向下看，再回到正面比较轮廓的变化。",
+      "url": "/audio/narration/328adc310178cff256d3.mp3"
+    },
+    {
+      "id": "b35a79833d5636b9ad02",
+      "section": "view",
+      "label": "表面锈色",
+      "text": "青绿、浅褐与深色斑块交错在表面，像一幅没有标注的地形图。转动时，凸起处先接住光，凹处保留阴影，颜色与体积便叠在一起。这里展示的是模型记录的色层，不能仅凭锈色判断年代或埋藏经历。",
+      "url": "/audio/narration/b35a79833d5636b9ad02.mp3"
+    },
+    {
+      "id": "ac6922613104225b7851",
+      "section": "view",
+      "label": "表面锈色 · 试着这样看",
+      "text": "选一块浅色斑痕，转动前后比较：变化来自表面颜色，还是光照？",
+      "url": "/audio/narration/ac6922613104225b7851.mp3"
+    },
+    {
+      "id": "b72d2ee3e50b8b74ecc6",
+      "section": "story",
+      "label": "凝望里的故事",
+      "text": "从一道眼眶的起伏，到一片深浅交错的锈色，头像的表情在光里缓缓变化。你向左一步，它便显出另一副神情；你停下来，凝望才真正开始。",
+      "url": "/audio/narration/b72d2ee3e50b8b74ecc6.mp3"
+    },
+    {
+      "id": "b43c2f821bbf2c0022fe",
+      "section": "story",
+      "label": "观其貌",
+      "text": "它不急着说话。眉眼与鼻梁把光分成了几道，面庞的轮廓便从暗处浮现。你转动它，刚才还沉在阴影里的地方，又悄悄亮了起来。",
+      "url": "/audio/narration/b43c2f821bbf2c0022fe.mp3"
+    },
+    {
+      "id": "ddbfb57e183ec0300370",
+      "section": "story",
+      "label": "观其貌 · 1",
+      "text": "把它想作一位安静的守望者：目光停在前方，话语藏在轮廓之中。你靠近时，不必先猜它的身份，先看看光如何经过眼眶、鼻梁和两侧的耳部。",
+      "url": "/audio/narration/ddbfb57e183ec0300370.mp3"
+    },
+    {
+      "id": "e5dc6e116dbca9a41740",
+      "section": "story",
+      "label": "观其貌 · 2",
+      "text": "展厅渐渐安静下来，最后一道光落在眼角。若沉默也有声音，那大概就是有人停下脚步时，一句轻轻的“原来你在这里”。",
+      "url": "/audio/narration/e5dc6e116dbca9a41740.mp3"
+    },
+    {
+      "id": "79ce6703955adcc1054f",
+      "section": "story",
+      "label": "观其貌 · 说明",
+      "text": "相关类型参考：官方条目形容另一件青铜人头像“造型简洁明快，线条分明”。",
+      "url": "/audio/narration/79ce6703955adcc1054f.mp3"
+    },
+    {
+      "id": "fd4a54cd0d2e24b3a81b",
+      "section": "story",
+      "label": "读锈色",
+      "text": "锈色像一幅没有题字的地图。深处收住光，浅处泛起微亮。沿着斑驳慢慢看，不必急着给每一道痕迹取一个年代。",
+      "url": "/audio/narration/fd4a54cd0d2e24b3a81b.mp3"
+    },
+    {
+      "id": "0e4fe2ba3da4e1ae86cf",
+      "section": "story",
+      "label": "读锈色 · 1",
+      "text": "想象微光沿着额头落下，在面庞的凹凸间停驻。颜色并不整齐，也正因为不整齐，一张沉默的面孔有了更丰富的层次。",
+      "url": "/audio/narration/0e4fe2ba3da4e1ae86cf.mp3"
+    },
+    {
+      "id": "2ff6f48a5763dee92d0b",
+      "section": "story",
+      "label": "读锈色 · 2",
+      "text": "若把深色想成夜，把浅色想成微明，那么这张面孔便有自己的晨昏。你转动它，微光沿鼻梁走过，像一次不必说出姓名的相逢。",
+      "url": "/audio/narration/2ff6f48a5763dee92d0b.mp3"
+    },
+    {
+      "id": "c8dabb358fc544ab61bb",
+      "section": "story",
+      "label": "读锈色 · 说明",
+      "text": "微光沿鼻梁走过，像一次不必说出姓名的相逢。",
+      "url": "/audio/narration/c8dabb358fc544ab61bb.mp3"
+    },
+    {
+      "id": "cd393debea4b551d6b1d",
+      "section": "story",
+      "label": "听回响",
+      "text": "三星堆的青铜人头像给我们另一种看人的方式：面孔可以由鲜明的线条组成，神情也可以藏在简练的起伏里。先看清每一件的不同，再去想象古人的创造。",
+      "url": "/audio/narration/cd393debea4b551d6b1d.mp3"
+    },
+    {
+      "id": "edf95dfb5b69b68bcd8e",
+      "section": "story",
+      "label": "听回响 · 1",
+      "text": "四川省文物局收录的“青铜人头像（2）”，来源标注为三星堆博物馆，记载其为商代青铜器，头顶较圆、面部戴有面罩，头顶盖与颅腔分铸。",
+      "url": "/audio/narration/edf95dfb5b69b68bcd8e.mp3"
+    },
+    {
+      "id": "97ea55d5091eed6f029f",
+      "section": "story",
+      "label": "听回响 · 2",
+      "text": "沿着眉眼与鼻梁看去，鲜明的线条将一张面孔留在青铜里。目光跨过漫长的时间，仍能让今天的观看者停下脚步。",
+      "url": "/audio/narration/97ea55d5091eed6f029f.mp3"
+    },
+    {
+      "id": "518b0b60bfb81854ea35",
+      "section": "story",
+      "label": "听回响 · 说明",
+      "text": "“该人头像头顶较圆，面部戴有面罩，头顶盖和颅腔分铸。”",
+      "url": "/audio/narration/518b0b60bfb81854ea35.mp3"
+    },
+    {
+      "id": "7a164505ee9da07b9ada",
+      "section": "story",
+      "label": "结语",
+      "text": "以一眼凝望，遇见无声的回响。",
+      "url": "/audio/narration/7a164505ee9da07b9ada.mp3"
+    },
+    {
+      "id": "05ad652dd5215812965e",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "光划过眉眼，风经过耳畔。一位无声的守望者，将漫长的凝望留给相逢的人。",
+      "url": "/audio/narration/05ad652dd5215812965e.mp3"
+    },
+    {
+      "id": "8c2da03947f1cb555b2b",
+      "section": "journey",
+      "label": "商代 · 馆藏参照 · 青铜里的人之形",
+      "text": "商代 · 馆藏参照。青铜里的人之形。四川省文物局收录的“青铜人头像（2）”标注为商代，来源为三星堆博物馆；记载头顶盖与颅腔分铸，造型简洁、线条分明。",
+      "url": "/audio/narration/8c2da03947f1cb555b2b.mp3"
+    },
+    {
+      "id": "36fa4c5bada6f48c87f9",
+      "section": "journey",
+      "label": "故事 · 初见 · 光替我睁开眼睛",
+      "text": "故事 · 初见。光替我睁开眼睛。想象刚刚亮起的展灯落在眼眶上。我的目光原本没有方向，直到一位观众走来，正好停在面前。我便有了第一次不必言说的相见。",
+      "url": "/audio/narration/36fa4c5bada6f48c87f9.mp3"
+    },
+    {
+      "id": "76bac941b2beded11c59",
+      "section": "journey",
+      "label": "故事 · 守候 · 沉默也会留下回声",
+      "text": "故事 · 守候。沉默也会留下回声。在这个故事里，我记住的不是来往者的姓名，而是他们停下来的片刻。闭馆之后，最后一道光划过鼻梁，像有人把一句明天见，轻轻留在了这里。",
+      "url": "/audio/narration/76bac941b2beded11c59.mp3"
+    },
+    {
+      "id": "f1f7ef299eb2de052235",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 守望，从此有了回应",
+      "text": "2026 · 数字相逢。守望，从此有了回应。青铜头像的纹理与轮廓被带进网页，成为“守望”。你可以绕到侧面，也可以发问，让观察继续生长成对话。",
+      "url": "/audio/narration/f1f7ef299eb2de052235.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

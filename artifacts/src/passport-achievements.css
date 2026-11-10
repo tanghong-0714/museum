@@ -1,0 +1,31 @@
+.pp-aw-gallery{--pp-aw-gold:#d5b77c;--pp-aw-muted:#8da4a0;color:#e9ede3;width:100%;max-width:680px;margin:0 auto;padding:4px 0 10px;font-family:inherit}
+.pp-aw-hero{text-align:center;padding:8px 12px 12px;background:radial-gradient(ellipse at 50% 46%,rgba(180,149,86,.11),transparent 64%);position:relative}
+.pp-dialog .pp-aw-eyebrow{margin:0 0 10px;color:var(--pp-aw-gold);font-size:9px;letter-spacing:2.5px;font-weight:500}
+.pp-aw-seal{width:61px;height:61px;flex:none;display:grid;place-items:center;border-radius:50%;color:#6d8580;background:radial-gradient(circle at 35% 25%,#294440,#142c29 70%);box-shadow:inset 0 1px 2px #49615a55,0 2px 4px #0003}
+.pp-aw-seal svg{width:94%;height:94%;fill:none;stroke:currentColor;stroke-width:1.35;stroke-linecap:round;stroke-linejoin:round;filter:drop-shadow(0 1px 0 #050f0e)}
+.pp-aw-seal svg circle:first-child{stroke-width:.7;stroke-dasharray:1 2.2}
+.pp-aw-seal svg circle:nth-child(2){stroke-width:.7}
+.pp-aw-seal-large{width:116px;height:116px;margin:0 auto 12px;box-shadow:inset 0 1px 3px #76948855,0 8px 24px #0003,0 0 0 5px #78948508,0 0 0 6px #b1bd9b13}
+.pp-aw-lit{color:#dfc486;background:radial-gradient(circle at 30% 20%,#6a6140,#363a28 50%,#172d27 83%);box-shadow:inset 0 1px 3px #efd6a255,0 3px 9px #0004}
+.pp-aw-lit svg{filter:drop-shadow(0 1px 0 #0b130d) drop-shadow(0 -1px 0 #dfc48633)}
+.pp-dialog .pp-aw-title{font-family:'Noto Serif SC','Songti SC','SimSun',serif;font-weight:500;letter-spacing:2px;font-size:23px;line-height:1.4;margin:0 0 6px;color:#ead7ae}
+.pp-dialog .pp-aw-caption{margin:0;font-size:10px;line-height:1.7;color:#9daea3;letter-spacing:.5px}
+.pp-aw-heading{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:0 0 10px;padding:0 2px}
+.pp-dialog .pp-aw-heading-title{font-size:12px;line-height:1.6;font-weight:500;letter-spacing:1.5px;margin:0;color:#d9dfd3}
+.pp-aw-total{color:#93a59b;font-size:10px;font-variant-numeric:tabular-nums}
+.pp-aw-list{display:grid;gap:8px}
+.pp-aw-card{display:flex;align-items:center;gap:12px;min-height:80px;padding:8px 12px;border:1px solid #a3b6a41c;border-radius:4px;background:linear-gradient(110deg,#26443d66,#132d2966)}
+.pp-aw-earned{border-color:#c5aa6a46;background:linear-gradient(110deg,#54503930,#17352d88)}
+.pp-aw-copy{min-width:0;flex:1}
+.pp-dialog .pp-aw-card-title{font-family:'Noto Serif SC','Songti SC','SimSun',serif;color:#cbd6c8;font-size:15px;letter-spacing:1.5px;font-weight:500;margin:0 0 5px}
+.pp-dialog .pp-aw-earned .pp-aw-card-title{color:#e4cc9b}
+.pp-dialog .pp-aw-description{color:#8fa59b;font-size:10px;line-height:1.5;margin:0}
+.pp-aw-progress{height:2px;border-radius:2px;background:#9bafa326;width:74px;margin-top:8px;overflow:hidden}
+.pp-aw-progress-fill{height:100%;display:block;background:#a6ae8a}
+.pp-aw-status{text-align:right;display:grid;gap:5px;flex:none}
+.pp-aw-state{font-size:10px;color:#8da49a;letter-spacing:1px}
+.pp-aw-earned .pp-aw-state{color:var(--pp-aw-gold)}
+.pp-aw-date{font-size:9px;color:#859c90;font-variant-numeric:tabular-nums}
+.pp-dialog .pp-aw-footnote{text-align:center;font-family:'SimSun',serif;font-size:10px;letter-spacing:3px;color:#728b7c;margin:12px 0 0}
+@media(max-width:360px){.pp-aw-card{padding:9px;gap:8px}.pp-aw-seal{width:51px;height:51px}.pp-aw-seal-large{width:108px;height:108px}.pp-aw-date{font-size:8px}.pp-dialog .pp-aw-title{font-size:20px}}
+@media(prefers-reduced-motion:reduce){.pp-aw-gallery *{animation:none!important;transition:none!important}}

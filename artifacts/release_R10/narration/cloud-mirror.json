@@ -1,0 +1,203 @@
+{
+  "artifact": "cloud-mirror",
+  "title": "八连弧纹铜镜",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "825e94d736a955606e47",
+      "section": "view",
+      "label": "八连弧纹铜镜",
+      "text": "把云收进一轮圆，把相逢留给你。",
+      "url": "/audio/narration/825e94d736a955606e47.mp3"
+    },
+    {
+      "id": "da848cf16212558cf798",
+      "section": "view",
+      "label": "观器引导",
+      "text": "连弧相接，细纹在铜色中回旋。翻过这一面，去看一轮圆的两种神情。",
+      "url": "/audio/narration/da848cf16212558cf798.mp3"
+    },
+    {
+      "id": "5a512f31b2d728dab02b",
+      "section": "view",
+      "label": "中央镜钮",
+      "text": "镜背中央的凸起先把目光收向圆心，周围纹样再从这里向外展开。它不是画在表面的一枚圆点，而是有高度的结构；从斜侧面看，镜钮与平缓镜背之间的起伏尤其清楚。",
+      "url": "/audio/narration/5a512f31b2d728dab02b.mp3"
+    },
+    {
+      "id": "08cffcf47f3c4e9492d1",
+      "section": "view",
+      "label": "中央镜钮 · 试着这样看",
+      "text": "斜着看中央凸起的侧缘，再用“翻面”比较镜子的另一面。",
+      "url": "/audio/narration/08cffcf47f3c4e9492d1.mp3"
+    },
+    {
+      "id": "29ddc5a0e1eb0185366a",
+      "section": "view",
+      "label": "连弧与地纹",
+      "text": "连绵的弧线把圆形镜背分出了节奏：大弧线负责组织轮廓，细密地纹填入其中。像读一段有轻重的乐句，先看大的转折，再回到细部，才不容易被满面的纹样带走。",
+      "url": "/audio/narration/29ddc5a0e1eb0185366a.mp3"
+    },
+    {
+      "id": "2e88f627a0d8f9f86f10",
+      "section": "view",
+      "label": "连弧与地纹 · 试着这样看",
+      "text": "沿圆周追踪相邻弧线，找出它们如何连接，再观察弧线内侧的细纹。",
+      "url": "/audio/narration/2e88f627a0d8f9f86f10.mp3"
+    },
+    {
+      "id": "b3652b62c41cb952a7ef",
+      "section": "view",
+      "label": "镜缘轮廓",
+      "text": "目光移到最外侧，镜缘像一道边界，把繁密的镜背收在圆形之内。转到侧面，原本宽阔的圆面会逐渐收成一条薄线；再转回来，纹样重新展开，器物的厚度与平面感形成鲜明对比。",
+      "url": "/audio/narration/b3652b62c41cb952a7ef.mp3"
+    },
+    {
+      "id": "3eaec526c6542d30f83d",
+      "section": "view",
+      "label": "镜缘轮廓 · 试着这样看",
+      "text": "从正面转向侧面，留意边缘厚度与圆周轮廓；也可翻面比较两侧。",
+      "url": "/audio/narration/3eaec526c6542d30f83d.mp3"
+    },
+    {
+      "id": "a72f2973caea4ea47d0c",
+      "section": "story",
+      "label": "一轮圆里的相逢",
+      "text": "一面向人，一面向纹。目光从圆心启程，循着连弧走过一圈，又回到最初的相逢。翻动铜镜，像翻开一封没有署名的信。",
+      "url": "/audio/narration/a72f2973caea4ea47d0c.mp3"
+    },
+    {
+      "id": "d3aeddefa255d143e9c9",
+      "section": "story",
+      "label": "循弧线",
+      "text": "一段弧线牵住下一段，围出一圈安静的节奏。细纹在其间铺开，仿佛云影经过水面，轻轻一动，又停在了铜上。",
+      "url": "/audio/narration/d3aeddefa255d143e9c9.mp3"
+    },
+    {
+      "id": "36fa6b6f496a51e26085",
+      "section": "story",
+      "label": "循弧线 · 1",
+      "text": "先别急着看完整个圆。挑一段弧线，顺着它的方向慢慢走：弧与弧在相接处转身，细小的纹理则填满轮廓之间的空隙。大的曲线让目光停住，小的纹样让目光继续。",
+      "url": "/audio/narration/36fa6b6f496a51e26085.mp3"
+    },
+    {
+      "id": "68eb8de226aceaf2ad69",
+      "section": "story",
+      "label": "循弧线 · 2",
+      "text": "如果把圆心想作一处安静的岸，围绕它的连弧便像一圈水湾。每一湾都朝向中心，又与邻近的一湾相连。转动时，光替你重新描过这条路。",
+      "url": "/audio/narration/68eb8de226aceaf2ad69.mp3"
+    },
+    {
+      "id": "bd8c6e32deee116e485d",
+      "section": "story",
+      "label": "循弧线 · 说明",
+      "text": "近名类型参考：广东大观博物馆藏“战国-云雷纹地八连弧纹镜”，材质为青铜。",
+      "url": "/audio/narration/bd8c6e32deee116e485d.mp3"
+    },
+    {
+      "id": "2ee4cb971f468a260962",
+      "section": "story",
+      "label": "翻两面",
+      "text": "圆的两面，藏着不同的相见方式。纹样的一面让目光向内走，另一面则把想象送回观看它的人。轻轻翻面，故事便转了一页。",
+      "url": "/audio/narration/2ee4cb971f468a260962.mp3"
+    },
+    {
+      "id": "08c1c5e9f981aa81fd59",
+      "section": "story",
+      "label": "翻两面 · 1",
+      "text": "将铜镜略微转侧，先看薄薄的边缘，再看镜背中央凸起的镜钮。原先平铺的纹样突然有了高度，圆面也显出起伏。",
+      "url": "/audio/narration/08c1c5e9f981aa81fd59.mp3"
+    },
+    {
+      "id": "64c224918b771c8413e5",
+      "section": "story",
+      "label": "翻两面 · 2",
+      "text": "不妨想象一个尚未明亮的清晨：有人将一轮圆托在掌中，整理衣襟，再匆匆出门。镜子留在原处，背面的花纹却像刚刚醒来，把清晨的光又留了一会儿。",
+      "url": "/audio/narration/64c224918b771c8413e5.mp3"
+    },
+    {
+      "id": "46c79a0f8cb44220f86c",
+      "section": "story",
+      "label": "翻两面 · 说明",
+      "text": "圆的两面，藏着不同的相见方式。",
+      "url": "/audio/narration/46c79a0f8cb44220f86c.mp3"
+    },
+    {
+      "id": "07975f316c45cc7121e7",
+      "section": "story",
+      "label": "听照影",
+      "text": "“你问我记住过多少张脸。我更愿意记住，那些认真看向自己的时刻。”照影把答案放在一轮圆里，等你再转过来。",
+      "url": "/audio/narration/07975f316c45cc7121e7.mp3"
+    },
+    {
+      "id": "926fb9b626c7c5c5c5fd",
+      "section": "story",
+      "label": "听照影 · 1",
+      "text": "想象闭馆后的一个夜晚。照影问窗外的月亮：“你每天被那么多人望着，会不会累？”月亮没有回答，只把一小片光放在它的边缘。照影便明白，有些陪伴，不需要把话说满。",
+      "url": "/audio/narration/926fb9b626c7c5c5c5fd.mp3"
+    },
+    {
+      "id": "c8710421cdab2b330c7a",
+      "section": "story",
+      "label": "听照影 · 2",
+      "text": "第二天，有人在它面前停下，第一次认真看清那些细细的纹。照影想：原来相见也有两面，一面是我被你看见，一面是你愿意慢下来。",
+      "url": "/audio/narration/c8710421cdab2b330c7a.mp3"
+    },
+    {
+      "id": "94017039ff28f1712379",
+      "section": "story",
+      "label": "听照影 · 说明",
+      "text": "相见也有两面：一面是我被你看见，一面是你愿意慢下来。",
+      "url": "/audio/narration/94017039ff28f1712379.mp3"
+    },
+    {
+      "id": "3bbcb15531c5105b7f86",
+      "section": "story",
+      "label": "结语",
+      "text": "一面看见纹，一面遇见你。",
+      "url": "/audio/narration/3bbcb15531c5105b7f86.mp3"
+    },
+    {
+      "id": "1376e6da82daf79374dc",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "云影在铜上回旋，晨光在圆中停驻。翻过一面，再走近一段未说完的相逢。",
+      "url": "/audio/narration/1376e6da82daf79374dc.mp3"
+    },
+    {
+      "id": "21f8743195d033b9d2a5",
+      "section": "journey",
+      "label": "战国 · 馆藏参照 · 连弧围成一轮圆",
+      "text": "战国 · 馆藏参照。连弧围成一轮圆。广东大观博物馆的“战国-云雷纹地八连弧纹镜”条目标注材质为青铜，直径225毫米、厚7毫米。弧线环环相接，细纹铺满一轮圆。",
+      "url": "/audio/narration/21f8743195d033b9d2a5.mp3"
+    },
+    {
+      "id": "d65aace1258e92ad0d45",
+      "section": "journey",
+      "label": "故事 · 初成 · 把云影留在铜上",
+      "text": "故事 · 初成。把云影留在铜上。想象一轮圆第一次被托起，细纹在光下慢慢清楚。我将云藏在纹样之间，将弧线一段段相连，仿佛给每一次相逢，都留好了回来的路。",
+      "url": "/audio/narration/d65aace1258e92ad0d45.mp3"
+    },
+    {
+      "id": "53c1dfb90e668d62da0b",
+      "section": "journey",
+      "label": "故事 · 相伴 · 一个没有署名的清晨",
+      "text": "故事 · 相伴。一个没有署名的清晨。在想象的清晨里，有人将我轻轻翻过，整理衣襟，再出门去。我留在窗边，不追问他将去哪里，只替他把那一小片晨光，多留了一会儿。",
+      "url": "/audio/narration/53c1dfb90e668d62da0b.mp3"
+    },
+    {
+      "id": "50bf7b9f6c9351b492d4",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 一键翻面，再看另一种神情",
+      "text": "2026 · 数字相逢。一键翻面，再看另一种神情。铜镜的两面进入同一个数字展台。“照影”开始与你交谈：你可以循纹而看，也可以将我翻过来，让一轮圆的故事继续。",
+      "url": "/audio/narration/50bf7b9f6c9351b492d4.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

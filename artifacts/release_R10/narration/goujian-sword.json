@@ -1,0 +1,210 @@
+{
+  "artifact": "goujian-sword",
+  "title": "越王勾践剑",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "2e34188a3d359b41fadc",
+      "section": "view",
+      "label": "越王勾践剑",
+      "text": "一线微光穿过岁月，锋芒留在沉静之中。",
+      "url": "/audio/narration/2e34188a3d359b41fadc.mp3"
+    },
+    {
+      "id": "78f74343844e22647e8d",
+      "section": "view",
+      "label": "观器引导",
+      "text": "从剑首到剑尖，让目光慢慢走过。纹样与轮廓，藏着另一种力量。",
+      "url": "/audio/narration/78f74343844e22647e8d.mp3"
+    },
+    {
+      "id": "8b280099d6f9960bdfbe",
+      "section": "view",
+      "label": "剑首与握柄",
+      "text": "把视线从剑尖暂时收回来，先看握柄与剑首。细长的柄与端部的圆形变化，把向外延伸的轮廓稳稳收住；它既是整把剑的起点，也提供了一个观察比例的尺度。模型能辨认到哪些细节，还需以实际画面为准。",
+      "url": "/audio/narration/8b280099d6f9960bdfbe.mp3"
+    },
+    {
+      "id": "5e886efdea60b5cc727f",
+      "section": "view",
+      "label": "剑首与握柄 · 试着这样看",
+      "text": "转到斜侧面，比较剑首、握柄与剑身的宽窄和衔接。",
+      "url": "/audio/narration/5e886efdea60b5cc727f.mp3"
+    },
+    {
+      "id": "11e381bce9610af5bc62",
+      "section": "view",
+      "label": "剑格的边界",
+      "text": "剑格横在握柄与剑身之间，像给一条长线加上了一次停顿。沿它的边缘观察，两侧的展开与中间的收束，使上下两段轮廓有了清楚分界。稍微转动，原先只见宽度的部位，还会显出厚薄与前后关系。",
+      "url": "/audio/narration/11e381bce9610af5bc62.mp3"
+    },
+    {
+      "id": "f692fc8add12d3e7e77b",
+      "section": "view",
+      "label": "剑格的边界 · 试着这样看",
+      "text": "绕过正面，看看这道横向边界的侧缘，再沿握柄回到剑身。",
+      "url": "/audio/narration/f692fc8add12d3e7e77b.mp3"
+    },
+    {
+      "id": "02dd18638af1e82d90d5",
+      "section": "view",
+      "label": "剑身与纹样",
+      "text": "长长的剑身很容易让目光一口气滑向剑尖，不妨先停在中段。比较中脊与两侧的明暗，再辨认表面纹样怎样重复。如果模型没有清楚记录铭文，就不要把模糊色块猜作文字，原器文字应回到馆方资料核对。",
+      "url": "/audio/narration/02dd18638af1e82d90d5.mp3"
+    },
+    {
+      "id": "0b9d07580ff1344af2ff",
+      "section": "view",
+      "label": "剑身与纹样 · 试着这样看",
+      "text": "让剑身缓慢侧转，先追踪中脊的光，再观察两侧边线的变化。",
+      "url": "/audio/narration/0b9d07580ff1344af2ff.mp3"
+    },
+    {
+      "id": "e1f1d078d751b9ccea90",
+      "section": "story",
+      "label": "锋芒，也可以安静",
+      "text": "目光从剑首出发，经过剑格，沿一条长长的轮廓走向剑尖。静默的器物不急着证明力量；它把纹样、比例与一段有据可查的往事，留给愿意停下的人。",
+      "url": "/audio/narration/e1f1d078d751b9ccea90.mp3"
+    },
+    {
+      "id": "f4981d503713bb09f88d",
+      "section": "story",
+      "label": "循剑首",
+      "text": "剑首收住目光，握柄引出方向。先看整体的节制，再看每一道轮廓如何相接。",
+      "url": "/audio/narration/f4981d503713bb09f88d.mp3"
+    },
+    {
+      "id": "d177b3506f7fd4af1381",
+      "section": "story",
+      "label": "循剑首 · 1",
+      "text": "观看一把剑，不必先从剑尖开始。把视线留在握柄，比较它与剑身的长短关系；再稍稍侧转，观察圆形端部与细长轮廓的衔接。",
+      "url": "/audio/narration/d177b3506f7fd4af1381.mp3"
+    },
+    {
+      "id": "bb3e59eae6f9b1798c7c",
+      "section": "story",
+      "label": "循剑首 · 2",
+      "text": "湖北省博物馆对原器的介绍记载，剑首向外翻卷呈圆盘形，内铸十一道精细同心圆。这是馆方记录的原器特征；当前模型能呈现到什么程度，需要以屏幕上的实际细节为准。",
+      "url": "/audio/narration/bb3e59eae6f9b1798c7c.mp3"
+    },
+    {
+      "id": "b493c961cb0dcf7de01c",
+      "section": "story",
+      "label": "循剑首 · 说明",
+      "text": "力量的起点，也可以是一道安静的圆。",
+      "url": "/audio/narration/b493c961cb0dcf7de01c.mp3"
+    },
+    {
+      "id": "afebd2ebc52b9423e265",
+      "section": "story",
+      "label": "读剑身",
+      "text": "菱形纹样让长长的剑身有了节奏，铭文则为原器留下身份的线索。",
+      "url": "/audio/narration/afebd2ebc52b9423e265.mp3"
+    },
+    {
+      "id": "4a15ce728b2cb890c91d",
+      "section": "story",
+      "label": "读剑身 · 1",
+      "text": "根据湖北省博物馆的原器介绍，剑身饰有黑色菱形纹样，靠近剑格处有两行鸟篆铭文：“越王鸠浅 自作用剑”。馆方说明，经考证，“鸠浅”就是勾践。",
+      "url": "/audio/narration/4a15ce728b2cb890c91d.mp3"
+    },
+    {
+      "id": "ec69d1422478ff794185",
+      "section": "story",
+      "label": "读剑身 · 2",
+      "text": "让模型缓缓侧转，观察光如何经过剑身。这里的欣赏从可见的形与纹开始；如果模型纹理不能清晰显示文字，就回到馆方资料阅读，不把模糊纹理猜成铭文。",
+      "url": "/audio/narration/ec69d1422478ff794185.mp3"
+    },
+    {
+      "id": "4ce509fa251991c3fe7b",
+      "section": "story",
+      "label": "读剑身 · 说明",
+      "text": "纹样引导目光，文字留下名字。",
+      "url": "/audio/narration/4ce509fa251991c3fe7b.mp3"
+    },
+    {
+      "id": "9c67dd926c91cd0f40fa",
+      "section": "story",
+      "label": "听藏锋",
+      "text": "故事里的藏锋说，真正想守住的东西，值得先想清楚，再向前一步。",
+      "url": "/audio/narration/9c67dd926c91cd0f40fa.mp3"
+    },
+    {
+      "id": "2adc9759c0fd11951a91",
+      "section": "story",
+      "label": "听藏锋 · 1",
+      "text": "在这个为藏锋创作的小故事里，一位赶路的人走进安静的展厅，问它：“你是不是从来不会犹豫？”藏锋没有立刻回答，只让一线光停在剑格上。",
+      "url": "/audio/narration/2adc9759c0fd11951a91.mp3"
+    },
+    {
+      "id": "5567f303d5991f0cb9b1",
+      "section": "story",
+      "label": "听藏锋 · 2",
+      "text": "“我也喜欢先停一下。”它说，“先知道自己想守住什么，再决定下一步往哪里去。”人离开时，脚步比来时慢了一点；那并不是退后，而是终于找到了自己的方向。",
+      "url": "/audio/narration/5567f303d5991f0cb9b1.mp3"
+    },
+    {
+      "id": "4a3dc0ebffea69541d16",
+      "section": "story",
+      "label": "听藏锋 · 说明",
+      "text": "先看清想守住的，再决定走向哪里。",
+      "url": "/audio/narration/4a3dc0ebffea69541d16.mp3"
+    },
+    {
+      "id": "1449332da82cc6393ccb",
+      "section": "story",
+      "label": "结语",
+      "text": "心有方向，锋芒自藏。",
+      "url": "/audio/narration/1449332da82cc6393ccb.mp3"
+    },
+    {
+      "id": "e1f1d078d751b9ccea90",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "目光从剑首出发，经过剑格，沿一条长长的轮廓走向剑尖。静默的器物不急着证明力量；它把纹样、比例与一段有据可查的往事，留给愿意停下的人。",
+      "url": "/audio/narration/e1f1d078d751b9ccea90.mp3"
+    },
+    {
+      "id": "7c73ca2474e539512c47",
+      "section": "journey",
+      "label": "原器资料 · 铭文 · 剑身留下名字",
+      "text": "原器资料 · 铭文。剑身留下名字。湖北省博物馆记载，原器靠近剑格处有“越王鸠浅 自作用剑”两行鸟篆铭文；馆方说明，经考证，鸠浅就是勾践。此记录属于原器资料，并不表示当前模型上的铭文可以清晰辨读。",
+      "url": "/audio/narration/7c73ca2474e539512c47.mp3"
+    },
+    {
+      "id": "7400d9a79113887d17c4",
+      "section": "journey",
+      "label": "原器资料 · 1965年12月 · 从望山一号楚墓出土",
+      "text": "原器资料 · 1965年12月。从望山一号楚墓出土。据湖北省博物馆介绍，越王勾践剑于1965年12月出土于湖北江陵望山一号楚墓。这是同名原器的出土记录，不是此数字文件的扫描或建模记录。",
+      "url": "/audio/narration/7400d9a79113887d17c4.mp3"
+    },
+    {
+      "id": "cef533284036bd5c6826",
+      "section": "journey",
+      "label": "原器资料 · 形与纹 · 圆、直与菱形的秩序",
+      "text": "原器资料 · 形与纹。圆、直与菱形的秩序。馆方介绍原器剑首呈圆盘形，内铸十一道同心圆，剑身饰黑色菱形纹样。原器剑长55.6厘米、宽5厘米；这些数字不用于宣称当前模型具有实物级测量精度。",
+      "url": "/audio/narration/cef533284036bd5c6826.mp3"
+    },
+    {
+      "id": "6bf7c2714e9e5de6f225",
+      "section": "journey",
+      "label": "故事 · 停一下 · 先看清想守住的",
+      "text": "故事 · 停一下。先看清想守住的。在项目创作的故事里，藏锋让赶路的人先停一下。光落在剑格上，它说，力量也可以用来守护，而方向值得认真选择。",
+      "url": "/audio/narration/6bf7c2714e9e5de6f225.mp3"
+    },
+    {
+      "id": "0213e417b86a26712331",
+      "section": "journey",
+      "label": "今日 · 数字相逢 · 让目光重新走过剑身",
+      "text": "今日 · 数字相逢。让目光重新走过剑身。你可以旋转这份数字模型，从剑首看到剑尖，再回到有来源的原器资料。屏幕上的观看与馆藏文献在这里相互补充。",
+      "url": "/audio/narration/0213e417b86a26712331.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

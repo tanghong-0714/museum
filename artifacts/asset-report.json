@@ -1,0 +1,16 @@
+{
+  "source_sha256": "054515d0a450afdfb0d37a826401a12f7d84d5eaffdfd0c4ea8ac7959a0a1d0d",
+  "source_triangles": 1940130,
+  "variants": [
+    {
+      "file": "phoenix-desktop.glb",
+      "triangles": 180000,
+      "bytes": 5899064
+    },
+    {
+      "file": "phoenix-mobile.glb",
+      "triangles": 65000,
+      "bytes": 2186116
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+/* Reserve real layout space for copy and controls instead of clipping the object. */
+#experience[data-mode=view] #stage{
+ top:var(--model-top,100px);bottom:var(--model-bottom,155px);
+ left:var(--model-left,0);right:var(--model-right,0);min-height:0;
+}
+#experience[data-mode=view] #canvas{height:100%}
+#experience[data-mode=view] .view-tools{right:4%;bottom:0;gap:10px;align-items:center}
+#experience[data-mode=view] .stage-note{z-index:4}
+#experience[data-mode=view] #stage:after{left:22%;width:56%;bottom:55px;opacity:.6}
+@media(max-width:760px){
+ #experience[data-mode=view] #stage{left:14px;right:14px}
+ #experience[data-mode=view] #canvas{height:calc(100% - 46px)}
+ #experience[data-mode=view] .view-tools{right:8px;bottom:0;flex-direction:row}
+}

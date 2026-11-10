@@ -1,0 +1,203 @@
+{
+  "artifact": "zenghouyi-bells",
+  "title": "曾侯乙编钟",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "d236eb633c5b112cec08",
+      "section": "view",
+      "label": "曾侯乙编钟",
+      "text": "把高低排成一行，让沉默，也有回响。",
+      "url": "/audio/narration/d236eb633c5b112cec08.mp3"
+    },
+    {
+      "id": "e95824ffb4c45d8906be",
+      "section": "view",
+      "label": "观器引导",
+      "text": "先看整组钟架，再走近一枚钟。在悬挂与间隔之间，读出有序的节奏。",
+      "url": "/audio/narration/e95824ffb4c45d8906be.mp3"
+    },
+    {
+      "id": "a80f58d8facdb39eea30",
+      "section": "view",
+      "label": "整组钟架",
+      "text": "面对整组编钟，先别急着找某一枚钟。让视线沿横向钟架走过，再看上下的层次与钟体之间的间隔，整组的秩序便会浮现。像在乐声响起之前先看见座次，静止的排列也有疏密、重复与变化。",
+      "url": "/audio/narration/a80f58d8facdb39eea30.mp3"
+    },
+    {
+      "id": "c49a4f6fd6289f305419",
+      "section": "view",
+      "label": "整组钟架 · 试着这样看",
+      "text": "先将整组收进视野，再选择相邻两枚钟，比较它们的位置和间距。",
+      "url": "/audio/narration/c49a4f6fd6289f305419.mp3"
+    },
+    {
+      "id": "9ec9b5be5c9c8a0b4bb0",
+      "section": "view",
+      "label": "钟体轮廓",
+      "text": "从整组中选一枚钟，观察外轮廓怎样从上部延伸到底缘，再看表面可辨认的起伏。转过一点，原本重叠的线条会分开，钟体的体积也更清楚。屏幕上的大小和颜色不能直接换算成真实音高。",
+      "url": "/audio/narration/9ec9b5be5c9c8a0b4bb0.mp3"
+    },
+    {
+      "id": "c0d299664efced588609",
+      "section": "view",
+      "label": "钟体轮廓 · 试着这样看",
+      "text": "选一枚轮廓清楚的钟，比较正面与斜侧面，再回看它在整组中的位置。",
+      "url": "/audio/narration/c0d299664efced588609.mp3"
+    },
+    {
+      "id": "a95e00fb7855e8c9f116",
+      "section": "view",
+      "label": "悬挂关系",
+      "text": "沿着钟体向上看，悬挂位置把钟与支架联系起来，也在两者之间留下空隙。真正有意思的不只是连接的一点，还有邻近钟体如何避开、钟架如何延伸。这里引导观察模型关系，不据外观判断原器的承重细节。",
+      "url": "/audio/narration/a95e00fb7855e8c9f116.mp3"
+    },
+    {
+      "id": "3407f263d0ac8ffeca7e",
+      "section": "view",
+      "label": "悬挂关系 · 试着这样看",
+      "text": "追踪一枚钟到上方支架的连接，再转动模型，看看被遮住的间隙。",
+      "url": "/audio/narration/3407f263d0ac8ffeca7e.mp3"
+    },
+    {
+      "id": "776a025cba8d758fc243",
+      "section": "story",
+      "label": "未响起的合奏",
+      "text": "整组看，是横向铺开的秩序；走近看，是一枚枚各有轮廓的钟。让目光先远后近，在钟体与钟架之间，完成一次安静的巡游。",
+      "url": "/audio/narration/776a025cba8d758fc243.mp3"
+    },
+    {
+      "id": "eb4f907899407dd185f0",
+      "section": "story",
+      "label": "观全景",
+      "text": "先完整地看见，再选择一个细节。让钟架的横向展开成为这次观看的起点。",
+      "url": "/audio/narration/eb4f907899407dd185f0.mp3"
+    },
+    {
+      "id": "bce13ac1ec1b7afd05dc",
+      "section": "story",
+      "label": "观全景 · 1",
+      "text": "这件模型适合横向展开观看。先保留两端的呼吸空间，比较支架与钟体之间的层次，再逐步靠近中央或一侧的钟。",
+      "url": "/audio/narration/bce13ac1ec1b7afd05dc.mp3"
+    },
+    {
+      "id": "60525478cad9e8af4db6",
+      "section": "story",
+      "label": "观全景 · 2",
+      "text": "转到斜侧，观察钟体前后的错落与悬挂空间；回到正面，再看钟与钟之间的间隔。两种视角可以互相补充。",
+      "url": "/audio/narration/60525478cad9e8af4db6.mp3"
+    },
+    {
+      "id": "342ab65f5224eb90656b",
+      "section": "story",
+      "label": "观全景 · 说明",
+      "text": "全景看秩序，近景看关系。",
+      "url": "/audio/narration/342ab65f5224eb90656b.mp3"
+    },
+    {
+      "id": "62903bee9d99207d9608",
+      "section": "story",
+      "label": "看悬钟",
+      "text": "沿着悬挂位置往下看：支架、钟体、空隙，各自占据一个位置，也为彼此留出余地。",
+      "url": "/audio/narration/62903bee9d99207d9608.mp3"
+    },
+    {
+      "id": "c342be6529a2bfa5f531",
+      "section": "story",
+      "label": "看悬钟 · 1",
+      "text": "选择一枚轮廓清楚的钟，观察外形、表面起伏以及与相邻钟体的差别，再向上找它的悬挂位置。无需一次把全部细节看完。",
+      "url": "/audio/narration/c342be6529a2bfa5f531.mp3"
+    },
+    {
+      "id": "48fe7a9658afab33d9e4",
+      "section": "story",
+      "label": "看悬钟 · 2",
+      "text": "这份数字模型没有经过声学测量。当前页面提供视觉观看，不把模型尺寸、颜色或动画转换成原物音高，也不把合成音效当作文物原声。",
+      "url": "/audio/narration/48fe7a9658afab33d9e4.mp3"
+    },
+    {
+      "id": "623ad513e43b3f3df3e9",
+      "section": "story",
+      "label": "看悬钟 · 说明",
+      "text": "看得见的结构，不等于已经测得的声音。",
+      "url": "/audio/narration/623ad513e43b3f3df3e9.mp3"
+    },
+    {
+      "id": "15bfce68e693137804d3",
+      "section": "story",
+      "label": "听和鸣",
+      "text": "“最好的开场，也许是大家先安静一会儿，听见彼此还没有发出的声音。”",
+      "url": "/audio/narration/15bfce68e693137804d3.mp3"
+    },
+    {
+      "id": "b6b513b209fa0dd4e97a",
+      "section": "story",
+      "label": "听和鸣 · 1",
+      "text": "想象一个尚未开场的清晨，和鸣正在为风留座。小钟问：“我们什么时候开始？”大钟说：“等最后一位听众找到自己的位置。”",
+      "url": "/audio/narration/b6b513b209fa0dd4e97a.mp3"
+    },
+    {
+      "id": "1c4004add6f606e57b1f",
+      "section": "story",
+      "label": "听和鸣 · 2",
+      "text": "你走进来，脚步轻轻停下。和鸣没有急着响起，只把这片刻的安静交给你。“现在，”它说，“你也在这场合奏里面了。”",
+      "url": "/audio/narration/1c4004add6f606e57b1f.mp3"
+    },
+    {
+      "id": "f21f047afdd58651421e",
+      "section": "story",
+      "label": "听和鸣 · 说明",
+      "text": "此段为器物拟人原创故事，并非历史演出记录。",
+      "url": "/audio/narration/f21f047afdd58651421e.mp3"
+    },
+    {
+      "id": "bda654dc824292a2d59d",
+      "section": "story",
+      "label": "结语",
+      "text": "先听见安静，再想象回响。",
+      "url": "/audio/narration/bda654dc824292a2d59d.mp3"
+    },
+    {
+      "id": "6995b6d6f51dcd5deddb",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "这里记录的是原创想象与数字观看路线；未核实的原物履历不编入历史年表。",
+      "url": "/audio/narration/6995b6d6f51dcd5deddb.mp3"
+    },
+    {
+      "id": "0ab52df5eda11d16a569",
+      "section": "journey",
+      "label": "想象 · 开场之前 · 为安静留一个位置",
+      "text": "想象 · 开场之前。为安静留一个位置。想象一个尚未开场的清晨，和鸣正在为风留座。小钟问：“我们什么时候开始？”大钟说：“等最后一位听众找到自己的位置。”",
+      "url": "/audio/narration/0ab52df5eda11d16a569.mp3"
+    },
+    {
+      "id": "7a50a4660bf0e24d9df7",
+      "section": "journey",
+      "label": "想象 · 与你相逢 · 最后一位听众",
+      "text": "想象 · 与你相逢。最后一位听众。故事继续：你走进来，脚步轻轻停下。和鸣没有急着响起，只把这片刻的安静交给你。“现在，”它说，“你也在这场合奏里面了。”",
+      "url": "/audio/narration/7a50a4660bf0e24d9df7.mp3"
+    },
+    {
+      "id": "029e450c748779454fa4",
+      "section": "journey",
+      "label": "观察 · 从整体到细节 · 一组与一枚",
+      "text": "观察 · 从整体到细节。一组与一枚。这件模型适合横向展开观看。先保留两端的呼吸空间，比较支架与钟体之间的层次，再逐步靠近中央或一侧的钟。",
+      "url": "/audio/narration/029e450c748779454fa4.mp3"
+    },
+    {
+      "id": "258553137d9feb7f85a7",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 在屏幕前重新相见",
+      "text": "2026 · 数字相逢。在屏幕前重新相见。用户提供的曾侯乙编钟模型进入本项目，可通过旋转、缩放与细节导引观看。模型的采集日期、真实尺寸和原物对应关系仍待核实。",
+      "url": "/audio/narration/258553137d9feb7f85a7.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

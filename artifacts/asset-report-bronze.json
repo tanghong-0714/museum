@@ -1,0 +1,17 @@
+{
+  "source_sha256": "2a5517dfa73d0a667eaafe426bfc99541d8f9a974ec08844ababb65fa44a30fb",
+  "source_triangles": 1936142,
+  "method": "UV-aware meshoptimizer simplification + meshopt compression; source normals retained",
+  "variants": [
+    {
+      "file": "bronze-head-web-desktop.glb",
+      "triangles": 193614,
+      "bytes": 2369620
+    },
+    {
+      "file": "bronze-head-web-mobile.glb",
+      "triangles": 77444,
+      "bytes": 1280156
+    }
+  ]
+}

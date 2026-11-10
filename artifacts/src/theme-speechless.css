@@ -1,0 +1,22 @@
+#experience[data-theme=speechless]{--gold:#e6ba7d;--text:#f0e8dc;--muted:#b8b4a0;--line:#d9b57b28;background:radial-gradient(ellipse at 53% 43%,#3b4a43 0,#222f2c 43%,#101b1b 84%)}
+[data-theme=speechless] :is(.porcelain-current,.porcelain-flower,.silk-waves,.water-rings,.water-light){display:none}
+[data-theme=speechless] .aurora-one{background:radial-gradient(ellipse,#a7834730,transparent 67%)}
+[data-theme=speechless] .aurora-two{background:radial-gradient(ellipse,#3f8e8128,transparent 68%)}
+[data-theme=speechless] .light-shaft{background:conic-gradient(from 148deg at 55% 0%,transparent,#ead6a319 15deg,transparent 31deg)}
+[data-theme=speechless] .blue-bloom{background:radial-gradient(ellipse,#8c845520,transparent 69%)}
+[data-theme=speechless] .introduction :is(.eyebrow,h1 span){color:#c0b58f}
+[data-theme=speechless] .hero-description{color:#bdc4b6}
+[data-theme=speechless] .hero-tags{color:#d0b88c}
+[data-theme=speechless] .title-rule{background:linear-gradient(90deg,#dfbd83,#749b88)}
+[data-theme=speechless] :is(.story-panel,.detail){background:#1e2d29f2}
+[data-theme=speechless] .chat-composer{background:#2c3d3299}
+[data-theme=speechless] .speech-copy{color:#e9e3d5}
+[data-theme=speechless] .experience-nav{background:linear-gradient(0deg,#344b3c77,transparent)}
+[data-theme=speechless] :is(#artifact-select,.view-tools button){background:#24352dcc;color:#e3d4b4}
+[data-theme=speechless] .ambient-dust i{background:#e2bc7e;box-shadow:0 0 8px #d6a17955}
+.speechless-halo{position:absolute;left:54%;top:45%;width:min(54vw,740px);aspect-ratio:1;transform:translate(-50%,-50%);pointer-events:none}
+.speechless-halo i{position:absolute;inset:4%;border:1px solid #d6b87a20;border-radius:50%;box-shadow:0 0 70px #b1b37909,inset 0 0 65px #d6b87a07}
+.speechless-halo b{position:absolute;inset:14%;border:1px dashed #a9bea314;border-radius:50%}
+.speechless-pause{position:absolute;right:13%;top:24%;display:flex;gap:9px;opacity:.23;transform:rotate(-8deg);pointer-events:none}
+.speechless-pause i{width:5px;height:30px;border-radius:2px;background:#dfc38e}
+@media(max-width:760px){.speechless-halo{width:112vw;left:50%;top:52%}.speechless-pause{right:12%;top:30%}[data-theme=speechless][data-mode=chat] .speechless-halo{top:31%;width:86vw}}

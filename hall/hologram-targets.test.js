@@ -1,0 +1,41 @@
+import assert from 'node:assert/strict';
+import { Box3, Ray, Sphere, Vector3 } from 'three';
+import { createWorkbenchTarget, resolveHologramTarget, selectHologramEntry } from './hologram-targets.js';
+import { createRestorationBench } from './restoration-bench.js';
+
+const target = createWorkbenchTarget([0,.92,0]);
+const sphere = new Sphere(new Vector3(0,1.8,0),.85);
+const origin = new Vector3(0,1.75,3.5);
+const towards = point => new Ray(origin,point.clone().sub(origin).normalize());
+assert.equal(resolveHologramTarget(towards(target.anchor),sphere,target.box),'workbench','low tabletop aim should open repair, not the nearby artifact');
+assert.equal(resolveHologramTarget(towards(sphere.center),sphere,target.box),'artifact','artifact aim must still open the current artifact');
+assert.equal(resolveHologramTarget(towards(new Vector3(3,2,0)),sphere,target.box),null);
+assert.equal(resolveHologramTarget(new Ray(origin,new Vector3(0,0,1)),sphere,target.box),null,'looking away must not hit either target');
+for(const x of [-1.1,0,1.1])for(const z of [.8,1.1,1.45]){
+  const point=new Vector3(x,1.04,z);
+  assert.equal(resolveHologramTarget(towards(point),sphere,target.box),'workbench',`front tabletop ${x},${z}`);
+}
+assert.ok(target.box.min.y>.92 && target.box.max.y<1.23,'target encloses the raised tools without reaching the upper projection');
+assert.ok(target.box.min.x>=-1.8 && target.box.max.x<=1.8 && target.box.max.z<=1.65,'target remains within the real tabletop');
+const shifted=createWorkbenchTarget([4,2,-6]);
+assert.deepEqual(shifted.anchor.toArray(),[4,2.12,-4.9]);
+let entry = {active:null,lastHit:-Infinity};
+const step = (now,target=null,hovered=null,available=true) => entry = selectHologramEntry({...entry,now,target,hovered,available});
+assert.equal(step(0,'artifact').active,'artifact');
+assert.equal(step(100).active,'artifact','crossing UI gap retains artifact');
+assert.equal(step(120,'workbench').active,'workbench','repair hit immediately replaces artifact');
+assert.equal(step(180,null,'workbench').active,'workbench','hover keeps repair actionable');
+assert.equal(step(200,'artifact').active,'artifact','upper projection replaces repair');
+assert.equal(step(700).active,null,'looking away clears both');
+assert.equal(step(800,'workbench').active,'workbench');
+assert.equal(step(850,null,null,false).active,null,'modal or leaving range clears destination');
+const bench = createRestorationBench([0,.92,0],{label:false});
+const bounds = new Box3().setFromObject(bench.group);
+assert.ok(bounds.min.y>=.92 && bounds.max.y<1.23,'props rest above original surface');
+assert.ok(bounds.min.x>=-1.26 && bounds.max.x<=1.26 && bounds.min.z>=.72 && bounds.max.z<=1.58,'props fit interaction zone and original platform');
+let triangles=0;
+bench.group.traverse(o=>{if(o.isMesh) triangles+=o.geometry.attributes.position.count/3;});
+assert.ok(bench.group.children.length<=8 && triangles<10000,'batched props stay within rendering budget');
+bench.dispose();
+console.log(`PASS: exclusive entry switching, hover bridge, timeout, availability reset; atelier ${triangles} triangles in 8 batches`);
+console.log('PASS: separate artifact/repair targets, nine tabletop hit points, away/miss rays and bounded translated placement');

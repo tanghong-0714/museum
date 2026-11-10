@@ -1,0 +1,26 @@
+#canvas { opacity: 0; transition: opacity .45s ease; }
+.scene-ready #canvas { opacity: 1; }
+#loader { gap: 8px; transition: opacity .4s ease, transform .4s ease; background: radial-gradient(ellipse at center, #102531b3, transparent 65%); }
+#loader.is-leaving { opacity: 0; transform: translateY(-6px); pointer-events: none; }
+.loading-orbit { position: relative; width: 220px; height: 220px; display: grid; place-items: center; margin-bottom: 6px; }
+.loading-orbit::before, .loading-orbit::after { content: ''; position: absolute; inset: 0; border-radius: 50%; border: 1px solid #cdb99122; }
+.loading-orbit::before { border-top-color: var(--gold); border-right-color: #cdb99160; animation: specimen-orbit 5s linear infinite; }
+.loading-orbit::after { inset: 14px; border-style: dashed; border-color: #cdb99130; animation: specimen-orbit 14s linear infinite reverse; }
+.loading-specimen { width: 178px; height: 178px; object-fit: contain; opacity: .6; filter: saturate(.35); mask-image: radial-gradient(ellipse, #000 28%, #000a 45%, transparent 72%); }
+#loader .loading-glyph { font: 11px 'SimSun', serif; letter-spacing: .45em; color: var(--gold); }
+#loader p { margin: 4px 0 8px; font: 15px 'SimSun', serif; letter-spacing: .16em; }
+#loader small { margin-top: 6px; font-size: 11px; letter-spacing: .08em; }
+#load-progress { width: 150px; height: 2px; border-radius: 2px; overflow: hidden; }
+#load-progress::-webkit-progress-value { transition: width .3s ease; }
+.passport-open .atmosphere * { animation-play-state: paused !important; }
+@keyframes specimen-orbit { to { transform: rotate(360deg); } }
+@media(max-width:760px) {
+  .loading-orbit { width: 150px; height: 150px; }
+  .loading-specimen { width: 125px; height: 125px; }
+  #loader p { font-size: 13px; }
+  #loader small { font-size: 10px; }
+}
+@media(prefers-reduced-motion:reduce) {
+  #canvas, #loader { transition: none; }
+  .loading-orbit::before, .loading-orbit::after { animation: none; }
+}

@@ -1,0 +1,210 @@
+{
+  "artifact": "galloping-horse",
+  "title": "马踏飞燕",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "a3a92fe761c9300e2526",
+      "section": "view",
+      "label": "马踏飞燕",
+      "text": "把奔跑留在一瞬，把远方留给想象。",
+      "url": "/audio/narration/a3a92fe761c9300e2526.mp3"
+    },
+    {
+      "id": "695bafd27f9e36b4e29d",
+      "section": "view",
+      "label": "观器引导",
+      "text": "绕到侧面，看四肢展开的节奏。再俯身细看，轻盈如何落向足下。",
+      "url": "/audio/narration/695bafd27f9e36b4e29d.mp3"
+    },
+    {
+      "id": "45f25a15cd9ad961403d",
+      "section": "view",
+      "label": "昂首的方向",
+      "text": "头颈先给奔跑指出一个方向，躯干再顺势延伸。正面看较为集中，转到侧面，颈部上扬与身体前行的关系才真正展开。像读一句话的开头，先找到这道朝向，再顺着轮廓看向整个身姿。",
+      "url": "/audio/narration/45f25a15cd9ad961403d.mp3"
+    },
+    {
+      "id": "09c2906203318784636c",
+      "section": "view",
+      "label": "昂首的方向 · 试着这样看",
+      "text": "从正面绕到侧面，比较头、颈、肩之间哪一道转折最醒目。",
+      "url": "/audio/narration/09c2906203318784636c.mp3"
+    },
+    {
+      "id": "008f9b8e2eebb8166c45",
+      "section": "view",
+      "label": "四肢的节奏",
+      "text": "四肢的伸展与间隔，把一个静止模型变成了有节奏的瞬间。侧面能读出前后方向，斜前方则会出现新的遮挡和留白。把两个角度连起来看，你会发现奔跑感不只来自肢体本身，也来自肢体之间的空间。",
+      "url": "/audio/narration/008f9b8e2eebb8166c45.mp3"
+    },
+    {
+      "id": "3e9d76d310ce8bbef626",
+      "section": "view",
+      "label": "四肢的节奏 · 试着这样看",
+      "text": "先看完整侧影，再略转一点，数一数哪些轮廓重叠、哪些分开。",
+      "url": "/audio/narration/3e9d76d310ce8bbef626.mp3"
+    },
+    {
+      "id": "a58946998154025d99d8",
+      "section": "view",
+      "label": "足下的飞鸟",
+      "text": "目光最终落向足下，马蹄与鸟形的相接处成为整件造型的一个惊喜。上方展开的奔势，在这里收成很小的观看落点。模型可以帮助比较形体关系，但不能单凭画面推断原器内部支撑或实际重心。",
+      "url": "/audio/narration/a58946998154025d99d8.mp3"
+    },
+    {
+      "id": "1176356014d39873b5bd",
+      "section": "view",
+      "label": "足下的飞鸟 · 试着这样看",
+      "text": "靠近足下连接处，再退回整体视角，比较这一点与上方身躯的大小。",
+      "url": "/audio/narration/1176356014d39873b5bd.mp3"
+    },
+    {
+      "id": "829ea78a2a2276b8911a",
+      "section": "story",
+      "label": "风经过，奔跑留下",
+      "text": "沿头颈的方向望去，四肢把一个瞬间拉开。再把目光放低，去看马蹄与足下鸟形的关系：向前的动势与落下的支点，在同一件器物里相遇。",
+      "url": "/audio/narration/829ea78a2a2276b8911a.mp3"
+    },
+    {
+      "id": "35c236e6b180dad99fad",
+      "section": "story",
+      "label": "望远方",
+      "text": "头颈先指向远方，身躯才有了追随的方向。绕过正面，让侧影慢慢展开。",
+      "url": "/audio/narration/35c236e6b180dad99fad.mp3"
+    },
+    {
+      "id": "54921578127ded067fa6",
+      "section": "story",
+      "label": "望远方 · 1",
+      "text": "先从完整轮廓看起。比较头颈与躯干的朝向，再轻轻旋转模型，看看同一姿态在正面与侧面有怎样不同的张力。",
+      "url": "/audio/narration/54921578127ded067fa6.mp3"
+    },
+    {
+      "id": "ead67596abe3207e2163",
+      "section": "story",
+      "label": "望远方 · 2",
+      "text": "这份观看不需要先背下一串名词。留意轮廓在哪里上扬、在哪里收束，看看哪个角度最能让你感到“正在向前”，再把它转回来，与第一次的印象比较。",
+      "url": "/audio/narration/ead67596abe3207e2163.mp3"
+    },
+    {
+      "id": "20f82b9c3804c639d045",
+      "section": "story",
+      "label": "望远方 · 说明",
+      "text": "先有一个方向，再把身体交给风。",
+      "url": "/audio/narration/20f82b9c3804c639d045.mp3"
+    },
+    {
+      "id": "fe3698ca54680851d236",
+      "section": "story",
+      "label": "看奔势",
+      "text": "从四肢的间隔读出奔跑，再顺着马蹄找到足下的鸟形。轻盈不是没有落点，而是让落点成为观看的惊喜。",
+      "url": "/audio/narration/fe3698ca54680851d236.mp3"
+    },
+    {
+      "id": "596b3d8476014009daaf",
+      "section": "story",
+      "label": "看奔势 · 1",
+      "text": "侧面便于观察四肢前后的伸展；转到斜前或斜后方，又能看清原本重叠的轮廓。两个角度连起来，姿态的空间关系才慢慢完整。",
+      "url": "/audio/narration/596b3d8476014009daaf.mp3"
+    },
+    {
+      "id": "9dacaa3411266900c7e4",
+      "section": "story",
+      "label": "看奔势 · 2",
+      "text": "继续把目光移向足下，看马蹄与鸟形如何相接。模型适合观察造型关系，但单凭屏幕外观无法推断原器内部结构、重心位置或铸造工序。",
+      "url": "/audio/narration/9dacaa3411266900c7e4.mp3"
+    },
+    {
+      "id": "471c932cadae3eafff91",
+      "section": "story",
+      "label": "看奔势 · 说明",
+      "text": "奔跑的方向很远，目光的落点很近。",
+      "url": "/audio/narration/471c932cadae3eafff91.mp3"
+    },
+    {
+      "id": "a290cff1c2a24ab13ed3",
+      "section": "story",
+      "label": "听凌风",
+      "text": "故事里的凌风并不催你更快。它说，奔跑也可以只是因为，前面的风很好。",
+      "url": "/audio/narration/a290cff1c2a24ab13ed3.mp3"
+    },
+    {
+      "id": "b32ded10f3eb0b09f3d6",
+      "section": "story",
+      "label": "听凌风 · 1",
+      "text": "在为凌风创作的故事里，一个总在赶时间的人问它：“你这样跑，不累吗？”凌风想了一会儿，反问：“如果没有人催，你最想往哪里去？”",
+      "url": "/audio/narration/b32ded10f3eb0b09f3d6.mp3"
+    },
+    {
+      "id": "62c55c64d7ab9e5198b2",
+      "section": "story",
+      "label": "听凌风 · 2",
+      "text": "那人第一次没有立刻说出答案。凌风便陪他看了一会儿远方：“不急。等你想好了，我们再出发。”原来最自由的一步，不一定最快，却可以由自己决定。",
+      "url": "/audio/narration/62c55c64d7ab9e5198b2.mp3"
+    },
+    {
+      "id": "b47a0ac78147abc1f0ab",
+      "section": "story",
+      "label": "听凌风 · 说明",
+      "text": "等你想好了，我们再出发。",
+      "url": "/audio/narration/b47a0ac78147abc1f0ab.mp3"
+    },
+    {
+      "id": "85454deccde85acd9bb0",
+      "section": "story",
+      "label": "结语",
+      "text": "不必追赶每一阵风。",
+      "url": "/audio/narration/85454deccde85acd9bb0.mp3"
+    },
+    {
+      "id": "829ea78a2a2276b8911a",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "沿头颈的方向望去，四肢把一个瞬间拉开。再把目光放低，去看马蹄与足下鸟形的关系：向前的动势与落下的支点，在同一件器物里相遇。",
+      "url": "/audio/narration/829ea78a2a2276b8911a.mp3"
+    },
+    {
+      "id": "7fdedf46e2944046bbb2",
+      "section": "journey",
+      "label": "观看 · 起点 · 从头颈读出方向",
+      "text": "观看 · 起点。从头颈读出方向。先看完整侧影，再比较头颈与躯干的朝向。让同一个姿态在不同角度慢慢展开。",
+      "url": "/audio/narration/7fdedf46e2944046bbb2.mp3"
+    },
+    {
+      "id": "0406874b489c7d47efd1",
+      "section": "journey",
+      "label": "观看 · 奔势 · 在间隔里看见奔跑",
+      "text": "观看 · 奔势。在间隔里看见奔跑。观察四肢之间的空隙，以及前后轮廓的遮挡；转向另一侧，重新比较它们的关系。",
+      "url": "/audio/narration/0406874b489c7d47efd1.mp3"
+    },
+    {
+      "id": "ba61b189e3636fb11004",
+      "section": "journey",
+      "label": "观看 · 落点 · 目光落向足下",
+      "text": "观看 · 落点。目光落向足下。沿马蹄看到足下的鸟形，观察局部连接与整体动势。画面能帮助读懂外形，却不能代替结构测量。",
+      "url": "/audio/narration/ba61b189e3636fb11004.mp3"
+    },
+    {
+      "id": "e8138dca05897b555c02",
+      "section": "journey",
+      "label": "故事 · 一阵风 · 没有人催的远方",
+      "text": "故事 · 一阵风。没有人催的远方。在为凌风创作的故事里，它问赶路的人：如果没有人催，你最想往哪里去？答案还没有出现，风已经替他们留出一点安静。",
+      "url": "/audio/narration/e8138dca05897b555c02.mp3"
+    },
+    {
+      "id": "4cf02e5886e31bc01917",
+      "section": "journey",
+      "label": "故事 · 相逢 · 等你想好了，再出发",
+      "text": "故事 · 相逢。等你想好了，再出发。故事中的凌风没有催促。它把奔跑停在这一瞬，让来访者慢慢决定自己的方向。",
+      "url": "/audio/narration/4cf02e5886e31bc01917.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

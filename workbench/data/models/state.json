@@ -1,0 +1,515 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "8aa3ba7a-cd67-4a63-ad3f-193ede8a2c0a",
+      "requestId": "02c64ee4-0b4d-44f5-b5d2-2d07c80afab1",
+      "sourceJobId": "dcd45149-f90f-4d9a-8802-6930af0e4b10",
+      "source": {
+        "id": "d4e91cc3-47cc-456f-a2a9-9ea9dbd57a35",
+        "name": "复原方案-dcd45149.png",
+        "mime": "image/png",
+        "bytes": 2267785,
+        "kind": "result",
+        "createdAt": "2026-11-05T10:19:25.256Z",
+        "url": "/api/images/assets/d4e91cc3-47cc-456f-a2a9-9ea9dbd57a35"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-05T10:32:29.046Z",
+      "updatedAt": "2026-11-05T10:34:10.056Z",
+      "annotations": [],
+      "taskId": "ec0863d9-84f9-4124-b556-69b2f76243d1",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "14cb26f3-e7ad-46a5-8274-bb3066a2f07a",
+      "requestId": "d7341aec-22f8-4e44-954f-9a320e876ac9",
+      "sourceJobId": "240e9611-568c-40c6-a610-e7b0db0d5375",
+      "source": {
+        "id": "0cd8b3e1-72b5-4eb1-8a22-eea536832aca",
+        "name": "复原方案-240e9611.png",
+        "mime": "image/png",
+        "bytes": 2555232,
+        "kind": "result",
+        "createdAt": "2026-11-05T11:29:27.002Z",
+        "url": "/api/images/assets/0cd8b3e1-72b5-4eb1-8a22-eea536832aca"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-05T11:29:45.349Z",
+      "updatedAt": "2026-11-05T11:31:23.998Z",
+      "annotations": [],
+      "taskId": "95e2395d-b249-4121-9198-a0091711029b",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:06:26.761Z"
+    },
+    {
+      "id": "56dcb50b-757a-44a7-a69f-da1dd3744564",
+      "requestId": "12fef653-24fd-434d-95df-f3e3a62419d6",
+      "sourceJobId": "3cd450a9-4d62-4051-9b43-08c10b96bbb3",
+      "source": {
+        "id": "4216021c-b23a-4ae0-86dc-f6a31f06712d",
+        "name": "复原方案-3cd450a9.png",
+        "mime": "image/png",
+        "bytes": 2091191,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "dda2ea3f-b92f-45f9-b320-ae751f1867f7"
+        ],
+        "createdAt": "2026-11-05T12:33:36.133Z",
+        "url": "/api/images/assets/4216021c-b23a-4ae0-86dc-f6a31f06712d"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-05T12:37:43.321Z",
+      "updatedAt": "2026-11-05T12:39:40.652Z",
+      "annotations": [],
+      "taskId": "7995f59d-c670-4531-a8d9-0794856ca2b7",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "55ef5f2f-c88e-4717-849c-4baf75693ac5",
+      "requestId": "d4665448-e211-4d78-83e5-1a7cbe127f36",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "multiviewJobId": null,
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T04:20:16.237Z",
+      "updatedAt": "2026-11-06T04:22:08.113Z",
+      "annotations": [],
+      "taskId": "84289e6d-be26-4a34-870c-8db06e3e4855",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:06:16.994Z"
+    },
+    {
+      "id": "74c35a3a-2cc1-4d14-a72f-2713982d20b4",
+      "requestId": "0547437a-ae69-43a2-ab90-8f6a9f04e284",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "multiviewJobId": "712c3c44-e999-4546-bd42-72d5d2c9a9a7",
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T04:39:53.310Z",
+      "updatedAt": "2026-11-06T04:42:00.164Z",
+      "annotations": [],
+      "taskId": "c464819c-1ab5-4d43-ba8e-51256b2c84be",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:06:10.923Z"
+    },
+    {
+      "id": "eb6cf947-dfd5-4e86-99f9-6065828fb7ec",
+      "requestId": "050dfb32-dba6-48f4-9575-c82834b79c68",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "multiviewJobId": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3",
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T05:58:20.942Z",
+      "updatedAt": "2026-11-06T06:00:29.726Z",
+      "annotations": [],
+      "taskId": "644bb426-f6ca-435c-af3c-d51df302be0c",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "6ba2f2dc-6abb-4f1c-ad9f-ae0006f6efe1",
+      "requestId": "3c00348e-ba90-44ee-96a0-05f593a56a9a",
+      "sourceJobId": "e8bc5b63-3c5e-4cab-ab67-5e3ddba8806e",
+      "multiviewJobId": "28c9f93f-9663-4093-aa70-c0e3269681b1",
+      "source": {
+        "id": "02339190-52ac-4bdb-8e7a-fb2c77b09b03",
+        "name": "复原方案-e8bc5b63.png",
+        "mime": "image/png",
+        "bytes": 2852387,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "20674c4d-cfb8-465b-85bc-9990d8c40159"
+        ],
+        "createdAt": "2026-11-06T06:15:11.017Z",
+        "url": "/api/images/assets/02339190-52ac-4bdb-8e7a-fb2c77b09b03"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T06:27:07.327Z",
+      "updatedAt": "2026-11-06T06:29:01.534Z",
+      "annotations": [],
+      "taskId": "e32d83b8-2c1a-4f35-9766-b575e36e05c7",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "32b33a07-4de5-4bf0-ae91-859553f9015a",
+      "requestId": "8bf05307-3b92-47b1-b2a8-839673f07828",
+      "sourceJobId": "05088c98-f941-4db4-beae-afd3c2928bd9",
+      "multiviewJobId": "e5ba6ec8-73c9-4083-8314-4a190115e82b",
+      "source": {
+        "id": "8bfda990-d450-4362-8616-8ebf3b1f7f33",
+        "name": "复原方案-05088c98.png",
+        "mime": "image/png",
+        "bytes": 468742,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "e638ecfb-0040-40d0-8bf4-cbfa825ecd53"
+        ],
+        "createdAt": "2026-11-06T06:44:55.632Z",
+        "url": "/api/images/assets/8bfda990-d450-4362-8616-8ebf3b1f7f33"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T07:02:01.025Z",
+      "updatedAt": "2026-11-06T07:04:24.254Z",
+      "annotations": [],
+      "taskId": "e0bf9ae8-e43f-48f3-96b2-e8fc3a9aa878",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "735b2a2e-41f5-4715-88a1-62a467ce62c8",
+      "requestId": "7b621e68-9128-4270-ac1f-e83246949643",
+      "sourceJobId": "cd239336-8bc4-402c-a1b8-d01385a67528",
+      "multiviewJobId": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e",
+      "source": {
+        "id": "e8b3d791-d813-46ad-b1c8-3df63b74c0ec",
+        "name": "复原方案-cd239336.png",
+        "mime": "image/png",
+        "bytes": 454241,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "93a3708d-a54b-4216-8bfd-194023730b6d"
+        ],
+        "createdAt": "2026-11-06T07:01:32.709Z",
+        "url": "/api/images/assets/e8b3d791-d813-46ad-b1c8-3df63b74c0ec"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T07:16:54.597Z",
+      "updatedAt": "2026-11-06T07:18:58.401Z",
+      "annotations": [],
+      "taskId": "020770f1-c905-4c62-8ff7-26bba1d09557",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:06:02.810Z"
+    },
+    {
+      "id": "deceba5b-db34-4fb7-a83b-0e837e747361",
+      "requestId": "d2b33d06-29c6-43f6-bc2b-a6b8cc16d081",
+      "sourceJobId": null,
+      "sourceAssetId": "b6126bbb-2333-4bb4-bb62-514c4790775f",
+      "multiviewJobId": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b",
+      "source": {
+        "id": "b6126bbb-2333-4bb4-bb62-514c4790775f",
+        "name": "微信图片_20261105192839_2110_81.png",
+        "mime": "image/png",
+        "bytes": 464244,
+        "kind": "reference",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "b6126bbb-2333-4bb4-bb62-514c4790775f"
+        ],
+        "createdAt": "2026-11-06T09:47:59.353Z",
+        "url": "/api/images/assets/b6126bbb-2333-4bb4-bb62-514c4790775f"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-06T09:53:26.741Z",
+      "updatedAt": "2026-11-06T09:56:20.116Z",
+      "annotations": [],
+      "taskId": "78951b77-7e34-42bf-9653-231bc0f709bf",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:05:58.226Z"
+    },
+    {
+      "id": "8cfde52c-70ef-45e1-b1f1-1c17b13f7445",
+      "requestId": "bc68e066-ad50-42d0-8338-eb82dc9afd6c",
+      "objective": "restore",
+      "sourceJobId": "40fb5f4c-5fce-4602-be27-fbd8bf60a471",
+      "sourceAssetId": null,
+      "multiviewJobId": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea",
+      "source": {
+        "id": "ed8377ee-2641-45ab-8bfd-d528e2031a2c",
+        "name": "复原方案-40fb5f4c.png",
+        "mime": "image/png",
+        "bytes": 323549,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8013f8c5-2da1-4611-8d8d-bdbc750ba304"
+        ],
+        "createdAt": "2026-11-07T03:22:28.151Z",
+        "url": "/api/images/assets/ed8377ee-2641-45ab-8bfd-d528e2031a2c"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T03:24:20.642Z",
+      "updatedAt": "2026-11-07T03:26:01.156Z",
+      "annotations": [],
+      "taskId": "a096e783-fa68-4b29-985e-b1a15d4db997",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:05:50.483Z"
+    },
+    {
+      "id": "7965ba11-cd13-44b7-910d-3016cfab4151",
+      "requestId": "89f3d5c8-8655-4f69-9ff7-6f8b3b81cea4",
+      "objective": "restore",
+      "sourceJobId": "56e36458-82e0-45f8-b3cf-10c838036dd4",
+      "sourceAssetId": null,
+      "multiviewJobId": null,
+      "source": {
+        "id": "01d3cd37-d19a-4523-9a4a-9b288d212f98",
+        "name": "复原方案-56e36458.png",
+        "mime": "image/png",
+        "bytes": 2034502,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "18148b02-6584-4cc3-8fb7-615d65308548"
+        ],
+        "createdAt": "2026-11-07T03:35:32.530Z",
+        "url": "/api/images/assets/01d3cd37-d19a-4523-9a4a-9b288d212f98"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T03:35:39.920Z",
+      "updatedAt": "2026-11-07T03:37:21.347Z",
+      "annotations": [],
+      "taskId": "a810ab5e-c5b5-40e4-8cbf-72e3b42def2b",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "879caaa9-28bc-4352-ba81-cf4eb3df0ac9",
+      "requestId": "c1b2e159-7e34-4158-ad43-034db7cf2d72",
+      "objective": "restore",
+      "sourceJobId": "91ca1618-d2db-4432-a88a-b83ba07ecbb8",
+      "sourceAssetId": null,
+      "multiviewJobId": null,
+      "orientationReviewJobId": null,
+      "source": {
+        "id": "e26dbc6b-b5ac-456a-9e2e-57682b7a5687",
+        "name": "复原方案-91ca1618.png",
+        "mime": "image/png",
+        "bytes": 2222095,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "3a9e5136-c24a-4302-a62e-1683f62be74e"
+        ],
+        "createdAt": "2026-11-07T06:29:10.232Z",
+        "url": "/api/images/assets/e26dbc6b-b5ac-456a-9e2e-57682b7a5687"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T06:30:18.104Z",
+      "updatedAt": "2026-11-07T06:32:56.327Z",
+      "annotations": [],
+      "taskId": "77e850f3-5da5-4b21-880a-c6b8b961baf8",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "09809ec8-b46f-4181-a617-52c91f5bb0ce",
+      "requestId": "e4c21d88-1f49-4d1a-af34-2af4a3bf59f7",
+      "objective": "restore",
+      "sourceJobId": "132263a3-e8bd-43d4-b812-cf0af4a0fa8b",
+      "sourceAssetId": null,
+      "multiviewJobId": null,
+      "orientationReviewJobId": null,
+      "source": {
+        "id": "1c1c4964-b7bf-4553-8b45-410454c241de",
+        "name": "复原方案-132263a3.png",
+        "mime": "image/png",
+        "bytes": 1875303,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "e7b84676-d38f-47d0-ab60-0ee6237f81ab"
+        ],
+        "createdAt": "2026-11-07T07:30:39.859Z",
+        "url": "/api/images/assets/1c1c4964-b7bf-4553-8b45-410454c241de"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T07:34:33.012Z",
+      "updatedAt": "2026-11-07T07:36:32.750Z",
+      "annotations": [],
+      "taskId": "41baae56-c336-49bb-b2ed-756ae090fcc2",
+      "credits": 30,
+      "saved": true
+    },
+    {
+      "id": "63d915aa-1f16-470e-8c5c-35cc547ca28b",
+      "requestId": "2024134f-2583-4be5-a242-1447dd24277f",
+      "objective": "restore",
+      "sourceJobId": "eae28485-0398-47a5-9bf5-82bc86eb360e",
+      "sourceAssetId": null,
+      "multiviewJobId": null,
+      "orientationReviewJobId": null,
+      "source": {
+        "id": "d0a8b84a-d447-46a1-87e3-c688d990f5aa",
+        "name": "复原方案-eae28485.png",
+        "mime": "image/png",
+        "bytes": 2672671,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "057e51a6-c8e4-4c6f-ad6c-f7936d0c5349"
+        ],
+        "createdAt": "2026-11-07T07:53:15.465Z",
+        "url": "/api/images/assets/d0a8b84a-d447-46a1-87e3-c688d990f5aa"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T08:35:32.380Z",
+      "updatedAt": "2026-11-07T08:37:10.974Z",
+      "annotations": [],
+      "taskId": "d4f195bb-bb0e-4bf1-b111-a896fdd6f95e",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:05:40.367Z"
+    },
+    {
+      "id": "1ec52d2e-182d-45e6-9e56-c31d425a0952",
+      "requestId": "892c290b-5757-4527-acd4-208cbd27c5bb",
+      "objective": "photo",
+      "sourceJobId": "ab8f5376-35e9-40b0-83dc-c1e50c4d4150",
+      "sourceAssetId": null,
+      "multiviewJobId": null,
+      "orientationReviewJobId": null,
+      "source": {
+        "id": "ab405e00-1e75-424d-a872-c6891aed845b",
+        "name": "干净建模图-ab8f5376.png",
+        "mime": "image/png",
+        "bytes": 2447940,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "31ec5f00-7ff0-4d61-a8a4-563da4d8afd7"
+        ],
+        "createdAt": "2026-11-07T08:41:11.182Z",
+        "url": "/api/images/assets/ab405e00-1e75-424d-a872-c6891aed845b"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T08:41:14.840Z",
+      "updatedAt": "2026-11-07T08:43:19.270Z",
+      "annotations": [],
+      "taskId": "5b6770a0-80ab-4cfd-8d2c-bbd615353c78",
+      "credits": 30,
+      "saved": true,
+      "deletedAt": "2026-11-07T09:05:34.567Z"
+    },
+    {
+      "id": "7bccf31b-5835-4bf0-bfca-364d30722851",
+      "requestId": "e02f88e8-6b19-445f-8ac8-4ffc42c7cb66",
+      "objective": "photo",
+      "sourceJobId": "ab8f5376-35e9-40b0-83dc-c1e50c4d4150",
+      "sourceAssetId": null,
+      "multiviewJobId": "6a3509aa-3c76-472a-b2cc-737e3651b4c8",
+      "orientationReviewJobId": "6a3509aa-3c76-472a-b2cc-737e3651b4c8",
+      "source": {
+        "id": "ab405e00-1e75-424d-a872-c6891aed845b",
+        "name": "干净建模图-ab8f5376.png",
+        "mime": "image/png",
+        "bytes": 2447940,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "31ec5f00-7ff0-4d61-a8a4-563da4d8afd7"
+        ],
+        "createdAt": "2026-11-07T08:41:11.182Z",
+        "url": "/api/images/assets/ab405e00-1e75-424d-a872-c6891aed845b"
+      },
+      "profile": "web",
+      "state": "success",
+      "progress": 100,
+      "message": "完整模型已保存，可旋转检查、标记补全示意并导出成品图。",
+      "createdAt": "2026-11-07T08:44:50.721Z",
+      "updatedAt": "2026-11-07T08:46:42.867Z",
+      "annotations": [],
+      "taskId": "80186185-6ca4-4294-ab61-682b7c35f954",
+      "credits": 30,
+      "saved": true
+    }
+  ]
+}

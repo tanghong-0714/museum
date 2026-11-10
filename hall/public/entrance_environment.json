@@ -1,0 +1,1281 @@
+{
+  "materials": {
+    "paving": {
+      "color": "#d7c9af",
+      "roughness": 0.82
+    },
+    "path": {
+      "color": "#e5dcc7",
+      "roughness": 0.85
+    },
+    "joint": {
+      "color": "#b5aa92",
+      "roughness": 1
+    },
+    "lawn": {
+      "color": "#809161",
+      "roughness": 1
+    },
+    "stone": {
+      "color": "#b7ad95",
+      "roughness": 0.85
+    },
+    "wood": {
+      "color": "#95714a",
+      "roughness": 0.6
+    },
+    "bronze": {
+      "color": "#695b46",
+      "roughness": 0.35,
+      "metalness": 0.55
+    },
+    "trunk": {
+      "color": "#78654a",
+      "roughness": 1
+    },
+    "leaf": {
+      "color": "#3f6244",
+      "roughness": 0.92
+    },
+    "leafLight": {
+      "color": "#71904e",
+      "roughness": 0.9
+    },
+    "leafDark": {
+      "color": "#2f523a",
+      "roughness": 1
+    }
+  },
+  "objects": [
+    {
+      "name": "Sunlit stone forecourt",
+      "shape": "box",
+      "position": [
+        0,
+        -0.1,
+        22
+      ],
+      "size": [
+        44,
+        0.2,
+        26
+      ],
+      "material": "paving",
+      "receiveShadow": true
+    },
+    {
+      "name": "Central garden path",
+      "shape": "box",
+      "position": [
+        0,
+        -0.055,
+        43
+      ],
+      "size": [
+        7,
+        0.11,
+        24
+      ],
+      "material": "path",
+      "receiveShadow": true
+    },
+    {
+      "name": "Left garden lawn",
+      "shape": "box",
+      "position": [
+        -15,
+        -0.08,
+        43
+      ],
+      "size": [
+        23,
+        0.1,
+        24
+      ],
+      "material": "lawn",
+      "receiveShadow": true
+    },
+    {
+      "name": "Right garden lawn",
+      "shape": "box",
+      "position": [
+        15,
+        -0.08,
+        43
+      ],
+      "size": [
+        23,
+        0.1,
+        24
+      ],
+      "material": "lawn",
+      "receiveShadow": true
+    },
+    {
+      "name": "Paving joint z11",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        11
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z13",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        13
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z15",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        15
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z17",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        17
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z19",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        19
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z21",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        21
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z23",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        23
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z25",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        25
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z27",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        27
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z29",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        29
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z31",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        31
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint z33",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        33
+      ],
+      "size": [
+        43,
+        0.003,
+        0.015
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-20",
+      "shape": "box",
+      "position": [
+        -20,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-17.5",
+      "shape": "box",
+      "position": [
+        -17.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-15",
+      "shape": "box",
+      "position": [
+        -15,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-12.5",
+      "shape": "box",
+      "position": [
+        -12.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-10",
+      "shape": "box",
+      "position": [
+        -10,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-7.5",
+      "shape": "box",
+      "position": [
+        -7.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-5",
+      "shape": "box",
+      "position": [
+        -5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x-2.5",
+      "shape": "box",
+      "position": [
+        -2.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x0",
+      "shape": "box",
+      "position": [
+        0,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x2.5",
+      "shape": "box",
+      "position": [
+        2.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x5",
+      "shape": "box",
+      "position": [
+        5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x7.5",
+      "shape": "box",
+      "position": [
+        7.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x10",
+      "shape": "box",
+      "position": [
+        10,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x12.5",
+      "shape": "box",
+      "position": [
+        12.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x15",
+      "shape": "box",
+      "position": [
+        15,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x17.5",
+      "shape": "box",
+      "position": [
+        17.5,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Paving joint x20",
+      "shape": "box",
+      "position": [
+        20,
+        0.002,
+        22
+      ],
+      "size": [
+        0.014,
+        0.003,
+        25.9
+      ],
+      "material": "joint"
+    },
+    {
+      "name": "Garden perimeter wall -1",
+      "shape": "box",
+      "position": [
+        -17,
+        0.7,
+        39
+      ],
+      "size": [
+        0.3,
+        1.4,
+        33
+      ],
+      "material": "stone",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Raised planter -1",
+      "shape": "box",
+      "position": [
+        -7.8,
+        0.28,
+        17
+      ],
+      "size": [
+        3.9,
+        0.56,
+        4.6
+      ],
+      "material": "stone",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Planter soil -1",
+      "shape": "box",
+      "position": [
+        -7.8,
+        0.566,
+        17
+      ],
+      "size": [
+        3.6,
+        0.03,
+        4.3
+      ],
+      "material": "leafDark"
+    },
+    {
+      "name": "Timber bench -1",
+      "shape": "box",
+      "position": [
+        -5.3,
+        0.52,
+        12.1
+      ],
+      "size": [
+        2.4,
+        0.12,
+        0.62
+      ],
+      "material": "wood",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Bench support -1-0.85",
+      "shape": "box",
+      "position": [
+        -6.1499999999999995,
+        0.25,
+        12.1
+      ],
+      "size": [
+        0.08,
+        0.5,
+        0.48
+      ],
+      "material": "bronze",
+      "castShadow": true
+    },
+    {
+      "name": "Bench support -10.85",
+      "shape": "box",
+      "position": [
+        -4.45,
+        0.25,
+        12.1
+      ],
+      "size": [
+        0.08,
+        0.5,
+        0.48
+      ],
+      "material": "bronze",
+      "castShadow": true
+    },
+    {
+      "name": "Tree trunk -117",
+      "shape": "cylinder",
+      "position": [
+        -7.8,
+        1.9,
+        17
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown -117 0",
+      "shape": "sphere",
+      "position": [
+        -8.45,
+        4,
+        16.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -117 1",
+      "shape": "sphere",
+      "position": [
+        -7.2,
+        3.9000000000000004,
+        17.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -117 2",
+      "shape": "sphere",
+      "position": [
+        -7.8,
+        4.75,
+        17
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -117 3",
+      "shape": "sphere",
+      "position": [
+        -7.68,
+        3.4000000000000004,
+        16.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree trunk -131",
+      "shape": "cylinder",
+      "position": [
+        -11.5,
+        1.9,
+        31
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown -131 0",
+      "shape": "sphere",
+      "position": [
+        -12.15,
+        4,
+        30.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -131 1",
+      "shape": "sphere",
+      "position": [
+        -10.9,
+        3.9000000000000004,
+        31.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -131 2",
+      "shape": "sphere",
+      "position": [
+        -11.5,
+        4.75,
+        31
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -131 3",
+      "shape": "sphere",
+      "position": [
+        -11.38,
+        3.4000000000000004,
+        30.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree trunk -145",
+      "shape": "cylinder",
+      "position": [
+        -11.5,
+        1.9,
+        45
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown -145 0",
+      "shape": "sphere",
+      "position": [
+        -12.15,
+        4,
+        44.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -145 1",
+      "shape": "sphere",
+      "position": [
+        -10.9,
+        3.9000000000000004,
+        45.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -145 2",
+      "shape": "sphere",
+      "position": [
+        -11.5,
+        4.75,
+        45
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown -145 3",
+      "shape": "sphere",
+      "position": [
+        -11.38,
+        3.4000000000000004,
+        44.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Garden perimeter wall 1",
+      "shape": "box",
+      "position": [
+        17,
+        0.7,
+        39
+      ],
+      "size": [
+        0.3,
+        1.4,
+        33
+      ],
+      "material": "stone",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Raised planter 1",
+      "shape": "box",
+      "position": [
+        7.8,
+        0.28,
+        17
+      ],
+      "size": [
+        3.9,
+        0.56,
+        4.6
+      ],
+      "material": "stone",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Planter soil 1",
+      "shape": "box",
+      "position": [
+        7.8,
+        0.566,
+        17
+      ],
+      "size": [
+        3.6,
+        0.03,
+        4.3
+      ],
+      "material": "leafDark"
+    },
+    {
+      "name": "Timber bench 1",
+      "shape": "box",
+      "position": [
+        5.3,
+        0.52,
+        12.1
+      ],
+      "size": [
+        2.4,
+        0.12,
+        0.62
+      ],
+      "material": "wood",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Bench support 1-0.85",
+      "shape": "box",
+      "position": [
+        4.45,
+        0.25,
+        12.1
+      ],
+      "size": [
+        0.08,
+        0.5,
+        0.48
+      ],
+      "material": "bronze",
+      "castShadow": true
+    },
+    {
+      "name": "Bench support 10.85",
+      "shape": "box",
+      "position": [
+        6.1499999999999995,
+        0.25,
+        12.1
+      ],
+      "size": [
+        0.08,
+        0.5,
+        0.48
+      ],
+      "material": "bronze",
+      "castShadow": true
+    },
+    {
+      "name": "Tree trunk 117",
+      "shape": "cylinder",
+      "position": [
+        7.8,
+        1.9,
+        17
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown 117 0",
+      "shape": "sphere",
+      "position": [
+        7.1499999999999995,
+        4,
+        16.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 117 1",
+      "shape": "sphere",
+      "position": [
+        8.4,
+        3.9000000000000004,
+        17.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 117 2",
+      "shape": "sphere",
+      "position": [
+        7.8,
+        4.75,
+        17
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 117 3",
+      "shape": "sphere",
+      "position": [
+        7.92,
+        3.4000000000000004,
+        16.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree trunk 131",
+      "shape": "cylinder",
+      "position": [
+        11.5,
+        1.9,
+        31
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown 131 0",
+      "shape": "sphere",
+      "position": [
+        10.85,
+        4,
+        30.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 131 1",
+      "shape": "sphere",
+      "position": [
+        12.1,
+        3.9000000000000004,
+        31.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 131 2",
+      "shape": "sphere",
+      "position": [
+        11.5,
+        4.75,
+        31
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 131 3",
+      "shape": "sphere",
+      "position": [
+        11.62,
+        3.4000000000000004,
+        30.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree trunk 145",
+      "shape": "cylinder",
+      "position": [
+        11.5,
+        1.9,
+        45
+      ],
+      "size": [
+        0.15,
+        0.21,
+        2.7
+      ],
+      "material": "trunk",
+      "castShadow": true
+    },
+    {
+      "name": "Tree crown 145 0",
+      "shape": "sphere",
+      "position": [
+        10.85,
+        4,
+        44.9
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 145 1",
+      "shape": "sphere",
+      "position": [
+        12.1,
+        3.9000000000000004,
+        45.3
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafLight",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 145 2",
+      "shape": "sphere",
+      "position": [
+        11.5,
+        4.75,
+        45
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leaf",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Tree crown 145 3",
+      "shape": "sphere",
+      "position": [
+        11.62,
+        3.4000000000000004,
+        44.4
+      ],
+      "size": [
+        1.3,
+        1.25,
+        1.2
+      ],
+      "material": "leafDark",
+      "castShadow": true,
+      "receiveShadow": true
+    },
+    {
+      "name": "Distant garden wall",
+      "shape": "box",
+      "position": [
+        0,
+        0.65,
+        55
+      ],
+      "size": [
+        60,
+        1.3,
+        0.35
+      ],
+      "material": "stone",
+      "castShadow": true,
+      "receiveShadow": true
+    }
+  ],
+  "sun": {
+    "position": [
+      -14,
+      20,
+      10
+    ],
+    "target": [
+      0,
+      0,
+      20
+    ],
+    "color": "#fff2d8",
+    "intensity": 3.2
+  }
+}

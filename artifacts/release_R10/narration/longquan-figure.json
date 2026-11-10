@@ -1,0 +1,210 @@
+{
+  "artifact": "longquan-figure",
+  "title": "龙泉窑青瓷露胎人物塑像",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "405a39c546210083e0dc",
+      "section": "view",
+      "label": "龙泉窑青瓷露胎人物塑像",
+      "text": "一半青山，一半泥土，窑火替我留住温柔。",
+      "url": "/audio/narration/405a39c546210083e0dc.mp3"
+    },
+    {
+      "id": "3b4bc7780d14fafb49ef",
+      "section": "view",
+      "label": "观器引导",
+      "text": "青釉如山色，露胎似暖土。转过一寸光，看两种质地如何相依。",
+      "url": "/audio/narration/3b4bc7780d14fafb49ef.mp3"
+    },
+    {
+      "id": "f5625275083bd7359fa2",
+      "section": "view",
+      "label": "人物面容",
+      "text": "人物的面容被包在青色的整体之中，眉眼不必用很重的线条，也能借细微起伏显出神情。先看正面，再稍转一点，让侧光把额头、鼻部与面颊逐次描出来，安静的表情便有了层次。",
+      "url": "/audio/narration/f5625275083bd7359fa2.mp3"
+    },
+    {
+      "id": "9c92b202cc6c43c673ff",
+      "section": "view",
+      "label": "人物面容 · 试着这样看",
+      "text": "慢慢左右转动，寻找眉眼最清楚的角度，再比较头饰的轮廓。",
+      "url": "/audio/narration/9c92b202cc6c43c673ff.mp3"
+    },
+    {
+      "id": "720c936daeaa98769bc8",
+      "section": "view",
+      "label": "釉色与衣纹",
+      "text": "青色在衣纹的转折间并不完全相同：凸起与凹处、受光与背光，让表面有了深浅变化。衣褶把颜色引向不同方向，好像一层青色的水沿着形体缓缓流过；具体釉层情况仍需对照实物观察。",
+      "url": "/audio/narration/720c936daeaa98769bc8.mp3"
+    },
+    {
+      "id": "e699ba284137a6caec0c",
+      "section": "view",
+      "label": "釉色与衣纹 · 试着这样看",
+      "text": "选一条衣褶，对比它的脊线与凹槽，分辨颜色和光影各起什么作用。",
+      "url": "/audio/narration/e699ba284137a6caec0c.mp3"
+    },
+    {
+      "id": "aa7ff51791101cc049ea",
+      "section": "view",
+      "label": "足下与底部",
+      "text": "向下看，人物的轮廓最终在底部收住。这里不像面容那样醒目，却能看清整体如何获得稳定的承托；模型中底部与衣饰的色层、形状变化，也给观看留下了另一组线索。",
+      "url": "/audio/narration/aa7ff51791101cc049ea.mp3"
+    },
+    {
+      "id": "cda17940a444d66ef7df",
+      "section": "view",
+      "label": "足下与底部 · 试着这样看",
+      "text": "从侧面比较底部宽度与上方身形，留意相接处的转折。",
+      "url": "/audio/narration/cda17940a444d66ef7df.mp3"
+    },
+    {
+      "id": "61fe3068006eb38eb8e2",
+      "section": "story",
+      "label": "从泥土到一抹青",
+      "text": "泥土先学会安静，窑火再教它发光。青色沿着衣纹停驻，暖褐从釉外探出头来。一冷一暖之间，青隐把漫长的等待，讲成一个温柔的故事。",
+      "url": "/audio/narration/61fe3068006eb38eb8e2.mp3"
+    },
+    {
+      "id": "aea3a17509fc30b7fcaa",
+      "section": "story",
+      "label": "观胎釉",
+      "text": "青色并没有覆盖一切。露出的胎土像一小段山路，让目光从清凉的釉面，走回温暖的土地。",
+      "url": "/audio/narration/aea3a17509fc30b7fcaa.mp3"
+    },
+    {
+      "id": "919709bbcb4a32e67f43",
+      "section": "story",
+      "label": "观胎釉 · 1",
+      "text": "先看面容，再看衣饰。把目光停在两种颜色相遇的边缘，光滑与朴拙、清凉与温暖，便有了各自的声音。",
+      "url": "/audio/narration/919709bbcb4a32e67f43.mp3"
+    },
+    {
+      "id": "2ba03e1ec18cc89cbf70",
+      "section": "story",
+      "label": "观胎釉 · 2",
+      "text": "青隐说：“不必把所有地方都染成同一种颜色。那些留白，也能替我说话。”你轻轻转动它，原本平静的轮廓便在光里有了新的神情。",
+      "url": "/audio/narration/2ba03e1ec18cc89cbf70.mp3"
+    },
+    {
+      "id": "375ce9f1435f519f6391",
+      "section": "story",
+      "label": "观胎釉 · 说明",
+      "text": "釉色与胎色相接，像青山与泥土相依。",
+      "url": "/audio/narration/375ce9f1435f519f6391.mp3"
+    },
+    {
+      "id": "adb4b97746019f97f762",
+      "section": "story",
+      "label": "循窑火",
+      "text": "火把泥土送进漫长的变化。火色、温度与等待，合力留下青釉如玉的光泽。",
+      "url": "/audio/narration/adb4b97746019f97f762.mp3"
+    },
+    {
+      "id": "af246850d4eb5e5fd2ae",
+      "section": "story",
+      "label": "循窑火 · 1",
+      "text": "龙泉青瓷的传统烧制技艺，来自浙江龙泉。匠人对火候的把握，既依靠温度，也依靠对火焰颜色的观察。青色的出现，连着一代代人的经验。",
+      "url": "/audio/narration/af246850d4eb5e5fd2ae.mp3"
+    },
+    {
+      "id": "04adab5adc23a9dacbc9",
+      "section": "story",
+      "label": "循窑火 · 2",
+      "text": "青隐把窑想作一场长夜。火光在外面奔走，它在里面慢慢安静。等窑门再次打开，风从青色的衣纹上经过，像山间第一次吹来的晨风。",
+      "url": "/audio/narration/04adab5adc23a9dacbc9.mp3"
+    },
+    {
+      "id": "c78911f877e2717e8d82",
+      "section": "story",
+      "label": "循窑火 · 说明",
+      "text": "2009年，龙泉青瓷传统烧制技艺列入联合国教科文组织人类非物质文化遗产代表作名录。",
+      "url": "/audio/narration/c78911f877e2717e8d82.mp3"
+    },
+    {
+      "id": "7d62765219d2c90f3778",
+      "section": "story",
+      "label": "听青隐",
+      "text": "“你问我最喜欢哪一种青。我喜欢雨停之后，山还没有完全醒来的那一种。”",
+      "url": "/audio/narration/7d62765219d2c90f3778.mp3"
+    },
+    {
+      "id": "3081df95d4d0244546ce",
+      "section": "story",
+      "label": "听青隐 · 1",
+      "text": "有一天，青隐收到一片落叶。叶子问：“你经过那么热的火，为什么还是这样温柔？”青隐想了很久，答道：“也许是因为，火离开以后，我终于懂得珍惜每一阵凉风。”",
+      "url": "/audio/narration/3081df95d4d0244546ce.mp3"
+    },
+    {
+      "id": "4340d24cf4d33ef698f7",
+      "section": "story",
+      "label": "听青隐 · 2",
+      "text": "于是它把落叶留在身旁。白天听光走过，夜里听风绕行。等你走近，它便把这份慢慢积攒的安静，分一点给你。",
+      "url": "/audio/narration/4340d24cf4d33ef698f7.mp3"
+    },
+    {
+      "id": "082fae285b1e00453762",
+      "section": "story",
+      "label": "听青隐 · 说明",
+      "text": "经过火，也依然愿意温柔。",
+      "url": "/audio/narration/082fae285b1e00453762.mp3"
+    },
+    {
+      "id": "8c2ec0648f9366510b72",
+      "section": "story",
+      "label": "结语",
+      "text": "让青色安放目光，让泥土留住温度。",
+      "url": "/audio/narration/8c2ec0648f9366510b72.mp3"
+    },
+    {
+      "id": "857e0f05ba49df4609c5",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "从一捧泥土出发，走过窑火、山色与微光，最后停在你愿意驻足的这一刻。",
+      "url": "/audio/narration/857e0f05ba49df4609c5.mp3"
+    },
+    {
+      "id": "f3afdcb91f2b58e4c79f",
+      "section": "journey",
+      "label": "故事 · 塑形 · 泥土慢慢有了神情",
+      "text": "故事 · 塑形。泥土慢慢有了神情。故事从一捧湿润的泥土开始。手指轻轻推开轮廓，面容和衣纹逐渐清楚。我还没有青色，只先学会了安静地等待。",
+      "url": "/audio/narration/f3afdcb91f2b58e4c79f.mp3"
+    },
+    {
+      "id": "c5c30d4172078bebba13",
+      "section": "journey",
+      "label": "故事 · 窑夜 · 把一场长夜交给火",
+      "text": "故事 · 窑夜。把一场长夜交给火。想象窑火在黑夜中亮起，温度一点点上升。我把尚未说出口的话留在泥土里，等火光替它们找到新的颜色。",
+      "url": "/audio/narration/c5c30d4172078bebba13.mp3"
+    },
+    {
+      "id": "bd413927f3ca9c83eaeb",
+      "section": "journey",
+      "label": "故事 · 山色 · 一半青山，一半暖土",
+      "text": "故事 · 山色。一半青山，一半暖土。故事里的窑门终于打开。青釉像雨后山色停在衣间，露出的胎土却仍然暖着。原来经过同一场火，也可以留下两种温柔。",
+      "url": "/audio/narration/bd413927f3ca9c83eaeb.mp3"
+    },
+    {
+      "id": "c0406fdcbc3f12d9aafe",
+      "section": "journey",
+      "label": "2009 · 技艺传承 · 青色背后的手艺被世界看见",
+      "text": "2009 · 技艺传承。青色背后的手艺被世界看见。龙泉青瓷传统烧制技艺列入联合国教科文组织人类非物质文化遗产代表作名录。观火色、控温度的经验，连着匠人、家庭与城市的记忆。",
+      "url": "/audio/narration/c0406fdcbc3f12d9aafe.mp3"
+    },
+    {
+      "id": "1fe80960144e537581a1",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 让一束光重新经过衣纹",
+      "text": "2026 · 数字相逢。让一束光重新经过衣纹。你转动展台，青色便随目光流动。青隐在这里等你，从面容、衣纹到足下，把一场关于泥土与火的故事慢慢讲完。",
+      "url": "/audio/narration/1fe80960144e537581a1.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

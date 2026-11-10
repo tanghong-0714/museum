@@ -1,0 +1,17 @@
+{
+  "source_sha256": "054515d0a450afdfb0d37a826401a12f7d84d5eaffdfd0c4ea8ac7959a0a1d0d",
+  "source_triangles": 1940130,
+  "method": "UV-aware meshoptimizer simplification + meshopt compression; source normals retained",
+  "variants": [
+    {
+      "file": "phoenix-web-desktop.glb",
+      "triangles": 290866,
+      "bytes": 3313380
+    },
+    {
+      "file": "phoenix-web-mobile.glb",
+      "triangles": 287778,
+      "bytes": 2985624
+    }
+  ]
+}

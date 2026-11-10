@@ -1,0 +1,1000 @@
+{
+  "jobs": [
+    {
+      "id": "712c3c44-e999-4546-bd42-72d5d2c9a9a7",
+      "requestId": "56cbfe4b-689f-4c2f-bdca-cf9f9e6b6f15",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "state": "success",
+      "message": "四视图已就绪。检查各角度后，可直接用四视图建模。",
+      "taskId": "ed1f6912-a265-4b73-95b1-cf0eb4ce9b32",
+      "views": [
+        {
+          "view": "front",
+          "file": "712c3c44-e999-4546-bd42-72d5d2c9a9a7-front.jpg",
+          "mime": "image/jpeg",
+          "bytes": 278556
+        },
+        {
+          "view": "left",
+          "file": "712c3c44-e999-4546-bd42-72d5d2c9a9a7-left.jpg",
+          "mime": "image/jpeg",
+          "bytes": 232857
+        },
+        {
+          "view": "back",
+          "file": "712c3c44-e999-4546-bd42-72d5d2c9a9a7-back.jpg",
+          "mime": "image/jpeg",
+          "bytes": 289960
+        },
+        {
+          "view": "right",
+          "file": "712c3c44-e999-4546-bd42-72d5d2c9a9a7-right.jpg",
+          "mime": "image/jpeg",
+          "bytes": 249544
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T04:18:38.182Z",
+      "updatedAt": "2026-11-06T04:32:42.294Z",
+      "workspace": "quick",
+      "credits": 10
+    },
+    {
+      "id": "80adbed6-0e9f-4c91-9e0b-930709233a4c",
+      "requestId": "00ef4edf-554d-40ed-9010-c2a95ea32864",
+      "sourceJobId": "5326ee28-ba4c-4496-a0b1-33dd0b433771",
+      "source": {
+        "id": "28964f3d-7f8d-4d7a-9d24-207cfe1137df",
+        "name": "复原方案-5326ee28.png",
+        "mime": "image/png",
+        "bytes": 1923145,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "e13397b9-5fc3-494a-ae5a-a0b016009587"
+        ],
+        "createdAt": "2026-11-06T04:26:01.855Z",
+        "url": "/api/images/assets/28964f3d-7f8d-4d7a-9d24-207cfe1137df"
+      },
+      "state": "expired",
+      "message": "临时四视图已过期。",
+      "taskId": "0cd1c676-ae38-444c-8dbf-442239e0c757",
+      "views": [],
+      "progress": 100,
+      "createdAt": "2026-11-06T04:38:11.315Z",
+      "updatedAt": "2026-11-06T04:38:38.479Z",
+      "workspace": "quick",
+      "credits": 10
+    },
+    {
+      "id": "ed9b5799-accd-4d53-bb24-f1f35566836d",
+      "requestId": "83df335b-806e-45ee-bc17-e22f5a482a32",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "d705556a-dbaf-4467-adc6-319842436a0d",
+          "jobId": "8368d40e-1c83-43df-a947-a15b62edb916",
+          "state": "success",
+          "taskId": "207082226"
+        },
+        {
+          "view": "bottom",
+          "requestId": "ce71301f-ef20-46f3-b1d6-75f6ac774fac",
+          "jobId": "47cce3e9-19bd-436c-a904-8e99b9f63639",
+          "state": "success",
+          "taskId": "207083244"
+        },
+        {
+          "view": "left",
+          "requestId": "adbef187-5816-463c-8b87-6e29e445049e",
+          "jobId": "a56f22a6-b812-4881-a835-d9cf705a8160",
+          "state": "success",
+          "taskId": "207084060"
+        },
+        {
+          "view": "right",
+          "requestId": "0fb7c69a-361b-4677-9e58-ed4e7792bf47",
+          "jobId": "0d38b7f9-0c29-4fd5-93e6-11b49133f8c2",
+          "state": "success",
+          "taskId": "207084964"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用复原主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "ed9b5799-accd-4d53-bb24-f1f35566836d-top.png",
+          "mime": "image/png",
+          "bytes": 2030160,
+          "sha256": "8b6fd30259121479bc314df31a22f5f06653099ec878fbdd520734348fbaaf61"
+        },
+        {
+          "view": "bottom",
+          "file": "ed9b5799-accd-4d53-bb24-f1f35566836d-bottom.png",
+          "mime": "image/png",
+          "bytes": 2072565,
+          "sha256": "9b20667c4f94f24b7d30c8a27b583eb7414d7d5c1fa6a1a97b2a6c2794ff02fd"
+        },
+        {
+          "view": "left",
+          "file": "ed9b5799-accd-4d53-bb24-f1f35566836d-left.png",
+          "mime": "image/png",
+          "bytes": 1486272,
+          "sha256": "f891dc4aadf8b780c264b8040bdbfb7e7071cd1819a478c2b0b4da417716a3c8"
+        },
+        {
+          "view": "right",
+          "file": "ed9b5799-accd-4d53-bb24-f1f35566836d-right.png",
+          "mime": "image/png",
+          "bytes": 1541242,
+          "sha256": "2bf33ce84b2f950b85af491f8eab18877efb3d5c6fadcbce3d955a3c941ac0ce"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T04:46:30.389Z",
+      "updatedAt": "2026-11-06T04:49:08.570Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3",
+      "requestId": "4b781bde-b0d1-4d7a-8280-668a9d6bb800",
+      "sourceJobId": "18ab6312-cef4-4263-84f2-2244d4337a6b",
+      "source": {
+        "id": "f46ac44c-31cd-4759-b196-de3c710911f5",
+        "name": "复原方案-18ab6312.png",
+        "mime": "image/png",
+        "bytes": 2320546,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8cad3b6b-0ea3-463e-aadc-dda9b7382b7e"
+        ],
+        "createdAt": "2026-11-06T04:05:10.940Z",
+        "url": "/api/images/assets/f46ac44c-31cd-4759-b196-de3c710911f5"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "d705556a-dbaf-4467-adc6-319842436a0d",
+          "jobId": "8368d40e-1c83-43df-a947-a15b62edb916",
+          "state": "success",
+          "taskId": "207082226"
+        },
+        {
+          "view": "bottom",
+          "requestId": "ce71301f-ef20-46f3-b1d6-75f6ac774fac",
+          "jobId": "47cce3e9-19bd-436c-a904-8e99b9f63639",
+          "state": "success",
+          "taskId": "207083244"
+        },
+        {
+          "view": "left",
+          "requestId": "46d403b4-5036-4fac-8959-3594f20e02d3",
+          "jobId": "dece4b55-82e0-4e16-b779-8082bf506d4f",
+          "state": "success",
+          "taskId": "207093664"
+        },
+        {
+          "view": "right",
+          "requestId": "fe0c6b5d-09c4-4ddb-8346-0c0e6cc84371",
+          "jobId": "e4964816-cdb2-4ce3-8f95-18cd3599f316",
+          "state": "success",
+          "taskId": "207094398"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用复原主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3-top.png",
+          "mime": "image/png",
+          "bytes": 2030160,
+          "sha256": "8b6fd30259121479bc314df31a22f5f06653099ec878fbdd520734348fbaaf61"
+        },
+        {
+          "view": "bottom",
+          "file": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3-bottom.png",
+          "mime": "image/png",
+          "bytes": 2072565,
+          "sha256": "9b20667c4f94f24b7d30c8a27b583eb7414d7d5c1fa6a1a97b2a6c2794ff02fd"
+        },
+        {
+          "view": "left",
+          "file": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3-left.png",
+          "mime": "image/png",
+          "bytes": 1422062,
+          "sha256": "8227926be78a3c2e0bdcfaab5236e52570bb1a877047dbc40b4a9ca43ff88b9a"
+        },
+        {
+          "view": "right",
+          "file": "b79d9864-fa8b-4456-9ace-5ccc4bb1d0b3-right.png",
+          "mime": "image/png",
+          "bytes": 2091790,
+          "sha256": "98f05863049ac702b264ce2261842e0f39e9b60a3802ed0118d755c9e15b8672"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T04:55:22.934Z",
+      "updatedAt": "2026-11-06T04:56:32.222Z",
+      "workspace": "quick",
+      "priorId": "ed9b5799-accd-4d53-bb24-f1f35566836d",
+      "recovering": false
+    },
+    {
+      "id": "28c9f93f-9663-4093-aa70-c0e3269681b1",
+      "requestId": "cf09221e-6db3-44ee-815e-9b61329ffe24",
+      "sourceJobId": "e8bc5b63-3c5e-4cab-ab67-5e3ddba8806e",
+      "source": {
+        "id": "02339190-52ac-4bdb-8e7a-fb2c77b09b03",
+        "name": "复原方案-e8bc5b63.png",
+        "mime": "image/png",
+        "bytes": 2852387,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "20674c4d-cfb8-465b-85bc-9990d8c40159"
+        ],
+        "createdAt": "2026-11-06T06:15:11.017Z",
+        "url": "/api/images/assets/02339190-52ac-4bdb-8e7a-fb2c77b09b03"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "f21c371d-e653-4bd7-8d28-55efafab24e6",
+          "jobId": "22f998f3-c276-45b3-b2ab-717d07a1f4bd",
+          "state": "success",
+          "taskId": "207242982"
+        },
+        {
+          "view": "bottom",
+          "requestId": "a9b8cb33-fc63-4664-9c48-5566b055213a",
+          "jobId": "f84bc621-b5fb-48ce-ad75-c5e716b0003d",
+          "state": "success",
+          "taskId": "207244372"
+        },
+        {
+          "view": "left",
+          "requestId": "d403e9d9-b4b9-4acd-a2f4-fdce299af61f",
+          "jobId": "f49f8df9-0af0-4e7a-9bb9-b77f76c7e3a0",
+          "state": "success",
+          "taskId": "207246026"
+        },
+        {
+          "view": "right",
+          "requestId": "7c34dc7e-874d-414b-8447-974459e2ed66",
+          "jobId": "6d0715bc-88b1-4b96-ace6-28528960a4f1",
+          "state": "success",
+          "taskId": "207247742"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用复原主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "28c9f93f-9663-4093-aa70-c0e3269681b1-top.png",
+          "mime": "image/png",
+          "bytes": 1790540,
+          "sha256": "b7f4843014106ecc9ed1bb9c13eceb233dd1753a1eeccac2c96c3fb91b44cfcf"
+        },
+        {
+          "view": "bottom",
+          "file": "28c9f93f-9663-4093-aa70-c0e3269681b1-bottom.png",
+          "mime": "image/png",
+          "bytes": 1564288,
+          "sha256": "45c1fb3cb32a8952934bea0645d34311b7bc7f86ed970bb4a3669d23315c958d"
+        },
+        {
+          "view": "left",
+          "file": "28c9f93f-9663-4093-aa70-c0e3269681b1-left.png",
+          "mime": "image/png",
+          "bytes": 991785,
+          "sha256": "3f18848d9602e0a9981c3bf230e3707e102ebe4240faa69f0265d81d124d82e0"
+        },
+        {
+          "view": "right",
+          "file": "28c9f93f-9663-4093-aa70-c0e3269681b1-right.png",
+          "mime": "image/png",
+          "bytes": 1029979,
+          "sha256": "6888b09d2656134ac0bd32f3247ebfd5a1d8476e2f29fc015d6056252c548137"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T06:15:37.929Z",
+      "updatedAt": "2026-11-06T06:18:05.967Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "e5ba6ec8-73c9-4083-8314-4a190115e82b",
+      "requestId": "40651ed7-d67e-459e-a5af-49e50ae51008",
+      "sourceJobId": "05088c98-f941-4db4-beae-afd3c2928bd9",
+      "source": {
+        "id": "8bfda990-d450-4362-8616-8ebf3b1f7f33",
+        "name": "复原方案-05088c98.png",
+        "mime": "image/png",
+        "bytes": 468742,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "e638ecfb-0040-40d0-8bf4-cbfa825ecd53"
+        ],
+        "createdAt": "2026-11-06T06:44:55.632Z",
+        "url": "/api/images/assets/8bfda990-d450-4362-8616-8ebf3b1f7f33"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "2b83c721-c004-4da7-af32-d1f0f6fb2da3",
+          "jobId": "da789c09-b43f-43c0-b6cc-139334096bb3",
+          "state": "success",
+          "taskId": "207327864"
+        },
+        {
+          "view": "bottom",
+          "requestId": "99b7a603-f97d-4968-afea-43f9e9efe8d6",
+          "jobId": "487efaff-6255-4f9b-b71e-0dfbe9c6b4c0",
+          "state": "success",
+          "taskId": "207329562"
+        },
+        {
+          "view": "left",
+          "requestId": "f406bf39-dcdb-4e3a-a048-4b6e66772dc9",
+          "jobId": "e3fe0305-4898-4c07-8b6f-0f22c9cf3c01",
+          "state": "success",
+          "taskId": "207331188"
+        },
+        {
+          "view": "right",
+          "requestId": "6eca141e-d6e6-4d37-bfa1-96c07e9609d9",
+          "jobId": "a1908b06-71ee-4def-a8cf-2535877ad236",
+          "state": "success",
+          "taskId": "207332937"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用复原主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "e5ba6ec8-73c9-4083-8314-4a190115e82b-top.png",
+          "mime": "image/png",
+          "bytes": 1833144,
+          "sha256": "83c450c4442012010d81e4773890ee67f0294602319a0b759d129ad178a9a82d"
+        },
+        {
+          "view": "bottom",
+          "file": "e5ba6ec8-73c9-4083-8314-4a190115e82b-bottom.png",
+          "mime": "image/png",
+          "bytes": 1499238,
+          "sha256": "546b60c8f6faa8dda2d1339ee1a4df44c87ca6b6ff5c7c873dfa031e4a7f17c4"
+        },
+        {
+          "view": "left",
+          "file": "e5ba6ec8-73c9-4083-8314-4a190115e82b-left.png",
+          "mime": "image/png",
+          "bytes": 1338085,
+          "sha256": "80e1767cef673268c8c2cfe32c78457487c4220969a2bdb426e5bae7fb203e49"
+        },
+        {
+          "view": "right",
+          "file": "e5ba6ec8-73c9-4083-8314-4a190115e82b-right.png",
+          "mime": "image/png",
+          "bytes": 1350833,
+          "sha256": "43ab8fc8b400b3a9b7284ac1afcd3d6ed00ec9413a3765a5360c7bd5bfcd07a9"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T06:47:27.831Z",
+      "updatedAt": "2026-11-06T06:50:01.951Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e",
+      "requestId": "5e742d4f-6f92-4a18-adbd-2323213b7019",
+      "sourceJobId": "cd239336-8bc4-402c-a1b8-d01385a67528",
+      "source": {
+        "id": "e8b3d791-d813-46ad-b1c8-3df63b74c0ec",
+        "name": "复原方案-cd239336.png",
+        "mime": "image/png",
+        "bytes": 454241,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "93a3708d-a54b-4216-8bfd-194023730b6d"
+        ],
+        "createdAt": "2026-11-06T07:01:32.709Z",
+        "url": "/api/images/assets/e8b3d791-d813-46ad-b1c8-3df63b74c0ec"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "4852253d-8be5-4848-b009-36e0429d1e7c",
+          "jobId": "a249bc6d-a6b1-4bff-823b-06e238474257",
+          "state": "success",
+          "taskId": "207365065"
+        },
+        {
+          "view": "bottom",
+          "requestId": "540997b5-cf58-44d1-a658-4c923191c666",
+          "jobId": "ac4b34a0-6359-4418-aacf-11c93eb9e0aa",
+          "state": "success",
+          "taskId": "207366844"
+        },
+        {
+          "view": "left",
+          "requestId": "520ead09-5aa2-4de7-b971-ecede0d30c4a",
+          "jobId": "9a4a9dbc-1917-417a-9098-e694086d50d9",
+          "state": "success",
+          "taskId": "207368222"
+        },
+        {
+          "view": "right",
+          "requestId": "58489f81-00af-4a7f-9415-a62d0f47040e",
+          "jobId": "7dd95a84-02e7-40f5-8175-024663229fff",
+          "state": "success",
+          "taskId": "207369596"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用复原主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e-top.png",
+          "mime": "image/png",
+          "bytes": 1761151,
+          "sha256": "a3a40f4574414a1e725f814f22ddc5e573dcfb97769357d43a98bb47c5d590c8"
+        },
+        {
+          "view": "bottom",
+          "file": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e-bottom.png",
+          "mime": "image/png",
+          "bytes": 1850162,
+          "sha256": "d03638c127713dc8a8456d8aae572a6898dcd40f88d62460742694ee7aeb032f"
+        },
+        {
+          "view": "left",
+          "file": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e-left.png",
+          "mime": "image/png",
+          "bytes": 1623677,
+          "sha256": "2741decc468bbacfb5185758a67f396df6b0d115ba364d475be73815ed07ae31"
+        },
+        {
+          "view": "right",
+          "file": "1e507c6d-e43a-41ea-af10-96cb0ca2c77e-right.png",
+          "mime": "image/png",
+          "bytes": 1364628,
+          "sha256": "0dae84c7bb8abbf57d5709806141b23355c3cac136fcc554a086463bf6558564"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-06T07:01:42.050Z",
+      "updatedAt": "2026-11-06T07:04:17.625Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b",
+      "requestId": "ca0a71e6-6439-4c73-bbd9-803b2697c4c9",
+      "photoRequest": "{\"operation\":\"create\",\"priorId\":null,\"sourceAssetId\":\"b6126bbb-2333-4bb4-bb62-514c4790775f\",\"sourceJobId\":null,\"referenceViews\":[null,null,null],\"notes\":\"\",\"views\":null,\"view\":null,\"assetId\":null}",
+      "sourceAssetId": "b6126bbb-2333-4bb4-bb62-514c4790775f",
+      "source": {
+        "id": "b6126bbb-2333-4bb4-bb62-514c4790775f",
+        "name": "微信图片_20261105192839_2110_81.png",
+        "mime": "image/png",
+        "bytes": 464244,
+        "kind": "reference",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "b6126bbb-2333-4bb4-bb62-514c4790775f"
+        ],
+        "createdAt": "2026-11-06T09:47:59.353Z",
+        "url": "/api/images/assets/b6126bbb-2333-4bb4-bb62-514c4790775f"
+      },
+      "referenceViews": {},
+      "notes": "",
+      "viewSet": "photo",
+      "workspace": "quick",
+      "directions": [
+        {
+          "view": "left",
+          "requestId": "fb6d952d-1b9b-4631-9708-4f2d6a1621bd",
+          "submitted": true,
+          "jobId": "10aa3e16-4cb0-46a7-b146-701b28e60a42",
+          "state": "success",
+          "taskId": "207797892"
+        },
+        {
+          "view": "back",
+          "requestId": "5ba55ac6-4a9e-4622-bf1f-3e3304c892ff",
+          "submitted": true,
+          "jobId": "bbf9642e-752a-419f-8b33-4c2422c49920",
+          "state": "success",
+          "taskId": "207799388"
+        },
+        {
+          "view": "right",
+          "requestId": "b762828f-3a04-49ee-8d9e-11b008f820bc",
+          "submitted": true,
+          "jobId": "b125277d-5c7f-41a0-893c-870d9c7b1471",
+          "state": "success",
+          "taskId": "207804063"
+        }
+      ],
+      "views": [
+        {
+          "view": "front",
+          "file": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b-front.png",
+          "mime": "image/png",
+          "bytes": 464244,
+          "assetId": "b6126bbb-2333-4bb4-bb62-514c4790775f",
+          "provenance": "original",
+          "sha256": "f93fb7e7a98754c09f6716a3099b477286e9ee04e0d11fd81c3a43ec9ed99fe0"
+        },
+        {
+          "view": "left",
+          "file": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b-left.png",
+          "mime": "image/png",
+          "bytes": 1341977,
+          "assetId": "93c28e2e-a3e8-4d6d-ae49-252dc4b96bc8",
+          "provenance": "generated",
+          "sha256": "3f01795209b36170dbd6a16ee45cf224f9c54a4f31cbd7528390cc5c66cf936b"
+        },
+        {
+          "view": "back",
+          "file": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b-back.png",
+          "mime": "image/png",
+          "bytes": 1789639,
+          "assetId": "688ff8e6-390d-4d5f-a49a-5baaedd8101c",
+          "provenance": "generated",
+          "sha256": "21b9f47c1b7a999caabc5a350f0e947aa0694973fb2cc1076d825b38a34e98f7"
+        },
+        {
+          "view": "right",
+          "file": "7b6e84da-7221-42cb-91cf-b37dd0a49b9b-right.png",
+          "mime": "image/png",
+          "bytes": 1623801,
+          "assetId": "4299193d-6324-4ad6-b421-20acb1fbe817",
+          "provenance": "generated",
+          "sha256": "f88cf2c99d1ce21d3bd800523e5fe32c44b204fb538b3036c69f82172276e238"
+        }
+      ],
+      "state": "success",
+      "progress": 100,
+      "createdAt": "2026-11-06T09:48:35.686Z",
+      "updatedAt": "2026-11-06T09:52:13.598Z",
+      "message": "照片视图已保存，请核对实拍与推测视角后再决定是否建模。"
+    },
+    {
+      "id": "c0d76b63-6060-401a-9c96-42e9960ee0e2",
+      "requestId": "e5b34a96-7e49-4cd5-bcd9-263fa4a79607",
+      "sourceJobId": "02945835-1675-45ef-9249-12a3f44a7b78",
+      "objective": "restore",
+      "source": {
+        "id": "095a51e4-fdc8-4da8-82d7-8c32cc1f21f7",
+        "name": "复原方案-02945835.png",
+        "mime": "image/png",
+        "bytes": 2137836,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "c6d0c554-dae3-42e6-b18a-a1e3246bbccc"
+        ],
+        "createdAt": "2026-11-06T10:57:24.078Z",
+        "url": "/api/images/assets/095a51e4-fdc8-4da8-82d7-8c32cc1f21f7"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "29388ee7-ff66-41b2-a021-d3649215097d",
+          "jobId": "27116800-c709-4b7a-a353-16f3cb2e8bec",
+          "state": "success",
+          "taskId": "207928220"
+        },
+        {
+          "view": "bottom",
+          "requestId": "48b9c07d-fc3b-486a-8e12-3c40bb7532a2",
+          "jobId": "b36facc2-9f83-499a-b30f-abd2ec13e80d",
+          "state": "success",
+          "taskId": "207928962"
+        },
+        {
+          "view": "left",
+          "requestId": "d0dbf1e2-09d9-4c7f-b7f8-6595c958d536",
+          "jobId": "53cbe7db-5541-4c13-9e9d-582f5f33b5ee",
+          "state": "success",
+          "taskId": "207929726"
+        },
+        {
+          "view": "right",
+          "requestId": "b2ca288c-a48b-46d7-8942-1b225962dcee",
+          "jobId": "05bfc548-c89c-4d88-835e-a3fb6e6d4953",
+          "state": "success",
+          "taskId": "207931013"
+        }
+      ],
+      "state": "expired",
+      "message": "临时四视图已过期。",
+      "taskId": null,
+      "views": [],
+      "progress": 100,
+      "createdAt": "2026-11-06T11:07:34.536Z",
+      "updatedAt": "2026-11-06T11:11:08.792Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea",
+      "requestId": "433d9b9c-82e6-477f-8b9c-10d7ad5c55c5",
+      "sourceJobId": "40fb5f4c-5fce-4602-be27-fbd8bf60a471",
+      "objective": "restore",
+      "source": {
+        "id": "ed8377ee-2641-45ab-8bfd-d528e2031a2c",
+        "name": "复原方案-40fb5f4c.png",
+        "mime": "image/png",
+        "bytes": 323549,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "8013f8c5-2da1-4611-8d8d-bdbc750ba304"
+        ],
+        "createdAt": "2026-11-07T03:22:28.151Z",
+        "url": "/api/images/assets/ed8377ee-2641-45ab-8bfd-d528e2031a2c"
+      },
+      "viewSet": "vertical",
+      "directions": [
+        {
+          "view": "top",
+          "requestId": "d0049f67-f8f0-453d-91b5-fb663563ad1a",
+          "submitted": true,
+          "jobId": "c78531ee-b2e0-4fd9-8472-c25a2f143d90",
+          "state": "success",
+          "taskId": "208829313"
+        },
+        {
+          "view": "bottom",
+          "requestId": "075179b1-8de7-4afb-b10d-50166e153606",
+          "submitted": true,
+          "jobId": "8697a160-ee5b-4690-a8bc-839ae62de5e5",
+          "state": "success",
+          "taskId": "208829298"
+        },
+        {
+          "view": "left",
+          "requestId": "cea2d170-b24d-4213-9950-64382dfdcb4a",
+          "submitted": true,
+          "jobId": "26440824-9644-419a-8334-28d86a295da8",
+          "state": "success",
+          "taskId": "208829305"
+        },
+        {
+          "view": "right",
+          "requestId": "80562282-635e-456e-a9e3-98890cfaebd3",
+          "submitted": true,
+          "jobId": "4f986fd2-ed44-45a3-b2f6-d731b1cf36ff",
+          "state": "success",
+          "taskId": "208829304"
+        }
+      ],
+      "state": "success",
+      "message": "俯视、仰视、左侧、右侧已保存，请核对视角与器形一致性。建模使用主图＋左右图，上下图用于审阅。",
+      "taskId": null,
+      "views": [
+        {
+          "view": "top",
+          "file": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea-top.png",
+          "mime": "image/png",
+          "bytes": 1806579,
+          "sha256": "be03c7087f193aca0ae60656f54722ee50f4d7b859f025791d4e082ae2ae2303"
+        },
+        {
+          "view": "bottom",
+          "file": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea-bottom.png",
+          "mime": "image/png",
+          "bytes": 1731589,
+          "sha256": "e36d517e7645f6645be1bc675d92e66031472cf4f09795ad671af67f0650f3c2"
+        },
+        {
+          "view": "left",
+          "file": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea-left.png",
+          "mime": "image/png",
+          "bytes": 1135182,
+          "sha256": "f9904a5db83776f19ca4667c4f43f0068f7be3d3cfe6a0916c8c5d0ad8cafb11"
+        },
+        {
+          "view": "right",
+          "file": "b399cc46-b721-4cb7-a87f-cb977bd0c9ea-right.png",
+          "mime": "image/png",
+          "bytes": 1451365,
+          "sha256": "2a305c6b96fbf308e1643109436db76a44727d7ca0a1fdc07e77a7e51ce82715"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-07T03:22:39.020Z",
+      "updatedAt": "2026-11-07T03:24:08.470Z",
+      "workspace": "quick"
+    },
+    {
+      "id": "a9143715-de9c-4ff2-9db0-ec2dee65e5ed",
+      "requestId": "97d7b2cb-df00-4ded-af9e-0732cea9c860",
+      "sourceJobId": "132263a3-e8bd-43d4-b812-cf0af4a0fa8b",
+      "objective": "restore",
+      "source": {
+        "id": "1c1c4964-b7bf-4553-8b45-410454c241de",
+        "name": "复原方案-132263a3.png",
+        "mime": "image/png",
+        "bytes": 1875303,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "e7b84676-d38f-47d0-ab60-0ee6237f81ab"
+        ],
+        "createdAt": "2026-11-07T07:30:39.859Z",
+        "url": "/api/images/assets/1c1c4964-b7bf-4553-8b45-410454c241de"
+      },
+      "viewSet": "horizontal",
+      "orientationScheme": "turntable-v2",
+      "regenerateOf": null,
+      "directions": [],
+      "state": "success",
+      "message": "前、左、后、右已保存。请核对背面、侧面与姿态，再使用这一组视图建模。",
+      "taskId": "699a3fd0-f835-4d2f-9bc9-d7b7dff3b180",
+      "views": [
+        {
+          "view": "front",
+          "file": "a9143715-de9c-4ff2-9db0-ec2dee65e5ed-front.jpg",
+          "mime": "image/jpeg",
+          "bytes": 343690,
+          "sha256": "174888abe22880fdbd3af097e85f75b18e35e63f9a7ddc7b3446b7d16c40f8bb"
+        },
+        {
+          "view": "left",
+          "file": "a9143715-de9c-4ff2-9db0-ec2dee65e5ed-left.jpg",
+          "mime": "image/jpeg",
+          "bytes": 107941,
+          "sha256": "090a1bc1212785c8f8d7a7d378e6cccd0cf8307edcae93a7303eee7a86b2ecca"
+        },
+        {
+          "view": "back",
+          "file": "a9143715-de9c-4ff2-9db0-ec2dee65e5ed-back.jpg",
+          "mime": "image/jpeg",
+          "bytes": 308247,
+          "sha256": "b450ef155a3359e076b55935236cc0b4c44f1271194d734656cc85370455fbbd"
+        },
+        {
+          "view": "right",
+          "file": "a9143715-de9c-4ff2-9db0-ec2dee65e5ed-right.jpg",
+          "mime": "image/jpeg",
+          "bytes": 94506,
+          "sha256": "51f2940d8dc0c6e63677a46104a8f59cde0a45a011452433f714ea4a3be6cce3"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-07T07:34:28.191Z",
+      "updatedAt": "2026-11-07T07:35:19.383Z",
+      "workspace": "quick",
+      "credits": 10
+    },
+    {
+      "id": "6a3509aa-3c76-472a-b2cc-737e3651b4c8",
+      "requestId": "411fb34b-d422-47ed-bffe-d48caba5c3d9",
+      "sourceJobId": "ab8f5376-35e9-40b0-83dc-c1e50c4d4150",
+      "objective": "photo",
+      "source": {
+        "id": "ab405e00-1e75-424d-a872-c6891aed845b",
+        "name": "干净建模图-ab8f5376.png",
+        "mime": "image/png",
+        "bytes": 2447940,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "31ec5f00-7ff0-4d61-a8a4-563da4d8afd7"
+        ],
+        "createdAt": "2026-11-07T08:41:11.182Z",
+        "url": "/api/images/assets/ab405e00-1e75-424d-a872-c6891aed845b"
+      },
+      "viewSet": "horizontal",
+      "orientationScheme": "turntable-v2",
+      "regenerateOf": null,
+      "directions": [],
+      "state": "success",
+      "message": "前、左、后、右已保存。请核对背面、侧面与姿态，再使用这一组视图建模。",
+      "taskId": "3460b538-7cb1-4691-9fdf-ee7131a666d6",
+      "views": [
+        {
+          "view": "front",
+          "file": "6a3509aa-3c76-472a-b2cc-737e3651b4c8-front.jpg",
+          "mime": "image/jpeg",
+          "bytes": 233458,
+          "sha256": "ae5c37c3de051d426116a2f21705cb2a8abdedfb9e08a2a5eb3637e4cb1cf13d"
+        },
+        {
+          "view": "left",
+          "file": "6a3509aa-3c76-472a-b2cc-737e3651b4c8-left.jpg",
+          "mime": "image/jpeg",
+          "bytes": 179208,
+          "sha256": "37f4b382b80cb441791b433d310d3ad4e6dd9f53042279ea772d8faf1efdb954"
+        },
+        {
+          "view": "back",
+          "file": "6a3509aa-3c76-472a-b2cc-737e3651b4c8-back.jpg",
+          "mime": "image/jpeg",
+          "bytes": 218608,
+          "sha256": "cf9cf23daca4649f3d9f5552a03f29a70458c200f3445a661d4d991eab43f6b1"
+        },
+        {
+          "view": "right",
+          "file": "6a3509aa-3c76-472a-b2cc-737e3651b4c8-right.jpg",
+          "mime": "image/jpeg",
+          "bytes": 131422,
+          "sha256": "e8a1a6b10714a1cead5f39de3f203636a1b4ba5050e8f4a5083cf0de73f1e5b0"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-07T08:43:53.364Z",
+      "updatedAt": "2026-11-07T08:44:39.606Z",
+      "workspace": "quick",
+      "credits": 10
+    },
+    {
+      "id": "24757239-47af-4cc2-a032-ae27b8c7fe29",
+      "requestId": "095ac9e0-95f2-4b3c-a492-fdd39f3a9b00",
+      "sourceJobId": "77ba61a7-17ca-4c82-9364-cdaeba4750fe",
+      "objective": "restore",
+      "source": {
+        "id": "da3a6f29-a551-4769-815f-fd20cc801e6c",
+        "name": "复原方案-77ba61a7.png",
+        "mime": "image/png",
+        "bytes": 2723850,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "32fedfec-3cf2-4e02-82d1-8c3ab573c37e"
+        ],
+        "createdAt": "2026-11-07T08:47:42.101Z",
+        "url": "/api/images/assets/da3a6f29-a551-4769-815f-fd20cc801e6c"
+      },
+      "viewSet": "horizontal",
+      "orientationScheme": "turntable-v2",
+      "regenerateOf": null,
+      "directions": [],
+      "state": "success",
+      "message": "前、左、后、右已保存。请核对背面、侧面与姿态，再使用这一组视图建模。",
+      "taskId": "b1b8ebd9-1a28-48e1-aafa-7c51dcf7566b",
+      "views": [
+        {
+          "view": "front",
+          "file": "24757239-47af-4cc2-a032-ae27b8c7fe29-front.jpg",
+          "mime": "image/jpeg",
+          "bytes": 198519,
+          "sha256": "a41c8150f03ceef4c1d8966c40d781310b1aff61f4cac5ef6d1cea34406736a3"
+        },
+        {
+          "view": "left",
+          "file": "24757239-47af-4cc2-a032-ae27b8c7fe29-left.jpg",
+          "mime": "image/jpeg",
+          "bytes": 181279,
+          "sha256": "ffa5770bd7be8c9e8acd536ba5a56ede70427051bafca1d8c405058220490e0b"
+        },
+        {
+          "view": "back",
+          "file": "24757239-47af-4cc2-a032-ae27b8c7fe29-back.jpg",
+          "mime": "image/jpeg",
+          "bytes": 190214,
+          "sha256": "5c751dde36b62e4ce99c0ea92f19a138c6a670e320d882aafa24d2df9444aec0"
+        },
+        {
+          "view": "right",
+          "file": "24757239-47af-4cc2-a032-ae27b8c7fe29-right.jpg",
+          "mime": "image/jpeg",
+          "bytes": 151026,
+          "sha256": "d30a11f9f218939702168c40b99f19d899f3b589bbaa980893f7a760d91f1971"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-07T08:48:59.958Z",
+      "updatedAt": "2026-11-07T08:49:25.154Z",
+      "workspace": "quick",
+      "credits": 10
+    },
+    {
+      "id": "4ddc3567-ca36-4107-949f-4c2ff392467e",
+      "requestId": "53f3e58a-79f6-4513-b140-99408f2494ec",
+      "sourceJobId": "6cd7960f-f812-4fbf-9055-4b4e0c51210d",
+      "objective": "restore",
+      "source": {
+        "id": "b26d9d78-91c1-4d4a-b9bf-516361b380e5",
+        "name": "复原方案-6cd7960f.png",
+        "mime": "image/png",
+        "bytes": 1894464,
+        "kind": "result",
+        "derivedFrom": null,
+        "originalReferenceIds": [
+          "b74cd5ad-4d80-414a-980f-e74fdd3e8f1b"
+        ],
+        "createdAt": "2026-11-07T11:47:19.187Z",
+        "url": "/api/images/assets/b26d9d78-91c1-4d4a-b9bf-516361b380e5"
+      },
+      "viewSet": "horizontal",
+      "orientationScheme": "turntable-v2",
+      "regenerateOf": null,
+      "directions": [],
+      "state": "success",
+      "message": "前、左、后、右已保存。请核对背面、侧面与姿态，再使用这一组视图建模。",
+      "taskId": "31213f2b-4eb7-48d5-8705-6a4c9cac36aa",
+      "views": [
+        {
+          "view": "front",
+          "file": "4ddc3567-ca36-4107-949f-4c2ff392467e-front.jpg",
+          "mime": "image/jpeg",
+          "bytes": 314431,
+          "sha256": "de7f70cf3938a945f58dd4edfb8208dd47d46b1ea74180bfae27c0316b8b232a"
+        },
+        {
+          "view": "left",
+          "file": "4ddc3567-ca36-4107-949f-4c2ff392467e-left.jpg",
+          "mime": "image/jpeg",
+          "bytes": 97418,
+          "sha256": "6000d194807039e9ea9383a162da99f528eb9533a8de278c3d03f6249e191289"
+        },
+        {
+          "view": "back",
+          "file": "4ddc3567-ca36-4107-949f-4c2ff392467e-back.jpg",
+          "mime": "image/jpeg",
+          "bytes": 308409,
+          "sha256": "c0ed7a0f329f66ab941c284a3ad3fbde9466f5f2d3aad8001f7d38b3230abe84"
+        },
+        {
+          "view": "right",
+          "file": "4ddc3567-ca36-4107-949f-4c2ff392467e-right.jpg",
+          "mime": "image/jpeg",
+          "bytes": 77827,
+          "sha256": "0f4545f0347c949bda118488107fb33973b7b80c18a4463ad0b4ab12c641ccb2"
+        }
+      ],
+      "progress": 100,
+      "createdAt": "2026-11-07T11:47:33.508Z",
+      "updatedAt": "2026-11-07T11:47:58.784Z",
+      "workspace": "quick",
+      "credits": 10
+    }
+  ]
+}

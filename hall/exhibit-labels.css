@@ -1,0 +1,26 @@
+.exhibit-qr-hit,.exhibit-qr-hit:hover{position:fixed;z-index:24;transform:translate(-50%,-50%);padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;cursor:zoom-in;touch-action:manipulation}
+.exhibit-qr-hit:focus-visible{outline:2px solid #c8a76b;outline-offset:4px}
+.exhibit-qr-hit[hidden]{display:none}
+.exhibit-label-dialog{--card-paper:#f0e0c6;--card-ink:#634a37;--card-accent:#9c703f;--card-muted:#887668;box-sizing:border-box;width:min(420px,calc(100vw - 28px));max-width:none;max-height:calc(100dvh - 28px);overflow:auto;padding:26px 30px 22px;border:1px solid var(--card-accent);border-radius:5px;background:var(--card-paper);color:var(--card-ink);box-shadow:0 30px 100px #0009;font-family:"Microsoft YaHei",sans-serif;text-align:center}
+.exhibit-label-dialog::backdrop{background:#07100ddd;backdrop-filter:blur(5px)}
+.exhibit-card-background{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:.75}
+.exhibit-card-content{position:relative;z-index:1}
+.exhibit-label-dialog .exhibit-label-close{position:absolute;z-index:3;right:6px;top:6px;width:40px;height:40px;padding:0;border:0;background:transparent;color:var(--card-ink);font-size:27px;cursor:pointer}
+.exhibit-label-dialog .exhibit-label-kicker{margin:0 12px 13px;color:var(--card-muted);font-size:10px;letter-spacing:.17em}
+.exhibit-label-dialog h2{font-family:"Noto Serif SC",SimSun,serif;font-size:26px;font-weight:400;line-height:1.4;margin:0 0 7px;color:var(--card-ink);letter-spacing:.06em}
+.exhibit-label-dialog .exhibit-card-motto{font-family:"Noto Serif SC",SimSun,serif;font-size:12px;line-height:1.7;margin:0;color:var(--card-ink);opacity:.85}
+.exhibit-card-portrait{height:164px;margin:12px 0 10px;display:flex;align-items:center;justify-content:center}
+.exhibit-card-portrait img{display:block;max-width:88%;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 10px 13px #0002)}
+.exhibit-card-portrait img[hidden],.exhibit-card-image-fallback[hidden]{display:none}
+.exhibit-card-image-fallback{font-size:12px;color:var(--card-muted)}
+.exhibit-card-rule{display:flex;justify-content:space-between;padding-top:10px;border-top:1px solid color-mix(in srgb,var(--card-accent) 45%,transparent);margin-bottom:12px;font-size:10px;letter-spacing:.12em;color:var(--card-ink);opacity:.8}
+.exhibit-label-qr{width:200px;max-width:100%;margin:auto;background:#fff;box-shadow:0 0 0 1px #00000008}
+.exhibit-label-qr canvas{display:block;width:100%;height:auto;image-rendering:pixelated}
+.exhibit-label-dialog .exhibit-label-scan{font-size:11px;color:var(--card-ink);letter-spacing:.08em;margin:8px 0 0}
+.exhibit-label-dialog .exhibit-label-network{font-size:10px;line-height:1.6;color:var(--card-ink);opacity:.7;margin:8px 0 13px}
+.exhibit-label-dialog .exhibit-label-view{display:block;min-height:44px;width:100%;border:1px solid var(--card-accent);background:transparent;color:var(--card-ink);cursor:pointer;font-size:13px;letter-spacing:.08em}
+.exhibit-label-dialog .exhibit-label-view:hover{background:color-mix(in srgb,var(--card-accent) 14%,transparent)}
+body.has-readable-label .artifact-entry{bottom:238px}
+@media(max-width:600px){body.has-readable-label .artifact-entry{bottom:330px}}
+@media(max-width:480px){.exhibit-label-dialog{padding:24px 24px 20px}.exhibit-label-dialog h2{font-size:24px}.exhibit-card-portrait{height:146px}.exhibit-label-qr{width:200px}}
+@media(max-height:700px){.exhibit-card-portrait{height:100px}.exhibit-label-dialog{padding-top:20px}.exhibit-label-qr{width:180px}}

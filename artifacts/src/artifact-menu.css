@@ -1,0 +1,37 @@
+.artifact-picker{position:relative;min-width:0;--directory-bg:#102630}
+[data-theme=bronze] .artifact-picker,[data-theme=celadon] .artifact-picker{--directory-bg:#172e27}
+[data-theme=stone] .artifact-picker,[data-theme=speechless] .artifact-picker{--directory-bg:#252d27}
+[data-theme=pipa] .artifact-picker{--directory-bg:#2b2332}
+.header:has(#artifact-select[aria-expanded=true]){z-index:50}
+#experience #artifact-select{display:flex;align-items:center;justify-content:space-between;gap:14px;width:190px;max-width:190px;min-height:42px;padding:10px 14px;border:1px solid #d8c49d38;border-radius:12px;background:linear-gradient(125deg,#d9e3d90c,#ffffff02);color:#dce2d9;font-size:12px;letter-spacing:.04em;transition:border-color .2s,background .2s,box-shadow .2s}
+#artifact-select>span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#artifact-select>i{flex:none;width:6px;height:6px;border-right:1px solid var(--gold);border-bottom:1px solid var(--gold);transform:rotate(45deg) translateY(-2px);transition:transform .2s}
+#experience #artifact-select:hover,#experience #artifact-select[aria-expanded=true]{border-color:#d8c49d80;background:#cfb9870c;box-shadow:inset 0 1px #e6d9ba0d}
+#experience #artifact-select:focus-visible{outline:1px solid var(--gold);outline-offset:3px}
+#artifact-select[aria-expanded=true]>i{transform:rotate(225deg) translate(-1px,-1px)}
+.artifact-directory{position:absolute;right:0;top:calc(100% + 12px);width:332px;padding:17px 9px 9px;border:1px solid #c8b48b52;border-radius:18px;background:linear-gradient(145deg,#d6d9c908,transparent 45%),var(--directory-bg);box-shadow:0 20px 65px #0006,inset 0 1px #f7ecd110;animation:directory-in .18s ease-out;isolation:isolate}
+.artifact-directory-heading{display:flex;align-items:center;justify-content:space-between;margin:0 10px 10px;padding-bottom:12px;border-bottom:1px solid #c8b48b26;color:#dfd1b4;font:16px 'SimSun',serif;letter-spacing:3px}
+.artifact-directory-heading small{color:#91a39f;font:10px 'Microsoft YaHei',sans-serif;letter-spacing:1px}
+.artifact-directory-list{display:grid;gap:3px;max-height:min(494px,calc(100svh - 170px));overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#cdb99155 transparent;padding:2px}
+.header-actions .artifact-directory-item{display:flex;align-items:center;gap:12px;min-height:64px;padding:7px 10px;border:1px solid transparent;border-radius:11px;color:#d7dfda;transition:background .15s,border-color .15s}
+.artifact-directory-item>img{flex:none;width:40px;height:46px;object-fit:contain;background:radial-gradient(ellipse,#bccdc115,transparent 70%)}
+.artifact-directory-copy{flex:1;min-width:0;display:grid;gap:6px}
+.artifact-directory-copy strong{font-size:13px;font-weight:400;line-height:1.5;letter-spacing:.02em}
+.artifact-directory-copy small{font-size:10px;color:#8da5a4;letter-spacing:1px}
+.artifact-directory-marker{flex:none;color:#a5b5ad;font-size:13px}
+.artifact-directory-item[aria-current=page]{background:linear-gradient(110deg,#d0bb8922,#d0bb8908);border-color:#d0bb8940;color:#eddbb5}
+.artifact-directory-item[aria-current=page] .artifact-directory-marker{font-size:9px;color:#e1c894;border:1px solid #d0bb893d;border-radius:4px;padding:3px 5px;letter-spacing:1px}
+.header-actions .artifact-directory-item:hover,.header-actions .artifact-directory-item:focus-visible{background:#d0bb8917;border-color:#d0bb8955;color:#f0dfbd;outline-offset:-2px}
+@keyframes directory-in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:760px){
+ body:has(#artifact-select[aria-expanded=true]) .pp-launcher{visibility:hidden;pointer-events:none}
+ #experience #artifact-select{width:104px;max-width:104px;min-height:40px;padding:9px 10px;gap:9px;font-size:11px;border-radius:10px}
+ .artifact-directory{position:fixed;top:76px;left:12px;right:12px;width:auto;padding:18px 10px 10px;border-radius:18px;box-shadow:0 24px 64px #0009}
+ .artifact-directory-heading{font-size:18px;margin:0 10px 10px}
+ .artifact-directory-list{max-height:min(504px,calc(100svh - 154px - env(safe-area-inset-bottom)));gap:4px}
+ .header-actions .artifact-directory-item{min-height:66px;padding:8px 10px}
+ .artifact-directory-copy strong{font-size:14px}
+ .artifact-directory-copy small{font-size:11px}
+ .artifact-directory-item>img{width:42px;height:46px}
+}
+@media(prefers-reduced-motion:reduce){.artifact-directory{animation:none}#experience #artifact-select,#artifact-select>i,.artifact-directory-item{transition:none}}

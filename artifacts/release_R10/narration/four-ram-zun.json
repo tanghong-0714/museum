@@ -1,0 +1,217 @@
+{
+  "artifact": "four-ram-zun",
+  "title": "四羊方尊",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "db87de7c42329833d22b",
+      "section": "view",
+      "label": "四羊方尊",
+      "text": "四角守住一方天地，一束光，照见沉静的力量。",
+      "url": "/audio/narration/db87de7c42329833d22b.mp3"
+    },
+    {
+      "id": "62e4bb655dd7dee8a6d2",
+      "section": "view",
+      "label": "观器引导",
+      "text": "沿着方形口沿，看向四隅的羊首。转至斜侧，让器身与纹饰慢慢分开。",
+      "url": "/audio/narration/62e4bb655dd7dee8a6d2.mp3"
+    },
+    {
+      "id": "52a185b44937640c7f79",
+      "section": "view",
+      "label": "方形口沿",
+      "text": "方形口沿先把器物的方向交代出来。正面看是一道展开的边，转到斜上方，前后边线交错，开口的空间才慢慢显现。它像给复杂的器身立下一条清楚的秩序，让目光有一个可以返回的起点。",
+      "url": "/audio/narration/52a185b44937640c7f79.mp3"
+    },
+    {
+      "id": "cd613d62cf714e7575b9",
+      "section": "view",
+      "label": "方形口沿 · 试着这样看",
+      "text": "稍微抬高视角，找齐四边，再比较口沿与下方器身的宽度。",
+      "url": "/audio/narration/cd613d62cf714e7575b9.mp3"
+    },
+    {
+      "id": "b3b896af9ae6817c36e3",
+      "section": "view",
+      "label": "四隅羊首",
+      "text": "四隅的羊首让方器的转角变得生动。不要只盯着脸部，沿头部向后看，轮廓怎样与器肩相接，才是这一处最值得细读的关系。转至斜侧面，让羊首脱离器身背景，突出与收束便会更容易辨认。",
+      "url": "/audio/narration/b3b896af9ae6817c36e3.mp3"
+    },
+    {
+      "id": "2f2fe6548d4b56f9812d",
+      "section": "view",
+      "label": "四隅羊首 · 试着这样看",
+      "text": "把一角转向自己，沿羊首外缘观察，再比较相邻一角的朝向。",
+      "url": "/audio/narration/2f2fe6548d4b56f9812d.mp3"
+    },
+    {
+      "id": "40d934c3bfd321d92b2f",
+      "section": "view",
+      "label": "器身纹饰",
+      "text": "器壁上的纹饰随着方形结构展开，重复的线条与局部转折组成繁密的层次。先看较大的分区，再选一小片纹样细读，像先找到篇章、再读字句。侧光经过时，高低起伏会比正面颜色更有提示作用。",
+      "url": "/audio/narration/40d934c3bfd321d92b2f.mp3"
+    },
+    {
+      "id": "d572b89829c4311c2d50",
+      "section": "view",
+      "label": "器身纹饰 · 试着这样看",
+      "text": "选一处清晰纹样，慢慢侧转，比较它的凸起与周围凹处。",
+      "url": "/audio/narration/d572b89829c4311c2d50.mp3"
+    },
+    {
+      "id": "703c08c6f6f304551444",
+      "section": "view",
+      "label": "器足与承托",
+      "text": "从舒展的上部向下看，器身逐渐收束，最后落向承托的位置。这一段不如羊首醒目，却让整体比例安定下来。将上部和下部放在一起比较，方形轮廓中的宽窄变化，也会变成可以感受到的节奏。",
+      "url": "/audio/narration/703c08c6f6f304551444.mp3"
+    },
+    {
+      "id": "15baae24ad1ddcc2b2b5",
+      "section": "view",
+      "label": "器足与承托 · 试着这样看",
+      "text": "先看完整侧影，再移向下方，比较器足与器肩的宽窄关系。",
+      "url": "/audio/narration/15baae24ad1ddcc2b2b5.mp3"
+    },
+    {
+      "id": "2b3ff50afea0d1298d55",
+      "section": "story",
+      "label": "把目光交给四个角",
+      "text": "正面让你看见秩序，斜侧让你看见生命。方形的边线、羊首的曲线和器壁上的纹样，在一次缓慢的转动里，逐渐成为一个整体。",
+      "url": "/audio/narration/2b3ff50afea0d1298d55.mp3"
+    },
+    {
+      "id": "a0f841945f31b74ef59f",
+      "section": "story",
+      "label": "观方圆",
+      "text": "从一个角开始。让羊首的曲线越过方器的边线，立体的关系便清楚起来。",
+      "url": "/audio/narration/a0f841945f31b74ef59f.mp3"
+    },
+    {
+      "id": "1b7f06b2fa717817a638",
+      "section": "story",
+      "label": "观方圆 · 1",
+      "text": "先看整体轮廓，再转到斜侧。比较口沿、肩部、器腹和底部的宽窄变化，避免一开始就被细密纹样带走目光。",
+      "url": "/audio/narration/1b7f06b2fa717817a638.mp3"
+    },
+    {
+      "id": "0cedaa6e28238a482c14",
+      "section": "story",
+      "label": "观方圆 · 2",
+      "text": "羊首不是单独悬浮的装饰。观察它与器肩的连接，再把视线移回方形边界，就能读出动物形象与器物结构之间的配合。",
+      "url": "/audio/narration/0cedaa6e28238a482c14.mp3"
+    },
+    {
+      "id": "610e28d0bd4ea43464c1",
+      "section": "story",
+      "label": "观方圆 · 说明",
+      "text": "从方形看秩序，从曲线看生气。",
+      "url": "/audio/narration/610e28d0bd4ea43464c1.mp3"
+    },
+    {
+      "id": "b86f70fe858e21ba7837",
+      "section": "story",
+      "label": "循纹路",
+      "text": "把模型稍稍转动，让明暗沿器壁移动；凸起、凹陷与重复，会比正面照明更容易辨认。",
+      "url": "/audio/narration/b86f70fe858e21ba7837.mp3"
+    },
+    {
+      "id": "860a1c141aaf9d14a1ed",
+      "section": "story",
+      "label": "循纹路 · 1",
+      "text": "先找一组重复的线，再看它在哪里转折、在哪里遇见边角。不必给每一道纹立刻命名，观察本身就能建立对器物的认识。",
+      "url": "/audio/narration/860a1c141aaf9d14a1ed.mp3"
+    },
+    {
+      "id": "f2b22d59e58a85c02f1b",
+      "section": "story",
+      "label": "循纹路 · 2",
+      "text": "当前呈现来自用户提供的数字模型。贴图中的颜色和表面痕迹可以帮助观看，但不能据此判断青铜原物的成分、锈蚀年代或具体修复经过。",
+      "url": "/audio/narration/f2b22d59e58a85c02f1b.mp3"
+    },
+    {
+      "id": "6ab314e4e657500c5b22",
+      "section": "story",
+      "label": "循纹路 · 说明",
+      "text": "让光读出起伏，让距离读出整体。",
+      "url": "/audio/narration/6ab314e4e657500c5b22.mp3"
+    },
+    {
+      "id": "0e7ddd644407650d27cd",
+      "section": "story",
+      "label": "听肃礼",
+      "text": "“我站得很安静，不是没有话说，是想把四个方向的风都听完。”",
+      "url": "/audio/narration/0e7ddd644407650d27cd.mp3"
+    },
+    {
+      "id": "91a0fd64219f91b822b9",
+      "section": "story",
+      "label": "听肃礼 · 1",
+      "text": "想象展厅熄灯以后，肃礼把四个角当作四扇小窗。第一扇留给风，第二扇留给月亮，第三扇留给尚未讲完的故事。",
+      "url": "/audio/narration/91a0fd64219f91b822b9.mp3"
+    },
+    {
+      "id": "dd262eaba8aaa663debd",
+      "section": "story",
+      "label": "听肃礼 · 2",
+      "text": "最后一扇，它留给明天的观众。“你不必懂很多才来见我，”肃礼说，“只要愿意绕过一个角，就会发现新的样子。”",
+      "url": "/audio/narration/dd262eaba8aaa663debd.mp3"
+    },
+    {
+      "id": "746fc481cc3b010c3c7d",
+      "section": "story",
+      "label": "听肃礼 · 说明",
+      "text": "此段为器物拟人原创故事。",
+      "url": "/audio/narration/746fc481cc3b010c3c7d.mp3"
+    },
+    {
+      "id": "e9809cb47a7b8493c046",
+      "section": "story",
+      "label": "结语",
+      "text": "绕过一个角，再认识一次。",
+      "url": "/audio/narration/e9809cb47a7b8493c046.mp3"
+    },
+    {
+      "id": "6995b6d6f51dcd5deddb",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "这里记录的是原创想象与数字观看路线；未核实的原物履历不编入历史年表。",
+      "url": "/audio/narration/6995b6d6f51dcd5deddb.mp3"
+    },
+    {
+      "id": "24b96c59e0a3f3944bd8",
+      "section": "journey",
+      "label": "想象 · 开场之前 · 四个角的守望",
+      "text": "想象 · 开场之前。四个角的守望。想象展厅熄灯以后，肃礼把四个角当作四扇小窗。第一扇留给风，第二扇留给月亮，第三扇留给尚未讲完的故事。",
+      "url": "/audio/narration/24b96c59e0a3f3944bd8.mp3"
+    },
+    {
+      "id": "a784d3f5b01b345ae05f",
+      "section": "journey",
+      "label": "想象 · 与你相逢 · 留给你的那扇窗",
+      "text": "想象 · 与你相逢。留给你的那扇窗。故事继续：最后一扇，它留给明天的观众。“你不必懂很多才来见我，”肃礼说，“只要愿意绕过一个角，就会发现新的样子。”",
+      "url": "/audio/narration/a784d3f5b01b345ae05f.mp3"
+    },
+    {
+      "id": "b95f80ec420c6a4262b2",
+      "section": "journey",
+      "label": "观察 · 从整体到细节 · 方形与曲线",
+      "text": "观察 · 从整体到细节。方形与曲线。先看整体轮廓，再转到斜侧。比较口沿、肩部、器腹和底部的宽窄变化，避免一开始就被细密纹样带走目光。",
+      "url": "/audio/narration/b95f80ec420c6a4262b2.mp3"
+    },
+    {
+      "id": "973f9fdb3ff32ae39456",
+      "section": "journey",
+      "label": "2026 · 数字相逢 · 在屏幕前重新相见",
+      "text": "2026 · 数字相逢。在屏幕前重新相见。用户提供的四羊方尊模型进入本项目，可通过旋转、缩放与细节导引观看。模型的采集日期、真实尺寸和原物对应关系仍待核实。",
+      "url": "/audio/narration/973f9fdb3ff32ae39456.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

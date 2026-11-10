@@ -1,0 +1,11 @@
+#audio-volume-control{position:fixed;left:24px;bottom:28px;z-index:95;display:flex;align-items:center;gap:8px;width:164px;box-sizing:border-box;min-height:38px;padding:5px 10px;border:1px solid #bea56d55;border-radius:22px;background:#17241ce8;color:#dcc995;backdrop-filter:blur(10px);font:11px system-ui,sans-serif;box-shadow:0 3px 16px #0002}#audio-volume-control>span{font-size:15px}#audio-master-volume{min-width:0;width:84px;height:28px;margin:0;accent-color:#d5b978;cursor:pointer}#audio-master-volume:focus-visible{outline:2px solid #e4cd95;outline-offset:2px;border-radius:10px}#audio-volume-control output{min-width:31px;text-align:right;font-variant-numeric:tabular-nums}@media(max-width:760px){#audio-volume-control{left:12px;bottom:calc(190px + env(safe-area-inset-bottom));width:148px;min-height:40px;padding:4px 8px;gap:6px}#audio-master-volume{width:74px;height:32px}body:has(dialog[open]) #audio-volume-control{visibility:hidden}}
+
+
+#audio-volume-toggle{display:none}
+@media(max-width:760px){
+ #experience .view-tools #audio-volume-toggle{display:inline-flex;align-items:center;justify-content:center}
+ #audio-volume-control{display:none;left:auto;right:var(--volume-right,12px);bottom:var(--volume-bottom,150px);width:174px;min-height:44px;padding:6px 12px}
+ #audio-volume-control.is-open{display:flex}
+ #audio-master-volume{width:96px}
+ #performance-sound[aria-expanded=true],#audio-volume-toggle[aria-expanded=true]{background:#9e804744;border-color:#d5b978}
+}

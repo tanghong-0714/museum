@@ -1,0 +1,210 @@
+{
+  "artifact": "pipa-figurine",
+  "title": "彩绘陶弹琵琶女俑",
+  "voice": "云希 · 青年男声",
+  "items": [
+    {
+      "id": "c374521d5282f98bf907",
+      "section": "view",
+      "label": "彩绘陶弹琵琶女俑",
+      "text": "指尖停在一曲之间，余音刚好落向你。",
+      "url": "/audio/narration/c374521d5282f98bf907.mp3"
+    },
+    {
+      "id": "65072ccfc83e12313985",
+      "section": "view",
+      "label": "观器引导",
+      "text": "陶色留住衣褶，也留住抱琴的姿态。绕过一缕微光，听见静默中的回响。",
+      "url": "/audio/narration/65072ccfc83e12313985.mp3"
+    },
+    {
+      "id": "50801bcfceb73c88cae4",
+      "section": "view",
+      "label": "面容与发髻",
+      "text": "发髻先勾出头部轮廓，面容再从下方显露。头部微微倾向怀中的乐器，让这件静止的陶俑有了正在倾听的感觉。那是观看时产生的联想，真正可细看的，是头、颈与肩之间如何相接。",
+      "url": "/audio/narration/50801bcfceb73c88cae4.mp3"
+    },
+    {
+      "id": "4f987f80eed77a6fa0e2",
+      "section": "view",
+      "label": "面容与发髻 · 试着这样看",
+      "text": "沿发髻向面庞看，再比较头部倾斜方向与琵琶的方向。",
+      "url": "/audio/narration/4f987f80eed77a6fa0e2.mp3"
+    },
+    {
+      "id": "3830b115f8492ea745e5",
+      "section": "view",
+      "label": "怀中琵琶",
+      "text": "琵琶斜抱在身前，双手与乐器围出一组紧凑的关系。器身、琴颈和手臂的方向并不相同，却一起把视线带向演奏的位置。声音没有留下，姿态却让人忍不住想象下一下拨弦。",
+      "url": "/audio/narration/3830b115f8492ea745e5.mp3"
+    },
+    {
+      "id": "7ea5cb6325b4cbd4ce23",
+      "section": "view",
+      "label": "怀中琵琶 · 试着这样看",
+      "text": "先找出琴颈与琴身，再沿两只手的方向，看它们分别停在哪里。",
+      "url": "/audio/narration/7ea5cb6325b4cbd4ce23.mp3"
+    },
+    {
+      "id": "02bb8e2758668aa0014b",
+      "section": "view",
+      "label": "衣褶与陶色",
+      "text": "衣褶从身体转折处展开，到了下方又汇成较密的起伏。陶色在凸起处显亮、在缝隙里变深，像给衣料留下了轻重。现有色斑与纹理只按模型观看，不把它们当作原始彩绘的完整复原。",
+      "url": "/audio/narration/02bb8e2758668aa0014b.mp3"
+    },
+    {
+      "id": "e195b019002a71755ecc",
+      "section": "view",
+      "label": "衣褶与陶色 · 试着这样看",
+      "text": "沿一条衣褶向下，看看它如何与相邻褶线相遇，再转到侧面比较。",
+      "url": "/audio/narration/e195b019002a71755ecc.mp3"
+    },
+    {
+      "id": "0627c79479bbd5ca3b3d",
+      "section": "story",
+      "label": "把一曲留给路过的人",
+      "text": "指尖停住，衣褶仍像记得风的方向。她把琴抱得很近，却把一曲的余地留得很远：远到穿过安静的展厅，刚好让今天的你听见。",
+      "url": "/audio/narration/0627c79479bbd5ca3b3d.mp3"
+    },
+    {
+      "id": "5d28dfc58503d1efac64",
+      "section": "story",
+      "label": "望眉眼",
+      "text": "她没有催促下一声弦响。微光先走过发髻，再落到眉眼，像是等一个迟来的人坐稳，才肯继续这一曲。",
+      "url": "/audio/narration/5d28dfc58503d1efac64.mp3"
+    },
+    {
+      "id": "b0a14c33a0288919adcd",
+      "section": "story",
+      "label": "望眉眼 · 1",
+      "text": "在故事里的小小庭院，月亮还没有升高。弦月先抬眼看看门口，又把视线放回琴上。她总觉得，一首曲子开始以前，应该给晚到的人留一个不慌不忙的位置。",
+      "url": "/audio/narration/b0a14c33a0288919adcd.mp3"
+    },
+    {
+      "id": "66f508ca64443b76e054",
+      "section": "story",
+      "label": "望眉眼 · 2",
+      "text": "走近些，沿面容、发髻与肩线看过去。转动女俑，明暗会重新组织这份安静：有些角度像在倾听，有些角度又像刚刚记起一句话。",
+      "url": "/audio/narration/66f508ca64443b76e054.mp3"
+    },
+    {
+      "id": "d6b709cb2034b5d05c4e",
+      "section": "story",
+      "label": "望眉眼 · 说明",
+      "text": "一曲未起，先为你留一个位置。",
+      "url": "/audio/narration/d6b709cb2034b5d05c4e.mp3"
+    },
+    {
+      "id": "a7431bf5582a7e81fc86",
+      "section": "story",
+      "label": "循琴身",
+      "text": "怀中的琴把手势与身姿连成一句话。一只手留住方向，另一只手留住停顿，连沉默都像有了节拍。",
+      "url": "/audio/narration/a7431bf5582a7e81fc86.mp3"
+    },
+    {
+      "id": "996d85749a2d8b383c4d",
+      "section": "story",
+      "label": "循琴身 · 1",
+      "text": "想象晚风从门缝经过，琴声便追着它走出一点，又折回来。弦月不想把每个角落都填满；她知道，有时最动人的一瞬，是下一声还没有抵达。",
+      "url": "/audio/narration/996d85749a2d8b383c4d.mp3"
+    },
+    {
+      "id": "72cc0b21f70360b00e68",
+      "section": "story",
+      "label": "循琴身 · 2",
+      "text": "顺着抱琴的动作看，手、琴身与衣褶彼此呼应。乐器成为姿态的中心，也让陶俑的静止有了方向。把模型轻轻侧转，再看这几个轮廓如何相接。",
+      "url": "/audio/narration/72cc0b21f70360b00e68.mp3"
+    },
+    {
+      "id": "6c1b1557cf75bc9b71b6",
+      "section": "story",
+      "label": "循琴身 · 说明",
+      "text": "让一声落下，也让另一声有地方开始。",
+      "url": "/audio/narration/6c1b1557cf75bc9b71b6.mp3"
+    },
+    {
+      "id": "1a2a623d84fcff23b327",
+      "section": "story",
+      "label": "听弦月",
+      "text": "“如果今天没有好好说完一句话，就把它留在我的曲子里。”弦月把最后一个音放轻，等它慢慢走到你身旁。",
+      "url": "/audio/narration/1a2a623d84fcff23b327.mp3"
+    },
+    {
+      "id": "3b6251a0c6c6109102e5",
+      "section": "story",
+      "label": "听弦月 · 1",
+      "text": "故事里，庭院最后一位听众迟迟不肯离开。他说，自己走了一整天，仍不知道该把心事放在哪里。弦月没有问缘由，只把那一段曲子重新弹了一次。这一次，停顿比旋律还要长。",
+      "url": "/audio/narration/3b6251a0c6c6109102e5.mp3"
+    },
+    {
+      "id": "b74342f92bd92e97c27c",
+      "section": "story",
+      "label": "听弦月 · 2",
+      "text": "想象他终于起身时，月光恰好落在衣袖边缘。心事没有突然消失，却也不再挤成一团。弦月把琴抱回怀里：原来陪一个人坐一会儿，也可以是一首曲子。",
+      "url": "/audio/narration/b74342f92bd92e97c27c.mp3"
+    },
+    {
+      "id": "5f9310d63a955f62c189",
+      "section": "story",
+      "label": "听弦月 · 说明",
+      "text": "陪一个人坐一会儿，也可以是一首曲子。",
+      "url": "/audio/narration/5f9310d63a955f62c189.mp3"
+    },
+    {
+      "id": "a9c4c9d2af5d272ab2aa",
+      "section": "story",
+      "label": "结语",
+      "text": "曲子可以停，倾听不必散场。",
+      "url": "/audio/narration/a9c4c9d2af5d272ab2aa.mp3"
+    },
+    {
+      "id": "066a76160abb99c08df6",
+      "section": "journey",
+      "label": "时光足迹",
+      "text": "泥土留住姿态，衣袖收住晚霞。一曲沿着月光走来，在你的停留里，找到新的听众。",
+      "url": "/audio/narration/066a76160abb99c08df6.mp3"
+    },
+    {
+      "id": "2ae9d906be097f18d751",
+      "section": "journey",
+      "label": "故事 · 初塑 · 泥土记住一个停顿",
+      "text": "故事 · 初塑。泥土记住一个停顿。想象工坊的光渐渐落下，一双手最后理过衣褶，把抱琴的姿态留在柔软的泥里。她不曾开口，安静的轮廓却仿佛正等着下一声弦响。",
+      "url": "/audio/narration/2ae9d906be097f18d751.mp3"
+    },
+    {
+      "id": "6a353fb8996714afb4bf",
+      "section": "journey",
+      "label": "故事 · 着色 · 把晚霞收进衣袖",
+      "text": "故事 · 着色。把晚霞收进衣袖。故事里的匠人把一点温暖的颜色留在她身上。弦月觉得，那是晚霞从窗外捎来的信。等光走远，衣袖便替她把这一点暖意收好。",
+      "url": "/audio/narration/6a353fb8996714afb4bf.mp3"
+    },
+    {
+      "id": "24f5d3c992afa67b40e2",
+      "section": "journey",
+      "label": "故事 · 月下 · 为迟来的人留一曲",
+      "text": "故事 · 月下。为迟来的人留一曲。想象院中最后一盏灯还亮着，一个赶路的人才坐下。弦月把曲子从头弹起，没有问他为什么迟到，只让每一次停顿都比方才更从容。",
+      "url": "/audio/narration/24f5d3c992afa67b40e2.mp3"
+    },
+    {
+      "id": "5773c3bc72df3f6075c0",
+      "section": "journey",
+      "label": "故事 · 余音 · 没说完的话，也有归处",
+      "text": "故事 · 余音。没说完的话，也有归处。故事里的听众把心事放在一段长长的留白里。弦月说，曲子不一定要替人解开所有的结，只要让一个疲惫的人，愿意再听一会儿风。",
+      "url": "/audio/narration/5773c3bc72df3f6075c0.mp3"
+    },
+    {
+      "id": "9e49a5279a9ea64f9f43",
+      "section": "journey",
+      "label": "故事 · 相逢 · 这一曲，轮到你听",
+      "text": "故事 · 相逢。这一曲，轮到你听。想象月光穿过了很远的路，终于落到你面前。你转动她的身影，重新看见手势与衣纹。静止的琴不发出声音，这个故事却因为你的停留，又多了一位听众。",
+      "url": "/audio/narration/9e49a5279a9ea64f9f43.mp3"
+    },
+    {
+      "id": "190a290bec1752be12ea",
+      "section": "journey",
+      "label": "结语",
+      "text": "故事走到这里，与你相逢。",
+      "url": "/audio/narration/190a290bec1752be12ea.mp3"
+    }
+  ]
+}

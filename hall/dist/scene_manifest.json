@@ -1,0 +1,1471 @@
+{
+  "version": "R18-gallery-art-and-unlimited-look",
+  "storyEnabled": false,
+  "model": "museum_R18.glb",
+  "anchors": [
+    {
+      "id": "SLOT_Central ceremonial ding",
+      "kind": "artifact_slot",
+      "position": [
+        0,
+        0.92,
+        0
+      ]
+    },
+    {
+      "id": "SLOT_Left exhibit 1",
+      "kind": "artifact_slot",
+      "position": [
+        -5.6,
+        0.8,
+        6.6
+      ]
+    },
+    {
+      "id": "SLOT_Left exhibit 2",
+      "kind": "artifact_slot",
+      "position": [
+        -5.6,
+        0.8,
+        0
+      ]
+    },
+    {
+      "id": "SLOT_Left exhibit 3",
+      "kind": "artifact_slot",
+      "position": [
+        -5.6,
+        0.8,
+        -6.6
+      ]
+    },
+    {
+      "id": "SLOT_Right exhibit 1",
+      "kind": "artifact_slot",
+      "position": [
+        5.6,
+        0.8,
+        6.6
+      ]
+    },
+    {
+      "id": "SLOT_Right exhibit 2",
+      "kind": "artifact_slot",
+      "position": [
+        5.6,
+        0.8,
+        0
+      ]
+    },
+    {
+      "id": "SLOT_Right exhibit 3",
+      "kind": "artifact_slot",
+      "position": [
+        5.6,
+        0.8,
+        -6.6
+      ]
+    },
+    {
+      "id": "SLOT_Far gallery porcelain",
+      "kind": "artifact_slot",
+      "position": [
+        0,
+        0.8,
+        -20.7
+      ]
+    },
+    {
+      "id": "HOTSPOT_Story",
+      "kind": "story",
+      "position": [
+        0,
+        1.25,
+        -20.7
+      ]
+    },
+    {
+      "id": "SPAWN_Entrance",
+      "kind": "spawn",
+      "position": [
+        0,
+        1.75,
+        9.7
+      ]
+    },
+    {
+      "id": "VIEW_Hero",
+      "kind": "viewpoint",
+      "position": [
+        2.8,
+        1.75,
+        4.5
+      ]
+    },
+    {
+      "id": "VIEW_Cases",
+      "kind": "viewpoint",
+      "position": [
+        -2.7,
+        1.75,
+        -1.4
+      ]
+    },
+    {
+      "id": "VIEW_Story",
+      "kind": "viewpoint",
+      "position": [
+        0,
+        1.75,
+        -18.2
+      ]
+    }
+  ],
+  "colliders": [
+    {
+      "id": "COL_side_-1",
+      "center": [
+        -8.18,
+        2.9,
+        0
+      ],
+      "size": [
+        0.36,
+        5.8,
+        22.6
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_portal_-1_-11",
+      "center": [
+        -5.15,
+        2.9,
+        11
+      ],
+      "size": [
+        5.7,
+        5.8,
+        0.4
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_portal_-1_11",
+      "center": [
+        -5.15,
+        2.9,
+        -11
+      ],
+      "size": [
+        5.7,
+        5.8,
+        0.4
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_corridor_-1",
+      "center": [
+        -2.77,
+        2.9,
+        -16.5
+      ],
+      "size": [
+        0.34,
+        5.8,
+        11
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_side_1",
+      "center": [
+        8.18,
+        2.9,
+        0
+      ],
+      "size": [
+        0.36,
+        5.8,
+        22.6
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_portal_1_-11",
+      "center": [
+        5.15,
+        2.9,
+        11
+      ],
+      "size": [
+        5.7,
+        5.8,
+        0.4
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_portal_1_11",
+      "center": [
+        5.15,
+        2.9,
+        -11
+      ],
+      "size": [
+        5.7,
+        5.8,
+        0.4
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_corridor_1",
+      "center": [
+        2.77,
+        2.9,
+        -16.5
+      ],
+      "size": [
+        0.34,
+        5.8,
+        11
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_far_wall",
+      "center": [
+        0,
+        2.9,
+        -22.15
+      ],
+      "size": [
+        5.9,
+        5.8,
+        0.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_central_case",
+      "center": [
+        0,
+        0.46,
+        0
+      ],
+      "size": [
+        3.6,
+        0.92,
+        3.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Left exhibit 1",
+      "center": [
+        -5.6,
+        1.12,
+        6.6
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Left exhibit 2",
+      "center": [
+        -5.6,
+        1.12,
+        0
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Left exhibit 3",
+      "center": [
+        -5.6,
+        1.12,
+        -6.6
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Right exhibit 1",
+      "center": [
+        5.6,
+        1.12,
+        6.6
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Right exhibit 2",
+      "center": [
+        5.6,
+        1.12,
+        0
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Right exhibit 3",
+      "center": [
+        5.6,
+        1.12,
+        -6.6
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_Far gallery porcelain",
+      "center": [
+        0,
+        1.12,
+        -20.7
+      ],
+      "size": [
+        2.3,
+        2.24,
+        2.3
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_entrance_glass",
+      "center": [
+        0,
+        1.9,
+        11.02
+      ],
+      "size": [
+        4.6,
+        3.8,
+        0.04
+      ],
+      "rotationY": 0
+    },
+    {
+      "id": "COL_pilaster_-1_0",
+      "kind": "wall_pilaster",
+      "center": [
+        -7.7795000076293945,
+        2.8499999046325684,
+        10.699999809265137
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5159991302490248
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (-1, -10.7)",
+        "R14_Pilaster gold edge (-1, -10.7, -0.24)",
+        "R14_Pilaster gold edge (-1, -10.7, 0.24)",
+        "R14_Warm pilaster light (-1, -10.7)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_-1_0",
+      "kind": "column_base",
+      "center": [
+        -7.71999979019165,
+        0.17000000178813934,
+        10.699999809265137
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7239993133544935
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (-1, -10.7, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_-1_1",
+      "kind": "wall_pilaster",
+      "center": [
+        -7.7795000076293945,
+        2.8499999046325684,
+        3.5999999046325684
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5160000839233394
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (-1, -3.6)",
+        "R14_Pilaster gold edge (-1, -3.6, -0.24)",
+        "R14_Pilaster gold edge (-1, -3.6, 0.24)",
+        "R14_Warm pilaster light (-1, -3.6)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_-1_1",
+      "kind": "column_base",
+      "center": [
+        -7.71999979019165,
+        0.17000000178813934,
+        3.5999999046325684
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7240002670288082
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (-1, -3.6, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_-1_2",
+      "kind": "wall_pilaster",
+      "center": [
+        -7.7795000076293945,
+        2.8499999046325684,
+        -3.5999999046325684
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5160000839233394
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (-1, 3.6)",
+        "R14_Pilaster gold edge (-1, 3.6, -0.24)",
+        "R14_Pilaster gold edge (-1, 3.6, 0.24)",
+        "R14_Warm pilaster light (-1, 3.6)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_-1_2",
+      "kind": "column_base",
+      "center": [
+        -7.71999979019165,
+        0.17000000178813934,
+        -3.5999999046325684
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7240002670288082
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (-1, 3.6, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_-1_3",
+      "kind": "wall_pilaster",
+      "center": [
+        -7.7795000076293945,
+        2.8499999046325684,
+        -10.699999809265137
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5159991302490248
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (-1, 10.7)",
+        "R14_Pilaster gold edge (-1, 10.7, -0.24)",
+        "R14_Pilaster gold edge (-1, 10.7, 0.24)",
+        "R14_Warm pilaster light (-1, 10.7)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_-1_3",
+      "kind": "column_base",
+      "center": [
+        -7.71999979019165,
+        0.17000000178813934,
+        -10.699999809265137
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7239993133544935
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (-1, 10.7, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_-1_0",
+      "kind": "blue_light_column",
+      "center": [
+        -7.150000095367432,
+        2.810000091791153,
+        9.800000190734863
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1759989776611341
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (-1, 0)",
+        "R14_Blue digital waterfall (-1, 0)",
+        "R14_Blue curtain edge (-1, 0, -10.38)",
+        "R14_Blue curtain edge (-1, 0, -9.22)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_-1_1",
+      "kind": "blue_light_column",
+      "center": [
+        -7.150000095367432,
+        2.810000091791153,
+        3.5500000715255737
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1760001697540279
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (-1, 1)",
+        "R14_Blue digital waterfall (-1, 1)",
+        "R14_Blue curtain edge (-1, 1, -4.13)",
+        "R14_Blue curtain edge (-1, 1, -2.9699999999999998)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_-1_2",
+      "kind": "blue_light_column",
+      "center": [
+        -7.150000095367432,
+        2.810000091791153,
+        -3.5500000715255737
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1760001697540279
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (-1, 2)",
+        "R14_Blue digital waterfall (-1, 2)",
+        "R14_Blue curtain edge (-1, 2, 2.9699999999999998)",
+        "R14_Blue curtain edge (-1, 2, 4.13)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_-1_3",
+      "kind": "blue_light_column",
+      "center": [
+        -7.150000095367432,
+        2.810000091791153,
+        -9.800000190734863
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1759989776611341
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (-1, 3)",
+        "R14_Blue digital waterfall (-1, 3)",
+        "R14_Blue curtain edge (-1, 3, 9.22)",
+        "R14_Blue curtain edge (-1, 3, 10.38)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_-1_0",
+      "kind": "gallery_portal_pier",
+      "center": [
+        -2.305500030517578,
+        2.3499999046325684,
+        -10.719500064849854
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.40500002288818493
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (0, -1)",
+        "R14_Rear portal gold reveal (0, -1)",
+        "R14_Rear portal warm slot (0, -1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_-1_1",
+      "kind": "gallery_portal_pier",
+      "center": [
+        -2.305500030517578,
+        2.3499999046325684,
+        -14.269500255584717
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.40500002288818493
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (1, -1)",
+        "R14_Rear portal gold reveal (1, -1)",
+        "R14_Rear portal warm slot (1, -1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_-1_2",
+      "kind": "gallery_portal_pier",
+      "center": [
+        -2.305500030517578,
+        2.3499999046325684,
+        -17.819499969482422
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.4050009765624978
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (2, -1)",
+        "R14_Rear portal gold reveal (2, -1)",
+        "R14_Rear portal warm slot (2, -1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_-1_3",
+      "kind": "gallery_portal_pier",
+      "center": [
+        -2.305500030517578,
+        2.3499999046325684,
+        -21.319499969482422
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.4050009765624978
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (3, -1)",
+        "R14_Rear portal gold reveal (3, -1)",
+        "R14_Rear portal warm slot (3, -1)"
+      ]
+    },
+    {
+      "id": "COL_entrance_jamb_-1",
+      "kind": "entrance_jamb",
+      "center": [
+        -2.3337498903274536,
+        2.200000047683716,
+        10.893750190734863
+      ],
+      "size": [
+        0.25649981880187944,
+        4.404000095367431,
+        0.396499923706056
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Entrance warm light -1",
+        "R14_Entrance tall gold jamb -1"
+      ]
+    },
+    {
+      "id": "COL_pilaster_1_0",
+      "kind": "wall_pilaster",
+      "center": [
+        7.7795000076293945,
+        2.8499999046325684,
+        10.699999809265137
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5159991302490248
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (1, -10.7)",
+        "R14_Pilaster gold edge (1, -10.7, -0.24)",
+        "R14_Pilaster gold edge (1, -10.7, 0.24)",
+        "R14_Warm pilaster light (1, -10.7)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_1_0",
+      "kind": "column_base",
+      "center": [
+        7.71999979019165,
+        0.17000000178813934,
+        10.699999809265137
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7239993133544935
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (1, -10.7, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_1_1",
+      "kind": "wall_pilaster",
+      "center": [
+        7.7795000076293945,
+        2.8499999046325684,
+        3.5999999046325684
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5160000839233394
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (1, -3.6)",
+        "R14_Pilaster gold edge (1, -3.6, -0.24)",
+        "R14_Pilaster gold edge (1, -3.6, 0.24)",
+        "R14_Warm pilaster light (1, -3.6)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_1_1",
+      "kind": "column_base",
+      "center": [
+        7.71999979019165,
+        0.17000000178813934,
+        3.5999999046325684
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7240002670288082
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (1, -3.6, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_1_2",
+      "kind": "wall_pilaster",
+      "center": [
+        7.7795000076293945,
+        2.8499999046325684,
+        -3.5999999046325684
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5160000839233394
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (1, 3.6)",
+        "R14_Pilaster gold edge (1, 3.6, -0.24)",
+        "R14_Pilaster gold edge (1, 3.6, 0.24)",
+        "R14_Warm pilaster light (1, 3.6)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_1_2",
+      "kind": "column_base",
+      "center": [
+        7.71999979019165,
+        0.17000000178813934,
+        -3.5999999046325684
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7240002670288082
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (1, 3.6, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_1_3",
+      "kind": "wall_pilaster",
+      "center": [
+        7.7795000076293945,
+        2.8499999046325684,
+        -10.699999809265137
+      ],
+      "size": [
+        0.5249999084472661,
+        5.703999809265136,
+        0.5159991302490248
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Framed dark stone pilaster (1, 10.7)",
+        "R14_Pilaster gold edge (1, 10.7, -0.24)",
+        "R14_Pilaster gold edge (1, 10.7, 0.24)",
+        "R14_Warm pilaster light (1, 10.7)"
+      ]
+    },
+    {
+      "id": "COL_pilaster_base_1_3",
+      "kind": "column_base",
+      "center": [
+        7.71999979019165,
+        0.17000000178813934,
+        -10.699999809265137
+      ],
+      "size": [
+        0.7039998092651372,
+        0.2239999988079071,
+        0.7239993133544935
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Pilaster capital (1, 10.7, 0.17)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_1_0",
+      "kind": "blue_light_column",
+      "center": [
+        7.150000095367432,
+        2.810000091791153,
+        9.800000190734863
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1759989776611341
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (1, 0)",
+        "R14_Blue digital waterfall (1, 0)",
+        "R14_Blue curtain edge (1, 0, -10.38)",
+        "R14_Blue curtain edge (1, 0, -9.22)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_1_1",
+      "kind": "blue_light_column",
+      "center": [
+        7.150000095367432,
+        2.810000091791153,
+        3.5500000715255737
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1760001697540279
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (1, 1)",
+        "R14_Blue digital waterfall (1, 1)",
+        "R14_Blue curtain edge (1, 1, -4.13)",
+        "R14_Blue curtain edge (1, 1, -2.9699999999999998)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_1_2",
+      "kind": "blue_light_column",
+      "center": [
+        7.150000095367432,
+        2.810000091791153,
+        -3.5500000715255737
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1760001697540279
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (1, 2)",
+        "R14_Blue digital waterfall (1, 2)",
+        "R14_Blue curtain edge (1, 2, 2.9699999999999998)",
+        "R14_Blue curtain edge (1, 2, 4.13)"
+      ]
+    },
+    {
+      "id": "COL_blue_column_1_3",
+      "kind": "blue_light_column",
+      "center": [
+        7.150000095367432,
+        2.810000091791153,
+        -9.800000190734863
+      ],
+      "size": [
+        0.44399958038330034,
+        5.48400019788742,
+        1.1759989776611341
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Blue curtain projector (1, 3)",
+        "R14_Blue digital waterfall (1, 3)",
+        "R14_Blue curtain edge (1, 3, 9.22)",
+        "R14_Blue curtain edge (1, 3, 10.38)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_1_0",
+      "kind": "gallery_portal_pier",
+      "center": [
+        2.305500030517578,
+        2.3499999046325684,
+        -10.719500064849854
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.40500002288818493
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (0, 1)",
+        "R14_Rear portal gold reveal (0, 1)",
+        "R14_Rear portal warm slot (0, 1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_1_1",
+      "kind": "gallery_portal_pier",
+      "center": [
+        2.305500030517578,
+        2.3499999046325684,
+        -14.269500255584717
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.40500002288818493
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (1, 1)",
+        "R14_Rear portal gold reveal (1, 1)",
+        "R14_Rear portal warm slot (1, 1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_1_2",
+      "kind": "gallery_portal_pier",
+      "center": [
+        2.305500030517578,
+        2.3499999046325684,
+        -17.819499969482422
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.4050009765624978
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (2, 1)",
+        "R14_Rear portal gold reveal (2, 1)",
+        "R14_Rear portal warm slot (2, 1)"
+      ]
+    },
+    {
+      "id": "COL_portal_pier_1_3",
+      "kind": "gallery_portal_pier",
+      "center": [
+        2.305500030517578,
+        2.3499999046325684,
+        -21.319499969482422
+      ],
+      "size": [
+        0.3329999961853023,
+        4.703999809265136,
+        0.4050009765624978
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Rear portal dark pier (3, 1)",
+        "R14_Rear portal gold reveal (3, 1)",
+        "R14_Rear portal warm slot (3, 1)"
+      ]
+    },
+    {
+      "id": "COL_entrance_jamb_1",
+      "kind": "entrance_jamb",
+      "center": [
+        2.3337498903274536,
+        2.200000047683716,
+        10.893750190734863
+      ],
+      "size": [
+        0.25649981880187944,
+        4.404000095367431,
+        0.396499923706056
+      ],
+      "rotationY": 0,
+      "sources": [
+        "R14_Entrance warm light 1",
+        "R14_Entrance tall gold jamb 1"
+      ]
+    },
+    {
+      "id": "COL_central_inscription",
+      "kind": "exhibit_inscription",
+      "center": [
+        0.00008690357208251953,
+        0.46786957520058964,
+        1.7070000256132207
+      ],
+      "size": [
+        1.0660869398117065,
+        0.1761739368625791,
+        0.005200023351317862
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R14_Central_front_inscription"
+    },
+    {
+      "id": "COL_exhibit_plaque_1",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        -4.435849958132254,
+        0.4300000071525574,
+        6.599999904632568
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.5540000119209285
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_1_number_plaque"
+    },
+    {
+      "id": "COL_exhibit_plaque_2",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        -4.435849958132254,
+        0.4300000071525574,
+        0
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.554000011920929
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_2_number_plaque"
+    },
+    {
+      "id": "COL_exhibit_plaque_3",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        -4.435849958132254,
+        0.4300000071525574,
+        -6.599999904632568
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.5540000119209285
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_3_number_plaque"
+    },
+    {
+      "id": "COL_exhibit_plaque_4",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        4.435849958132254,
+        0.4300000071525574,
+        6.599999904632568
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.5540000119209285
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_4_number_plaque"
+    },
+    {
+      "id": "COL_exhibit_plaque_5",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        4.435849958132254,
+        0.4300000071525574,
+        0
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.554000011920929
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_5_number_plaque"
+    },
+    {
+      "id": "COL_exhibit_plaque_6",
+      "kind": "exhibit_number_plaque",
+      "center": [
+        4.435849958132254,
+        0.4300000071525574,
+        -6.599999904632568
+      ],
+      "size": [
+        0.02430008373549164,
+        0.27400001072883606,
+        0.5540000119209285
+      ],
+      "rotationY": 0,
+      "measuredNode": "Web_R17_Exhibit_6_number_plaque"
+    }
+  ],
+  "lights": [],
+  "layout": {
+    "shape": "axial_gallery",
+    "interiorWidth": 16,
+    "interiorDepth": 22,
+    "ceilingHeight": 5.8,
+    "mainBounds": [
+      -8,
+      8,
+      -11,
+      11
+    ],
+    "corridorBounds": [
+      -2.6,
+      2.6,
+      -22,
+      -11
+    ],
+    "entranceWidth": 4.6,
+    "entranceHeight": 3.8,
+    "doorLeafCount": 2,
+    "doorType": "center_sliding",
+    "doorSlideDistance": 2.26,
+    "doorPoint": [
+      0,
+      1.55,
+      10.94
+    ],
+    "sideExhibitCount": 6,
+    "centralExhibitCount": 1,
+    "artifactCount": 7,
+    "blankInformationPanelCount": 0,
+    "informationPanelCount": 0,
+    "exteriorBuildings": false
+  },
+  "views": {
+    "entrance": {
+      "p": [
+        0,
+        1.75,
+        9.7
+      ],
+      "t": [
+        0,
+        2,
+        -6
+      ]
+    },
+    "cases": {
+      "p": [
+        -2.7,
+        1.75,
+        -1.4
+      ],
+      "t": [
+        -5.6,
+        1.45,
+        0
+      ]
+    },
+    "hero": {
+      "p": [
+        2.8,
+        1.75,
+        4.5
+      ],
+      "t": [
+        0,
+        1.55,
+        0
+      ]
+    },
+    "story": {
+      "p": [
+        0,
+        1.75,
+        -18.2
+      ],
+      "t": [
+        0,
+        1.25,
+        -20.7
+      ]
+    }
+  },
+  "centralPlatform": {
+    "open": true,
+    "glass": false,
+    "artifactCount": 0,
+    "futureUse": "alternating_virtual_artifacts",
+    "inscription": "赋予文物新生",
+    "inscriptionFacing": "entrance",
+    "position": [
+      0,
+      0.92,
+      0
+    ]
+  },
+  "walkSettings": {
+    "minSpeed": 3,
+    "maxSpeed": 4,
+    "defaultSpeed": 4,
+    "step": 0.1
+  },
+  "informationPanels": [],
+  "architecturalCollision": {
+    "version": 1,
+    "proxyCount": 34,
+    "derivedFromMeshBounds": true,
+    "paddingMeters": 0.002
+  },
+  "doorAction": {
+    "afterFullyOpen": "return_to_welcome",
+    "resetVisit": true
+  },
+  "exhibits": [
+    {
+      "id": 1,
+      "label": "1号展柜 · 凤首扁壶",
+      "side": "left",
+      "position": [
+        -5.6,
+        1.2,
+        6.6
+      ],
+      "colliderId": "COL_Left exhibit 1",
+      "artifactId": "phoenix-ewer",
+      "targetHeight": 1.3
+    },
+    {
+      "id": 2,
+      "label": "2号展柜 · 青铜头像",
+      "side": "left",
+      "position": [
+        -5.6,
+        1.2,
+        0
+      ],
+      "colliderId": "COL_Left exhibit 2",
+      "artifactId": "bronze-head",
+      "targetHeight": 1.3
+    },
+    {
+      "id": 3,
+      "label": "3号展柜 · 八连弧纹铜镜",
+      "side": "left",
+      "position": [
+        -5.6,
+        1.2,
+        -6.6
+      ],
+      "colliderId": "COL_Left exhibit 3",
+      "artifactId": "cloud-mirror",
+      "targetHeight": 1.3
+    },
+    {
+      "id": 4,
+      "label": "4号展柜 · 菩萨立像",
+      "side": "right",
+      "position": [
+        5.6,
+        1.2,
+        6.6
+      ],
+      "colliderId": "COL_Right exhibit 1",
+      "artifactId": "liquan-bodhisattva",
+      "targetHeight": 1.3
+    },
+    {
+      "id": 5,
+      "label": "5号展柜 · 龙泉青瓷人物",
+      "side": "right",
+      "position": [
+        5.6,
+        1.2,
+        0
+      ],
+      "colliderId": "COL_Right exhibit 2",
+      "artifactId": "longquan-figure",
+      "targetHeight": 1.3
+    },
+    {
+      "id": 6,
+      "label": "6号展柜 · 弹琵琶女俑",
+      "side": "right",
+      "position": [
+        5.6,
+        1.2,
+        -6.6
+      ],
+      "colliderId": "COL_Right exhibit 3",
+      "artifactId": "pipa-figurine",
+      "targetHeight": 1.3
+    }
+  ],
+  "entrySequence": {
+    "outside": [
+      0,
+      1.75,
+      12.1
+    ],
+    "inside": [
+      0,
+      1.75,
+      9.7
+    ],
+    "lookAt": [
+      0,
+      1.75,
+      0
+    ],
+    "walkDuration": 1.8,
+    "waitForDoorFullyOpen": true,
+    "closeDoorAfterEntry": true,
+    "manualControlAfterCompletion": true
+  },
+  "paintings": [
+    {
+      "id": 1,
+      "title": "高逸图轴",
+      "side": "left",
+      "image": "r18/painting_1.jpg",
+      "source": "C:/Users/DELL/AppData/Local/Temp/codex-clipboard-c6ca875f-c7d6-40c2-b0e8-82c1b6aa2114.jpg",
+      "width": 1.56376953125,
+      "height": 3.35,
+      "position": [
+        -2.555,
+        2.65,
+        -12.55
+      ]
+    },
+    {
+      "id": 2,
+      "title": "菊石图",
+      "side": "left",
+      "image": "r18/painting_2.jpg",
+      "source": "C:/Users/DELL/AppData/Local/Temp/codex-clipboard-83244934-6cad-4387-85c2-2dfde9c2e9f4.jpg",
+      "width": 1.441772151898734,
+      "height": 3.35,
+      "position": [
+        -2.555,
+        2.65,
+        -16.1
+      ]
+    },
+    {
+      "id": 3,
+      "title": "林和靖诗意画轴",
+      "side": "right",
+      "image": "r18/painting_3.jpg",
+      "source": "C:/Users/DELL/AppData/Local/Temp/codex-clipboard-4258b192-a782-40dc-8e7f-8d53da7cb039.jpg",
+      "width": 1.959619140625,
+      "height": 3.35,
+      "position": [
+        2.555,
+        2.65,
+        -12.55
+      ]
+    },
+    {
+      "id": 4,
+      "title": "踏歌画轴",
+      "side": "right",
+      "image": "r18/painting_4.jpg",
+      "source": "C:/Users/DELL/AppData/Local/Temp/codex-clipboard-9443c39f-fab9-4af9-a7ff-8d466fd7cb21.jpg",
+      "width": 1.6512630930375847,
+      "height": 3.35,
+      "position": [
+        2.555,
+        2.65,
+        -16.1
+      ]
+    }
+  ],
+  "observationTargets": {
+    "hero": {
+      "id": "hero",
+      "label": "中央主展",
+      "side": "front",
+      "position": [
+        0,
+        0.92,
+        0
+      ],
+      "distance": 4.4,
+      "lateral": 1.45,
+      "targetHeight": 0.84
+    },
+    "story": {
+      "id": "story",
+      "label": "无语佛 · 后方展柜",
+      "side": "front",
+      "position": [
+        0,
+        0.8,
+        -20.7
+      ],
+      "distance": 3.15,
+      "lateral": 0.82,
+      "targetHeight": 1.36,
+      "artifactId": "speechless-buddha"
+    }
+  }
+}
